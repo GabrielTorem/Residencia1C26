@@ -1,0 +1,25 @@
+(Hutcheon, 2000, p. 8). In other words, “in its ironic ‘transcontextualization’ and inversion,” parody is “repetition with
+
+[critical] difference” (Hutcheon, 2000, p. 32). Hutcheon speculates that the ubiquity of parody in postmodern world could be traced to “a crisis in the entire notion of the subject as a coherent and continuous source of signiﬁcation” (2000, p. 5). As Arthur Kroker also notes, the situation of postmodernity involves humans who are “[n]o longer the Cartesian thinking subject,… but a fractal subjectivity in an ultramodern culture where panic science is the language of power” (1987, p. 181). Both the Gothic and postmodernism exploit exaggeration and intertextuality to produce a polemic relationality to another discourse. Moreover, the parodic effects of both the Gothic and postmodernism show a consistent concern with the failure and disintegration of the humanist subject. Their combination affords the author an opportunity to “speak to a discourse from *within* it” (Hutcheon,
+
+1985, p. 35; italics in the original) by relying on the difference between “parodic foreground and parodied background that is ironically played upon” (Hutcheon, 2000, p. 31). This “dialogic, parodic reappropriation of the past” (Hutcheon, 2000, p. 72),
+
+4
+
+which corresponds to the Gothic as also a “reappropriation of the past” (Punter, 1996a, p. 27), makes a statement about the present as well. As Robert Miles argues, “the Gothic is a discursive site, a carnivalesque mode for representations of the fragmented subject” (1993, p. 4). In other words, as two comparable discursive sites, postmodernism and the Gothic rework and synthesize the past and the present with critical intent. Nevertheless, it bears noting that the Gothic is not a mere ﬁctional reﬂection but, rather, a forerunner in the struggle to tackle the growing horror of
+
+ﬂoundering “masternarratives about humanity” (Halberstam and Livingston, 1995, p. 4). According to Jerold E. Hogle, Kristeva argues that “grotesques” were “explicitly created to embody [the] contradictions” and indeterminacy of our identities (2002, p. 7), or in Beville’s terms, “those obstacles to subjective knowledge and the creation of coherent identity” (2009, p. 39). In fact, as David Punter and Glennis Byron note,
+
+The distortion of perspective which is a constant hallmark of Gothic ﬁction ﬁnds a further ‘home’ in the postmodern, and… this twist of history has precisely to do… with the Gothic’s ‘origin’ as a counter-discourse to the modernizing impulse of the Enlightenment, and with postmodernism’s complex rebuttal and development of Modernism’s own post-Enlightenment progressive dictates. (2004, p. 53)
+
+As a result, it is easy to discern how the parody embedded in both the Gothic and postmodernism could be trained at the *Bildungsroman* with its humanistic conception of subjectivity.
+
+Now that a synergic relationship between the Gothic and postmodernism has been established through their mutual engagement with terror, human subjectivity, and parody, these elements and their function can be examined in McCarthy’s *Child of God*, which this study considers a postmodern Gothic novel that makes a statement about the present through a parodic reappropriation of the humanist *Bildungsroman*.
+
+In order to establish a link between *Child of God* and the tradition of the *Bildungsroman*, an examination of the characteristics of the Bildungsroman and their compatibility with the novel would be vital. As stated above, the primary features of the Bildungsroman on which this study draws are those proposed by Dilthey. G. B. Tennyson enumerates the ﬁve main characteristics Dilthey attributes to the Bildungsroman in the chapter entitled
+
+“Friedrich Hölderlin” in his *Poetry and Experience* as follows:
+
+:::{.Quotation centered}
+(1) the idea of <u>Bildung</u>, or formation… shaping of a single main character, normally of a young man; (2) individualism, especially the emphasis on the uniqueness of the protagonist and the primacy of his private life and thoughts, although these are at the same time representative of an age and culture; (3) the biographical element… in what Dilthey calls the ‘conscious and artistic presentation of what is typically human through the depiction of a particular individual life’; (4) the connection with psychology, especially the then-new psychology of development; and (5) the ideal of humanity, of the full realization of all human potential as the goal of life.’ (1968, p. 136)
+:::

@@ -1,0 +1,23 @@
+According to Beville, the terror of the Gothic, “often inherent in its monsters and othered bodies, functions as a deconstructive counter-narrative which presents the darker side of subjectivity, the ghosts of otherness that haunt our fragile selves” (2009, p. 41).
+
+The enunciation of the sublime effects of terror is the “primary function” of both Gothic rhetoric and postmodernist literature, both of which can be perceived as routes to “the unknown, unrepresentable aspects of self and reality” (Beville, 2009, p. 15).
+
+Accordingly, presenting a hybrid mode that “emerges from the dialogic interaction of Gothic and postmodernist characteristics in a given text” (2009, p. 9), Beville contends that the Gothic serves “as the clearest mode of expression in literature for voicing the terrors of postmodernity; a mode that is far from dead and in fact rejuvenated in the present context of increased global terrorism” (Beville, 2009, p. 8). However, as Catherine Spooner points out, the components of the Gothic can be “reordered in inﬁnite combinations, because they provide a lexicon that can be plundered for a hundred different purposes, a crypt of body parts that can be stitched together in myriad different permutations”
+
+(2006, p. 156). Thus, unlike Beville who analyses postmodern texts that are characteristically Gothic (2009, p. 10), this study regards *Child of God* as a primarily Gothic text that is embedded in a postmodern context, which, according to Jean Baudrillard, is also “a culture of death” (1993, p. 127). Postmodernism can be regarded as being similarly concerned with “excess, anxiety, fear and death” (Beville, 2009, p. 11). Baudrillard notes, however, that this death does not simply affect “a subject or a body” as “the real event” but is “a form in which the determinacy of the subject and of value is lost” (1993, p. 5). Therefore, in the postmodern world, identity “is untenable: it is death” (Baudrillard, 1993, p. 4). Furthermore, the Gothic “fascination with terror, the negative and the irrational, and its hostility toward accepted codes of reality, place it ﬁrmly in the realm of revolution,” and what makes it more “terrifying is that this revolution is against humanity itself”
+
+(Beville, 2009, p. 19). According to Fred Botting, the Gothic
+
+“shadow[s] the progress of modernity with counter-narratives displaying the underside of enlightenment and humanist values”
+
+(2005, p. 1). In other words, the Gothic “condenses the many perceived threats to these values, threats associated with… imaginative excesses and delusions,… human evil, social transgression, mental disintegration and spiritual corruption” (2005, p. 1).
+
+The Gothic, Botting continues, “remains fascinated by objects and practices that are constructed as negative, irrational, immoral and fantastic” (2005, p. 1). Accordingly, both the Gothic and postmodernism disrupt “the narrative construction of the [humanistic] self” and undermine its validity in their idiosyncratic contexts (Beville, 2009, p. 16). Botting suggests that the imbrication between the postmodern and the Gothic transpires with
+
+“[t]he loss of human identity and the alienation of the self from both itself and the social bearings in which a sense of reality is secured,” materializing “in the threatening shapes of increasingly dehumanized environments… and violent, psychotic fragmentation” (2005, p. 102). A fusion of Gothic and postmodern characteristics can, therefore, synergize their effects and better voice the more recent terrors of the postmodern age, whereby the inherent hybridity of the fusion echoes the liminality of the postmodern subject. Nevertheless, the current study also establishes a connection between the two based on another common and equally hybridizing, denominator, namely parody.
+
+As Leslie Fiedler argues, “the Gothic mode is a form of parody, which carries out its attacks through exaggeration to the limit of grotesqueness” (1960, p. 406). This study expands on the parodic nature of the Gothic by forging a complementary link with Hutcheon’s notion of postmodern parody. In A Poetics of Postmodernism (1988), Hutcheon explores the role of parody in postmodern ﬁction, maintaining that it is “a perfect postmodern form” as it “paradoxically both incorporates and challenges that which it parodies” (2004, p. 11). For Hutcheon, postmodern parody does not rely on humour to provide playful pleasure.
+
+Rather, the pleasure of its irony comes from “the degree of engagement of the reader in the intertextual ‘bouncing’… between complicity and distance” (Hutcheon, 2000, p. 32). Thus,
+
+Hutcheon deﬁnes parody as “a stylistic confrontation, a modern recoding which establishes difference at the heart of similarity”

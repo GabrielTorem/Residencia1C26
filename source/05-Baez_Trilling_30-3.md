@@ -1,0 +1,13 @@
+H. H.’s adoration of *Lolita*, and against the background of his sexual greed, whfch he calls “ape-like,” it comes over us as another reason for being shocked, that in recent fiction no lover has thought of his beloved with so much tenderness, that no woman has been so charmingly evoked, in such grace and delicacy, as Lolita; the description of her tennis game, in which even her racket has an erotic charm, is one of the few examples of rapture in modern writing.
+
+It seems to me that it is impossible to miss the parti pris in Mr. Nabokov’s archaeological undertaking, the impulse to mock and discredit all forms of progressive rationalism not only because they are stupid in themselves but because they have brought the madness of love to an end. But
+
+Mr. Nabokov is not partisan to the point of being dishonest about the true nature of love. It is H. H., that mixture of ferocity and jocularity, who reminds us that “Love seeketh only self to please... . And builds a Hell in
+
+Heaven s despite.
+
+The passages in which Humbert gives voice to this judgment are not as well done as one might wish; they stand in an awkward relation to the tone and device of the book. Yet perhaps for that very reason they are the more startling and impressive (if we do not read them in a mood which makes them seem to verge upon the maudlin).
+
+And in the end H. H. succumbs, and happily, to the dialectic of the history of love. I have represented passion-love as being the antithesis of marriage and as coming to an end when the conditions characteristic of marriage impose themselves, by whatever means, upon the lovers. Yet it is always to marriage that passion-love aspires, unique marriage, ideal marriage, marriage available to no other pair, but marriage nonetheless, with all the cramping vows and habitualness of marriage. And it is just this that
+
+H. H. eventually desires. Mr. Nabokov is, among his other accomplishments, an eminent entomologist and I shall leave it to some really rigorous close reader of fiction to tell us what an entomological novelist wants us to do with the fact that *nymph* is the name for the young of an insect without complete metamorphosis. Probably nothing. But he is also a scholar of languages and he knows that *nymph* is the Greek word for bride. He does not impart this information to us, yet he is at pains, as I have remarked, to put us in mind of the rapturous, tortured marriage of Poe and Virginia, and one of his last meditations on *Lolita* is of the constancy she evokes from him despite the ravages of time having destroyed the old incitements to lust:
