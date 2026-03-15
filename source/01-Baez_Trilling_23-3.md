@@ -1,8 +1,8 @@
 *The Last Lover: Vladimir Nabokov’s *Lolita* [^1]
 
-*Lionel Trilling
+*Lionel Trilling*
 
-Lolita* is about love. Perhaps I shall be better understood if I put the statement in this form: Lolita is not about sex, but about love. Almost every page sets forth some explicit erotic emotion or some overt erotic action and still it is not about sex. It is about love.
+*Lolita* is about love. Perhaps I shall be better understood if I put the statement in this form: Lolita is not about sex, but about love. Almost every page sets forth some explicit erotic emotion or some overt erotic action and still it is not about sex. It is about love.
 
 This makes it unique in my experience of contemporary novels. If our fiction gives accurate testimony, love has disappeared from the Western world, just as Denis de Rougemont said it should. The contemporary novel can tell us about sex, and about sexual communion, and about mutuality, and about the strong fine relationships that grow up between men and women; and it can tell us about marriage. But about love, which was once one of its chief preoccupations, it can tell us nothing at all.
 
