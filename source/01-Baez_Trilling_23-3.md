@@ -1,6 +1,6 @@
 *The Last Lover: Vladimir Nabokov’s *Lolita* [^1]
 
-Lionel Trilling
+*Lionel Trilling
 
 Lolita* is about love. Perhaps I shall be better understood if I put the statement in this form: Lolita is not about sex, but about love. Almost every page sets forth some explicit erotic emotion or some overt erotic action and still it is not about sex. It is about love.
 
