@@ -1,0 +1,23 @@
+1).
+
+The Gothic, Botting continues, “remains fascinated by objects and practices that are constructed as negative, irrational, immoral and fantastic” (2005, p. 1). Accordingly, both the Gothic and postmodernism disrupt “the narrative construction of the [humanistic] self” and undermine its validity in their idiosyncratic contexts (Beville, 2009, p. 16). Botting suggests that the imbrication between the postmodern and the Gothic transpires with
+
+“[t]he loss of human identity and the alienation of the self from both itself and the social bearings in which a sense of reality is secured,” materializing “in the threatening shapes of increasingly dehumanized environments… and violent, psychotic fragmentation” (2005, p. 102). A fusion of Gothic and postmodern characteristics can, therefore, synergize their effects and better voice the more recent terrors of the postmodern age, whereby the inherent hybridity of the fusion echoes the liminality of the postmodern subject. Nevertheless, the current study also establishes a connection between the two based on another common and equally hybridizing, denominator, namely parody.
+
+As Leslie Fiedler argues, “the Gothic mode is a form of parody, which carries out its attacks through exaggeration to the limit of grotesqueness” (1960, p. 406). This study expands on the parodic nature of the Gothic by forging a complementary link with Hutcheon’s notion of postmodern parody. In A Poetics of Postmodernism (1988), Hutcheon explores the role of parody in postmodern ﬁction, maintaining that it is “a perfect postmodern form” as it “paradoxically both incorporates and challenges that which it parodies” (2004, p. 11). For Hutcheon, postmodern parody does not rely on humour to provide playful pleasure.
+
+Rather, the pleasure of its irony comes from “the degree of engagement of the reader in the intertextual ‘bouncing’… between complicity and distance” (Hutcheon, 2000, p. 32). Thus,
+
+Hutcheon deﬁnes parody as “a stylistic confrontation, a modern recoding which establishes difference at the heart of similarity”
+
+(Hutcheon, 2000, p. 8). In other words, “in its ironic ‘transcontextualization’ and inversion,” parody is “repetition with
+
+[critical] difference” (Hutcheon, 2000, p. 32). Hutcheon speculates that the ubiquity of parody in postmodern world could be traced to “a crisis in the entire notion of the subject as a coherent and continuous source of signiﬁcation” (2000, p. 5). As Arthur Kroker also notes, the situation of postmodernity involves humans who are “[n]o longer the Cartesian thinking subject,… but a fractal subjectivity in an ultramodern culture where panic science is the language of power” (1987, p. 181). Both the Gothic and postmodernism exploit exaggeration and intertextuality to produce a polemic relationality to another discourse. Moreover, the parodic effects of both the Gothic and postmodernism show a consistent concern with the failure and disintegration of the humanist subject. Their combination affords the author an opportunity to “speak to a discourse from *within* it” (Hutcheon,
+
+1985, p. 35; italics in the original) by relying on the difference between “parodic foreground and parodied background that is ironically played upon” (Hutcheon, 2000, p. 31). This “dialogic, parodic reappropriation of the past” (Hutcheon, 2000, p. 72),
+
+4
+
+
+
+which corresponds to the Gothic as also a “reappropriation of the past” (Punter, 1996a, p. 27), makes a statement about the present as well. As Robert Miles argues, “the Gothic is a discursive site, a carnivalesque mode for representations of the fragmented subject” (1993, p. 4). In other words, as two comparable discursive sites, postmodernism and the Gothic rework and synthesize the past and the present with critical intent.

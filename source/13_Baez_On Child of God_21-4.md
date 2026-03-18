@@ -1,0 +1,27 @@
+4). Underscoring the pivotal roles of character and setting in the Gothic, Punter and Byron maintain that there is “a double sense of dislocated space and threatened subjectivity” in postmodern Gothic (2004, p. 51). Similarly, as it will be indicated in the following sections, the Gothic elements turning the wheels of postmodern parody in *Child of God*
+
+
+
+ARTICLE
+
+
+
+materialize, for the most part, in the setting and the monstrous characterization of the protagonist, who follows a path toward becoming posthuman, which the novel equates with monstrosity. It bears noting that the primacy of the setting and characterization in the Gothic corresponds to the dominance of the same components in the *Bildungsroman*, making them an apt target for parody.
+
+## Degeneration and Gothic space in *Child of God*
+
+As K.L. Poe points out, the setting is “[c]rucial to the narrative structure of the *Bildungsroman*” so much so that it is “practically a character itself” (2002, p. 147; italics in the original). The series of settings in the Bildungsroman usually follow a “controlled sequence… each a further step towards the harmonious and meaningful integration of the… individual into society” (Ehland,
+
+2003, p. 92). A cognate concern with the setting feeds into both the Gothic and postmodernism insofar as “the complications of postmodern writing, particularly in the areas of subjectivity and location (the inner and outer worlds), reﬂect back onto and into the Gothic” (Punter and Byron, 2004, p. 53). The Gothic setting usually deals either in “claustrophobia, so often the obvious image for the repressed and dislocated psyche,” or “in anxieties about being… dwarfed into insigniﬁcance by [nature]” (Punter, 1996b, p. 81). Both effects can be found in the spatial setting of *Child of God*, in whose procession the typical progressive setting of the *Bildungsroman* is subverted. Nevertheless, even though there are scenes when Ballard is dwarfed by nature,2 the Gothic setting in the novel primarily serves a playfully specular purpose for the reﬂection of the growing alienation and degenerative journey of the protagonist. Images of decay pervade Ballard’s surroundings.
+
+The novel opens with a scene in which the narrator compares the auctioneer’s voice to “a ghost chorus among old ruins” (p. 10).
+
+The “empty shell of a house” Ballard squats (p. 33) is strewn with
+
+“old newspapers,” “dried dung of foxes and possums,” and “bits of brickcolored mud fallen from the board ceiling with their black husks pupae” (p. 16). There is “a spider hung” in the chimney, which reeks of “a rank odour of earth and old woodsmoke,” and the ﬂoor of the hearth is “ashy” (p. 16). Other houses also evoke images of decay and degeneration. For example, when Ballard stops by Ralph’s house and brings a robin for Billy, the place is described thus: “familiar of the warped ﬂoorboards and the holes tacked up with foodtins hammered ﬂat, a consort of roaches and great hairy spiders in their season, perenially benastied and afﬂicted with a nameless crud” (p. 60). As Jarrett notes, McCarthy’s setting functions both as “realistic regional detail and as universal symbols of postmodern contemporary existence” (1993, p. 47). The ruined house, for instance, is a recycled Gothic image indicative of contemporary alienation. Cars are also described as
+
+“degenerate” (p. 25), leaving “coiling dust” behind (p. 33), or
+
+“rusting” in a corner (p. 32). The ashy snow, too, is a Gothic
+
+“palimpsest” revealing “old buried wanderings, struggles, [and] scenes of death” (p. 106). Nevertheless, it is not only that the novel is riddled with Gothic images of decay, but that an incremental degeneration pervading the Gothic setting feeds the parodic effect of the novel by undermining the advancement of the narrative toward positive progress and social integration.
