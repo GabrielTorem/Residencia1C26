@@ -11,6 +11,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Lionel Trilling</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="borrar" changedate="20260402T144713Z" creationid="borrar" creationdate="20260402T144713Z">
+        <seg>Lionel Trilling</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segmento traducido como muestra</note>
       <tuv lang="en-US">
         <seg>The Last Lover:</seg>
