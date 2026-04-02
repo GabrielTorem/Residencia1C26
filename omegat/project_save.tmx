@@ -5,6 +5,13 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>about</note>
+      <tuv lang="en-US">
+        <seg>It is about love.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Segmento traducido como muestra</note>
       <tuv lang="en-US">
         <seg>The Last Lover:</seg>
       </tuv>
