@@ -83,6 +83,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T002315Z" creationid="tg" creationdate="20260403T002315Z">
+        <seg>Pero </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But about love, which was once one of its chief preoccupations, it can tell us nothing at all.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T215510Z" creationid="A" creationdate="20260402T215510Z">
@@ -116,10 +124,11 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>H.</seg>
+        <seg>H.’s adoration of *Lolita*, and against the background of his sexual greed, whfch he calls “ape-like,” it comes over us as another reason for being shocked, that in recent fiction no lover has thought of his beloved with so much tenderness, that no woman has been so charmingly evoked, in such grace and delicacy, as Lolita; the description of her tennis game, in which even her racket has an erotic charm, is one of the few examples of rapture in modern writing.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260403T001955Z" creationid="tg" creationdate="20260403T001955Z">
-        <seg>.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T002140Z" creationid="tg" creationdate="20260403T002140Z">
+        <seg>H. hacia Lolita, y contra el trasfondo de su codicia sexual, que él llama «simiesca», nos impacta como otro motivo para escandalizarnos, que en la ficción más reciente ningún amante ha pensado en su amada con tanta ternura, que ninguna mujer ha sido evocada de manera tan encantadora, con tanta gracia y delicadeza, como Lolita; la descripción de su juego de tenis, en la que incluso su raqueta tiene un encanto erótico, es uno de los pocos ejemplos de éxtasis en la literatura moderna.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -179,6 +188,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T215228Z">
         <seg>Trata sobre el amor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It seems to me that it is impossible to miss the parti pris in Mr. Nabokov’s archaeological undertaking, the impulse to mock and discredit all forms of progressive rationalism not only because they are stupid in themselves but because they have brought the madness of love to an end.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T002212Z" creationid="tg" creationdate="20260403T002212Z">
+        <seg>Me parece que es imposible pasar por alto el parti pris en la tarea arqueológica del señor Nabokov, el impulso de burlarse y desacreditar todas las formas de racionalismo progresista, no solo porque son estúpidas en sí mismas, sino porque han puesto fin a la locura del amor.
+</seg>
       </tuv>
     </tu>
     <tu>
