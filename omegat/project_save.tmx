@@ -6,6 +6,15 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>## The *Bildungsroman* and the humanist tradition</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T203128Z" creationid="tg" creationdate="20260403T203128Z">
+        <seg>El Bildungsroman y la tradición humanista.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Liber Amoris* with some graduate students and found that they had no understanding whatever of Hazlitt’s obsessive commitment to Sarah Walker.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T001250Z" creationid="tg" creationdate="20260403T001250Z">
@@ -51,6 +60,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T191305Z" creationid="Soundwave" creationdate="20260403T191305Z">
         <seg>Según Rosi Braidotti, el humanismo «combina la expansión biológica, discursiva y moral de las capacidades humanas en una idea de progreso racional teleológicamente orientado» (2013, p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>According to Tobias Boes, the term Bildungsroman was ﬁrst coined by a professor of rhetoric called Karl Morgenstern in a lecture entitled</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T203312Z" creationid="tg" creationdate="20260403T203312Z">
+        <seg>El profesor de retórica Karl Morgensten acuña el término Bildungsroman por primera vez en una conferencia dictada en 1810 titulada</seg>
       </tuv>
     </tu>
     <tu>
@@ -209,6 +226,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T221107Z" creationid="A" creationdate="20260402T221107Z">
         <seg>Por ende, lo incorporaron al propio matrimonio y exigieron que el amor conyugal tuviera el mismo esplendor y significado que el amor apasionado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, as it will be indicated, the postmodern Gothic nature of the novel undercuts any optimistic vision of the posthuman alternative in the wake of the dissolution of humanist subjectivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T203105Z" creationid="tg" creationdate="20260403T203105Z">
+        <seg>Además, como se indicará más adelante, la naturaleza gótica posmoderna de la novela socava cualquier visión optimista de la alternativa poshumana tras la disolución de la subjetividad humanista.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -428,6 +454,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lastly, by tracing the protagonist’s ironically degenerative process of becoming a posthuman monster, which is represented through contributive Gothic elements deployed in the setting and characterization of the novel, it will be shown that *Child of God* is a postmodern parody of the humanist tradition of the Bildungsroman.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T203028Z" creationid="tg" creationdate="20260403T203028Z">
+        <seg>Por último, al rastrear el proceso irónicamente degenerativo del protagonista en su transformación en un monstruo poshumano, que se representa mediante elementos góticos que contribuyen a la utilización del escenario y a la caracterización de la novela, se demostrará que Hijo de Dios es una parodia posmoderna de la tradición humanista de la novela de formación o Bildungsroman.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lionel Trilling</seg>
       </tuv>
       <tuv lang="es-ES" changeid="borrar" changedate="20260402T144713Z" creationid="borrar" creationdate="20260402T144713Z">
@@ -555,6 +590,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T001227Z" creationid="tg" creationdate="20260403T001227Z">
         <seg>Hace poco, leí </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save for the German origin of the term *Bildungsroman*, virtually every other aspect of the genre has been open to debate.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T203210Z" creationid="tg" creationdate="20260403T203210Z">
+        <seg>Salvo por el origen alemán del término Bildungsroman, prácticamente todos los demás aspectos del género han sido objeto de debate.</seg>
       </tuv>
     </tu>
     <tu>
