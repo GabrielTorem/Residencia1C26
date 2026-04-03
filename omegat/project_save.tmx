@@ -6,6 +6,15 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>*Liber Amoris* with some graduate students and found that they had no understanding whatever of Hazlitt’s obsessive commitment to Sarah Walker.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T001250Z" creationid="tg" creationdate="20260403T001250Z">
+        <seg>Liber Amoris con algunos estudiantes de posgrado y comprobé que no tenían la más mínima comprensión del compromiso obsesivo de Hazlitt hacia Sarah Walker.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*Lolita* is about love.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T215106Z" creationid="A" creationdate="20260402T215106Z">
@@ -178,6 +187,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nowadays we find it difficult to give credence to the idea that a man might feel that his reason and his very life depended on the response to him of a particular woman.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T001153Z" creationid="tg" creationdate="20260403T001153Z">
+        <seg>Hoy en día, nos resulta difícil dar crédito a la idea de que un hombre pudiera sentir que su razón y su propia vida dependían de la respuesta que le diera una mujer en particular.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nowadays we use the word chiefly to mean an intense feeling, forgetting the old distinction between a passion and an emotion, the former being an emotion before which we are helpless, which we have to *suffer*, in whose grip we are *passive.*</seg>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T221546Z" creationid="A" creationdate="20260402T221546Z">
@@ -206,6 +224,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T221215Z" creationid="A" creationdate="20260402T221215Z">
         <seg>Tal vez lo que ambos hoy tienen en común es la convicción de que los amantes deben elegirse con libertad, y de que esa elección tiene gran aceptación y no debe ser objeto de intromisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recently I read</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T001227Z" creationid="tg" creationdate="20260403T001227Z">
+        <seg>Hace poco, leí </seg>
       </tuv>
     </tu>
     <tu>
@@ -332,6 +358,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T221319Z" creationid="A" creationdate="20260402T221319Z">
         <seg>Seguiría un período en el que marido y mujer se esforzarían por librarse de los sentimientos “meramente simbólicos” del uno hacia la otra, y por aprender a verse “sin ilusiones” y tal cual son “en realidad”. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They could see no reason why a man could not break the chains of a passion so unrewarding, so humiliating.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260403T001316Z" creationid="tg" creationdate="20260403T001316Z">
+        <seg>No veían razón para que un hombre no pudiera romper las cadenas de una pasión tan poco gratificante, tan humillante.
+</seg>
       </tuv>
     </tu>
     <tu>
