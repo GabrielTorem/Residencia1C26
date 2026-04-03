@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I insist the world know how much I loved my Lolita, *this* Lolita, pale and polluted, and big with another’s child, but still grey-eyed, still sooty-lashed, still auburn and almond.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184922Z" creationid="Soundwave" creationdate="20260403T184922Z">
+        <seg>Insisto en que el mundo sepa cuánto amé a mi Lolita, a esta Lolita, pálida y mancillada, preñada del hijo de otro, pero aún de ojos grises, aún de pestañas tiznadas, aún castaña rojiza y almendrada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I later regretted having been cross at their stupidity when I found myself doubting the verisimilitude of Proust’s account of the relation of Swann to Odette.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T001508Z" creationid="tg" creationdate="20260403T001508Z">
@@ -633,6 +641,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What I used to pamper among the tangled vines of my heart, *mon grand peche radieux*, had dwindled in its essence:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184847Z" creationid="Soundwave" creationdate="20260403T184847Z">
+        <seg>Aquello que yo solía mimar entre las enredaderas de mi corazón, mon grand péché radieux, se había reducido en su esencia: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yet it is always to marriage that passion-love aspires, unique marriage, ideal marriage, marriage available to no other pair, but marriage nonetheless, with all the cramping vows and habitualness of marriage.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184540Z" creationid="Soundwave" creationdate="20260403T184540Z">
@@ -659,10 +675,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may jeer at me, and threaten to clear the court, but until I am gagged and halfthrottled, I will shout my poor truth.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184912Z" creationid="Soundwave" creationdate="20260403T184912Z">
+        <seg>Podrían burlarse de mí y amenazar con desalojar la sala, pero mientras no me amordacen y me dejen a medio estrangular, gritaré mi pobre verdad. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>but thank God it was not that echo alone that I worshipped.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184834Z" creationid="Soundwave" creationdate="20260403T184834Z">
+        <seg>pero, gracias a Dios, no era solo ese eco lo que yo adoraba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>seem to remember he calls passion-love, a kind of love with which European literature has dealt since time immemorial but with especial intensity since the Arthurian romances and the code of courtly love.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T220451Z" creationid="A" creationdate="20260402T220451Z">
         <seg>creo recordar que él llama amor pasional, una clase de amor con el que la literatura europea tuvo que lidiar desde siempre, pero con una intensidad especial desde los romances artúricos y el código del amor cortesano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sterile and selfish vice, all that I cancelled and cursed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184901Z" creationid="Soundwave" creationdate="20260403T184901Z">
+        <seg>vicio estéril y egoísta. Todo eso lo anulé y lo maldije.</seg>
       </tuv>
     </tu>
     <tu>
