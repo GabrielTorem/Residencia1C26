@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>## Conclusion</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260404T200246Z" creationid="tg" creationdate="20260404T200246Z">
+        <seg>Conclusión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## The *Bildungsroman* and the humanist tradition</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T203128Z" creationid="tg" creationdate="20260403T203128Z">
@@ -360,6 +368,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cormac McCarthy’s *Child of God* tackles the crisis of Man and its haunting horrors in a postmodern world of disorienting alienation and decentred subjectivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260404T200319Z" creationid="tg" creationdate="20260404T200319Z">
+        <seg>El libro Hijo de Dios, de Cormac McCarthy, aborda la crisis del hombre y los horrores que lo acechan en un mundo posmoderno de alienación confusa y de subjetividad descentralizada. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Despite the lack of general consensus as to the speciﬁc deﬁnition of the term, its birth, as Sarah Graham points out, is “deeply implicated with the German Enlightenment” (2019, p.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T204027Z" creationid="tg" creationdate="20260403T204027Z">
@@ -539,6 +555,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260404T193506Z" creationid="tg" creationdate="20260404T193506Z">
         <seg>Para establecer un vínculo entre Hijo de Dios y la tradición del Bildungsroman, resulta fundamental examinar las características del Bildungsroman y su compatibilidad con la novela. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In particular, *Child of God* addresses the crisis of Man by establishing a speciﬁc line of communication with the Bildungsroman through postmodern parody in such a way as to both partake in and critique the tradition’s humanist ideals.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260404T200453Z" creationid="tg" creationdate="20260404T200453Z">
+        <seg>En particular, Hijo de Dios aborda la crisis del hombre y establece una línea específica de comunicación con el Bildungsroman mediante la parodia posmoderna, y lo hace de tal manera, que participa y a la vez critica los ideales humanistas de la tradición del Bildungsroman. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,6 +889,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since one of the paradigmatic literary incarnations of the discourse of humanism is the *Bildungsroman*, it provides the novel with an apt target in the postmodern debate about the condition of human subjectivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260404T200410Z" creationid="tg" creationdate="20260404T200410Z">
+        <seg>El Bildungsroman es una de las encarnaciones literarias paradigmáticas del discurso del humanismo, y proporciona a la novela un objetivo apropiado en el debate posmoderno sobre la condición de la subjetividad humana. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So that a man in the grip of an obsessional lust and a girl of twelve make the ideal couple for a story about love written in our time.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260402T225939Z" creationid="tg" creationdate="20260402T225939Z">
@@ -1104,6 +1137,23 @@
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T221503Z" creationid="A" creationdate="20260402T221503Z">
         <seg>lo que refleja lo alejado que el ideal moderno del amor se encuentra del amor apasionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, *Child of God* can be interpreted as a postmodern parody of the tradition of the Bildungsroman in accordance with Linda Hutcheon’s deﬁnition of postmodern parody as “imitation characterized by ironic inversion” (2000, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260404T200544Z" creationid="tg" creationdate="20260404T200544Z">
+        <seg>De este modo, Hijo de Dios puede interpretarse como una parodia posmoderna de la tradición del Bildungsroman, en conformidad con la definición de parodia posmoderna de Linda Hutcheon: «imitación caracterizada por la inversión irónica» (2000, p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To achieve the foregoing, the novel fuses Gothic and postmodern elements into a synergy calibrated for the optimal representation of the horrid disintegration of a master narrative about humanity, namely humanism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260404T200344Z" creationid="tg" creationdate="20260404T200344Z">
+        <seg>Para ello, la novela fusiona elementos góticos y posmodernos en una sinergia planeada para la representación óptima de la desintegración hórrida de una metanarrativa sobre la humanidad, en concreto, el humanismo.
+</seg>
       </tuv>
     </tu>
     <tu>
