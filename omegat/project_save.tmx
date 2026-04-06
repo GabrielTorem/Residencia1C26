@@ -34,8 +34,8 @@
       <tuv lang="en-US">
         <seg>(2004, p.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260404T193246Z" creationid="tg" creationdate="20260404T193246Z">
-        <seg>(2004,p.</seg>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T182804Z" creationid="tg" creationdate="20260404T193246Z">
+        <seg>(2004, p.(2004,p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +202,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accordingly, it is easy to discern the imbrication between the thematic concerns of the *Bildungsroman* and such humanist notions as self-acculturation, self-empowering reason, mastery, social integration, and harmony.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T182731Z" creationid="Soundwave" creationdate="20260406T182731Z">
+        <seg>En consecuencia, resulta posible advertir con claridad la imbricación entre las preocupaciones temáticas del Bildungsroman y nociones humanistas tales como la autoformación cultural, la razón empoderada, el dominio, la integración social y la armonía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accordingly, the disturbing playfulness of the Gothic that complements postmodern parody disrupts the typical path of the Bildungsroman toward positive development and social incorporation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260404T200734Z" creationid="tg" creationdate="20260404T200734Z">
@@ -306,6 +314,14 @@
       <tuv lang="es-ES" changeid="tg" changedate="20260405T024140Z" creationid="tg" creationdate="20260405T024140Z">
         <seg>Los símbolos aristocráticos de la caballería y el romance quedan subordinados a los valores burgueses de virtud, mérito, decoro y, dentro de lo razonable, al individualismo.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As Paul Sheehan aptly puts it, the Bildungsroman is “essential to an emplotment of the transactions between the human (humanism, humanitas) and the novel”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T182750Z" creationid="Soundwave" creationdate="20260406T182750Z">
+        <seg>Como señala con acierto Paul Sheehan, el Bildungsroman es «esencial para la configuración narrativa de las transacciones entre lo humano (humanism, humanitas) y la novela»</seg>
       </tuv>
     </tu>
     <tu>
@@ -1084,6 +1100,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184818Z" creationid="Soundwave" creationdate="20260403T184818Z">
         <seg>Ella no era sino el tenue efluvio violáceo y el eco de hoja muerta de la nínfula sobre la cual me había arrojado con tales clamores en el pasado; un eco al borde de un barranco rojizo, con un bosque remoto bajo un cielo blanco, y hojas pardas sofocando el arroyo y un último grillo entre la maleza seca y crujiente... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sheehan further argues that If Cartesian individualism gave to the novel a model of subjectivity, Cartesian dualism provided the dilemma that</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T182835Z" creationid="Soundwave" creationdate="20260406T182835Z">
+        <seg>Sheehan sostiene además que, si el individualismo cartesiano proporcionó a la novela un modelo de subjetividad, el dualismo cartesiano planteó el dilema que</seg>
       </tuv>
     </tu>
     <tu>
