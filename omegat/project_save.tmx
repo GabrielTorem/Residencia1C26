@@ -1048,6 +1048,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>sentido</note>
       <tuv lang="en-US">
         <seg>It was the convention for him to say that he was sick and to make a show of his physical and mental derangement.</seg>
       </tuv>
@@ -1218,6 +1219,7 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>dependían</note>
       <tuv lang="en-US">
         <seg>Nowadays we find it difficult to give credence to the idea that a man might feel that his reason and his very life depended on the response to him of a particular woman.</seg>
       </tuv>
@@ -1227,6 +1229,7 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>concordancia de sujeto en gerundio</note>
       <tuv lang="en-US">
         <seg>Nowadays we use the word chiefly to mean an intense feeling, forgetting the old distinction between a passion and an emotion, the former being an emotion before which we are helpless, which we have to *suffer*, in whose grip we are *passive.*</seg>
       </tuv>
@@ -1353,6 +1356,12 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Evitar "De manera", salvo que sea 'de manera'.
+No anteponer adjs.
+Espacio en H. H.
+rever "le niega..."
+
+ver "sea"</note>
       <tuv lang="en-US">
         <seg>She remains perpetually the cruel mistress; even after her lover has won physical possession of her, she withholds the favour of her feeling, for she has none to give, by reason of her age, possibly by reason of her temperament.</seg>
       </tuv>
@@ -1447,6 +1456,8 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>concordancia, referencia.
+ethos iría en cursiva. La manera de indicarlo es con asteriscos: *ethos*</note>
       <tuv lang="en-US">
         <seg>That is, their behaviour to each other must not be touched by practicality, their virtues must not be of a kind that acknowledges the claims of the world.</seg>
       </tuv>
@@ -1507,6 +1518,9 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>al de ...
+
+redacción</note>
       <tuv lang="en-US">
         <seg>The condition towards which such a marriage aspires is *health*—a marriage is praised by being called a *healthy* marriage.</seg>
       </tuv>
@@ -1668,6 +1682,7 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>pensar "then"</note>
       <tuv lang="en-US">
         <seg>Then the novelist must pay due attention to making the lover’s obsession believable and not ridiculous.</seg>
       </tuv>
@@ -1746,6 +1761,8 @@ No remplazar asteriscos por comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>No unir.
+Invertir S y P</note>
       <tuv lang="en-US">
         <seg>This will suggest how far the modern ideal of love is from passion-love.</seg>
       </tuv>
