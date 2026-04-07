@@ -250,6 +250,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Sentido</note>
       <tuv lang="en-US">
         <seg>Alanus Capellanus in his manual on courtly love set it down as perfectly obvious doctrine that a husband and wife cannot be lovers.</seg>
       </tuv>
@@ -905,6 +906,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>concordancia. Redacción. Connotación lover</note>
       <tuv lang="en-US">
         <seg>It was surely one of the most interesting and important of cultural revisions when the middle classes, which had been quite specifically excluded from the pleasure and dignity of love (one cannot be both busy and a lover), began to appropriate the prestige of this mode of feeling and to change it in the process of adopting it.</seg>
       </tuv>
@@ -999,6 +1001,17 @@ Cuando hay estos cortes, por favor avisame y lo resuelvo</note>
       </tuv>
     </tu>
     <tu>
+      <note>Cuando hay cortes, avisame y lo arreglo. Ahora ya está arreglado.
+Hay un sujeto superfluo.
+Se puede invertir S y P.</note>
+      <tuv lang="en-US">
+        <seg>My having mentioned Denis de Rougemont and his curious, belated, supererogatory onslaught on love will indicate that I have in mind what I seem to remember he calls passion-love, a kind of love with which European literature has dealt since time immemorial but with especial intensity since the Arthurian romances and the code of courtly love.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T145508Z" creationid="Gabriel" creationdate="20260407T145508Z">
+        <seg>El haber mencionado a Denis de Rougemont y su embestida curiosa, tardía y superflua al amor denota que tengo en mente lo que creo recordar que él llama amor pasional, una clase de amor con el que la literatura europea tuvo que lidiar desde siempre, pero con una intensidad especial desde los romances artúricos y el código del amor cortesano.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Nevertheless, as Petru Golban notes, the “novel of development” and the “novel of formation” are the most frequently used English equivalents of the Bildungsroman (2018, p.</seg>
       </tuv>
@@ -1067,6 +1080,7 @@ Cuando hay estos cortes, por favor avisame y lo resuelvo</note>
       </tuv>
     </tu>
     <tu>
+      <note>prep.</note>
       <tuv lang="en-US">
         <seg>Passion-love was a mode of feeling not available to everyone—the authorities on the subject restricted it to the aristocracy—but it was always of the greatest interest to almost everyone who was at all interested in the feelings, and it had a continuing influence on other kinds of love and on the literary conventions through which love was represented.</seg>
       </tuv>
@@ -1268,6 +1282,7 @@ Cuando hay estos cortes, por favor avisame y lo resuelvo</note>
       </tuv>
     </tu>
     <tu>
+      <note>invertir S y P. Redcción. Aspecto</note>
       <tuv lang="en-US">
         <seg>That the possibility of love could exist only apart from and more or less in opposition to marriage has been, by and large, the traditional supposition of the European upper classes, which have placed most of their expectations of erotic pleasure outside of marriage.</seg>
       </tuv>
@@ -1353,6 +1368,7 @@ Cuando hay estos cortes, por favor avisame y lo resuelvo</note>
       </tuv>
     </tu>
     <tu>
+      <note>pensar subj.</note>
       <tuv lang="en-US">
         <seg>The essential condition of this kind of love was that it had nothing to do^with marriage and could not possibly exist in marriage.</seg>
       </tuv>
@@ -1420,6 +1436,7 @@ Cuando hay estos cortes, por favor avisame y lo resuelvo</note>
       </tuv>
     </tu>
     <tu>
+      <note>calco</note>
       <tuv lang="en-US">
         <seg>The reason was that theirs was a practical and contractual relationship, having reference to estates and progeny.</seg>
       </tuv>
