@@ -128,6 +128,16 @@ ver qué se hace con la cita</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>23), which he identiﬁes as the focal point of the genre in “The Bildungsroman and Its Signiﬁcance in the History of Realism” (1936–38).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T193325Z" creationid="Gabriel" creationdate="20260407T193325Z">
+        <seg>23), que lo identifica como el punto central del género en «El Bildungsroman y su significado en la historia del realismo»
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>230–231).</seg>
       </tuv>
@@ -331,8 +341,8 @@ referente de tiene</note>
       <tuv lang="en-US">
         <seg>Although this study employs the ﬁve characteristics stated by Dilthey and his deﬁnition of the *Bildungsroman* as “a type of novel that portrayed personal emergence simultaneously as a psychological maturation and social integration” (Graham, 2019, p.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260403T204956Z" creationid="tg" creationdate="20260403T204956Z">
-        <seg>Si bien este estudio emplea las cinco características señaladas por Dilthey y su definición del Bildungsroman como «un tipo de novela que retrata el surgimiento personal tanto en términos de maduración psicológica como de una integración social» (Graham, 2019, p</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T193403Z" creationid="tg" creationdate="20260403T204956Z">
+        <seg>Si bien este estudio emplea las cinco características señaladas por Dilthey y su definición del Bildungsroman como «un tipo de novela que retrata el surgimiento personal tanto en términos de maduración psicológica como de una integración social» (Graham, 2019, p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -643,6 +653,7 @@ rever vis-à-vis</note>
       </tuv>
     </tu>
     <tu>
+      <note>a glosario, ver bien la terminología</note>
       <tuv lang="en-US">
         <seg>Dilthey’s insistence on the idea of formation is also in tune with Mikhail Bakhtin’s “process of becoming” (1986, p.</seg>
       </tuv>
@@ -1291,6 +1302,8 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Espacios.
+Pensar se las traducciones corresponden al español</note>
       <tuv lang="en-US">
         <seg>Nevertheless, as Petru Golban notes, the “novel of development” and the “novel of formation” are the most frequently used English equivalents of the Bildungsroman (2018, p.</seg>
       </tuv>
