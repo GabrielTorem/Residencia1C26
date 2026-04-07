@@ -784,6 +784,9 @@
       </tuv>
     </tu>
     <tu>
+      <note>ver grados "stupid vs estúpido"
+
+account ≠</note>
       <tuv lang="en-US">
         <seg>I later regretted having been cross at their stupidity when I found myself doubting the verisimilitude of Proust’s account of the relation of Swann to Odette.</seg>
       </tuv>
@@ -1336,6 +1339,16 @@ Se puede invertir S y P.</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T001227Z" creationid="tg" creationdate="20260403T001227Z">
         <seg>Hace poco, leí </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ver "graduate"</note>
+      <tuv lang="en-US">
+        <seg>Recently I read *Liber Amoris* with some graduate students and found that they had no understanding whatever of Hazlitt’s obsessive commitment to Sarah Walker.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T163909Z" creationid="Gabriel" creationdate="20260407T163909Z">
+        <seg>Hace poco leí *Liber Amoris* con algunos estudiantes de posgrado y comprobé que no tenían la más mínima comprensión del compromiso obsesivo de Hazlitt hacia Sarah Walker.
+</seg>
       </tuv>
     </tu>
     <tu>
