@@ -1920,8 +1920,8 @@ Invertir S y P</note>
       <tuv lang="en-US">
         <seg>Yet it is always to marriage that passion-love aspires, unique marriage, ideal marriage, marriage available to no other pair, but marriage nonetheless, with all the cramping vows and habitualness of marriage.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184540Z" creationid="Soundwave" creationdate="20260403T184540Z">
-        <seg>. Y, sin embargo, es siempre hacia el matrimonio que el amor-pasión tiende: un matrimonio único, un matrimonio ideal, un matrimonio vedado a toda otra pareja, pero matrimonio al fin, con todos los votos constrictivos y la rutina que le son inherentes.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T171816Z" creationid="Soundwave" creationdate="20260403T184540Z">
+        <seg>Y, sin embargo, es siempre hacia el matrimonio que el amor-pasión tiende: un matrimonio único, un matrimonio ideal, un matrimonio vedado a toda otra pareja, pero matrimonio al fin, con todos los votos constrictivos y la rutina que le son inherentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2085,5 +2085,16 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">04_Nanzer_Trilling_31-3.txt</prop>
+      <prop type="prev">{.Quotation centered}</prop>
+      <prop type="next">2020_ and I looked and looked at her, and knew as clearly as I know I am to die, that I loved her more than anything I had ever seen or imagined on earth, or hoped for anywhere else.</prop>
+      <tuv lang="en-US">
+        <seg>There she was with her ruined looks and her adult, rope-veined narrow hands and her gooseflesh white arms, and her shallow ears, and her unkempt armpits, there she was (my *Lolita*!), hopelessly worn at seventeen, with that baby, dreaming already in her of becoming a big shot and retiring around A.D.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T172109Z" creationid="Gabriel" creationdate="20260407T172109Z">
+        <seg>Allí estaba ella, con su aspecto arruinado y sus manos estrechas de mujer adulta, tensadas por venas como cuerdas, y sus brazos blancos erizados, y sus orejas poco profundas, y sus axilas descuidadas; allí estaba (¡mi Lolita!), irremediablemente marchitada a los diecisiete años, con ese bebé, soñando ya con hacerse alguien y retirarse hacia el año 2020 D.C; y yo la miraba y la miraba, y sabía —con la misma certeza con que sé que he de morir— que la amaba más que a cualquier cosa que hubiese visto o imaginado en la tierra, o hubiese esperado en ningún otro lugar.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
