@@ -73,6 +73,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>
+ver qué se hace con la cita</note>
       <tuv lang="en-US">
         <seg>1), which is “linked to *Humanität* as harmonious development of individuality” through “a metamorphoses of role and character” (Ryan et al., 2022).</seg>
       </tuv>
@@ -252,6 +254,16 @@ respetar los cortes de segmento</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T203312Z" creationid="tg" creationdate="20260403T203312Z">
         <seg>El profesor de retórica Karl Morgensten acuña el término Bildungsroman por primera vez en una conferencia dictada en 1810 titulada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>acuñar por primera vez es pleonasmo
+Ver qué se hace con los títulos</note>
+      <tuv lang="en-US">
+        <seg>According to Tobias Boes, the term Bildungsroman was ﬁrst coined by a professor of rhetoric called Karl Morgenstern in a lecture entitled “Concerning the Spirit and Cohesion of a Number of Philosophical Novels” delivered in 1810.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T192408Z" creationid="Gabriel" creationdate="20260407T192408Z">
+        <seg>El profesor de retórica Karl Morgensten acuña el término Bildungsroman por primera vez en una conferencia dictada en 1810 titulada «Sobre el espíritu y la cohesión de una serie de novelas filosóficas», según lo explica Tobias Boes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,6 +1634,9 @@ ethos iría en cursiva. La manera de indicarlo es con asteriscos: *ethos*</note>
       </tuv>
     </tu>
     <tu>
+      <note>concepto de Ilustración de Bildung ; mejorar
+
+desarrollo mesurado</note>
       <tuv lang="en-US">
         <seg>The association with Enlightenment humanism has been noted by Dilthey, who posits that the Bildungsroman is “an aesthetic expression of the Enlightenment concept of *Bildung* and… presents a regulated development of the hero or heroine who has to reach fulﬁllment and harmony by passing through various conﬂicts of life” (Golban 10).</seg>
       </tuv>
