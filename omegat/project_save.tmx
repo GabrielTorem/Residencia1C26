@@ -779,6 +779,16 @@ lust ≠ deseo</note>
       </tuv>
     </tu>
     <tu>
+      <note>no anteponer adjs.</note>
+      <tuv lang="en-US">
+        <seg>I am not sure just how I respond to the moral implication of this passage—I am not sure that with it, as with other passages in which H. H. speaks of the depth and wild solemnity of his love and remorse, Mr. Nabokov has not laid an emotional trap for the reader, that perhaps H. H.’s last intensities ought not to be received with considerably more irony than at first they call for.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T182422Z" creationid="Gabriel" creationdate="20260407T182422Z">
+        <seg>No estoy seguro de cómo responder a la implicación moral de este fragmento; no estoy seguro de que, en él —como en otros en que H. H. habla de la profunda y la salvaje solemnidad de su amor y su remordimiento—, el Señor Vladimir Nabokov no haya tendido una trampa emocional al lector; que acaso las últimas intensidades de H. H. no debieran recibirse con bastante más ironía de la que en un primer momento parecen reclamar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Tenemos primo hermano en español</note>
       <tuv lang="en-US">
         <seg>I can, I think, manage to take seriously a tragic Humbert, but I find myself easier with Humbert the anti-hero, with Humbert as cousin-german to Rameau’s nephew.</seg>
       </tuv>
@@ -989,6 +999,7 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
+      <note>su ambigüedad de intención: mejorar, y rever los dos puntos</note>
       <tuv lang="en-US">
         <seg>Indeed, for me one of the attractions of *Lolita* is its ambiguity of tone—which is pretty well exemplified in the passage I have quoted—and its ambiguity of intention, its ability to arouse uneasiness, to throw the reader off balance, to require him to change his stance and shift his position and move on.</seg>
       </tuv>
@@ -1337,6 +1348,9 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>—sobre el mar—: mejorar.
+Aclarar la redacción
+lovely ≠ amada</note>
       <tuv lang="en-US">
         <seg>Perhaps he even wants us to believe that his ascent from “ape-like” lust to a love which challenges the devils below and the angels up over the sea to ever dissever his soul from the soul of the lovely Annabel Lee constitutes the life cycle of the erotic instinct.</seg>
       </tuv>
