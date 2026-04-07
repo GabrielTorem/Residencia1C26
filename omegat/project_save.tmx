@@ -333,6 +333,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>And builds a Hell in Heaven s despite.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T170913Z" creationid="Gabriel" creationdate="20260407T170913Z">
+        <seg>Y construye un infierno en medio del cielo».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Reponer cursiva. Pensar el sentido de la estructura de amused</note>
       <tuv lang="en-US">
         <seg>And in nothing is Lolita so archaic as in its way of imaging the beloved.</seg>
@@ -485,6 +493,15 @@
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T002315Z" creationid="tg" creationdate="20260403T002315Z">
         <seg>Pero </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But Mr. Nabokov is not partisan to the point of being dishonest about the true nature of love.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T170359Z" creationid="Gabriel" creationdate="20260407T170359Z">
+        <seg>Pero el señor Nabokov no es partidista hasta el punto de ser deshonesto con respecto a la verdadera naturaleza del amor.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,6 +1045,7 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
+      <note>Usar cursivas</note>
       <tuv lang="en-US">
         <seg>It seems to me that it is impossible to miss the parti pris in Mr. Nabokov’s archaeological undertaking, the impulse to mock and discredit all forms of progressive rationalism not only because they are stupid in themselves but because they have brought the madness of love to an end.</seg>
       </tuv>
