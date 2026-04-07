@@ -333,6 +333,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Reponer cursiva. Pensar el sentido de la estructura de amused</note>
       <tuv lang="en-US">
         <seg>And in nothing is Lolita so archaic as in its way of imaging the beloved.</seg>
       </tuv>
@@ -513,6 +514,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>allay ≠ disipar</note>
       <tuv lang="en-US">
         <seg>But our doubts are allayed if the obsession can be accounted for by the known fact of a sexual peculiarity, an avowed aberration.</seg>
       </tuv>
@@ -786,7 +788,7 @@
     <tu>
       <note>ver grados "stupid vs estúpido"
 
-account ≠</note>
+account ≠ relato</note>
       <tuv lang="en-US">
         <seg>I later regretted having been cross at their stupidity when I found myself doubting the verisimilitude of Proust’s account of the relation of Swann to Odette.</seg>
       </tuv>
@@ -796,6 +798,7 @@ account ≠</note>
       </tuv>
     </tu>
     <tu>
+      <note>comparar Mr. y Señor</note>
       <tuv lang="en-US">
         <seg>I may seem to have been talking about *Lolita* as if in writing it Mr. Nabokov had undertaken a job of emotional archaeology.</seg>
       </tuv>
@@ -1765,6 +1768,9 @@ No remplazar asteriscos por comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>usar ** para las cursivas.
+
+Se pierde un how</note>
       <tuv lang="en-US">
         <seg>This may not be quite fair to Mr. Nabokov’s whole intention, but it does suggest how regressive a book Lolita is, how, although it strikes all the most approved modern postures and attitudes, it is concerned to restore a foredone mode of feeling.</seg>
       </tuv>
