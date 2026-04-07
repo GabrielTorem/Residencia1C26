@@ -368,6 +368,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>And it is just this that H. H. eventually desires.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T174031Z" creationid="Gabriel" creationdate="20260407T174031Z">
+        <seg>Y es precisamente esto lo que H. H. acaba por desear </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modalización</note>
       <tuv lang="en-US">
         <seg>Apart from this, every aspect of the new relationship is a denial of the old ideal of love.</seg>
@@ -789,6 +797,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>passion-love al glosario
+Invertir S y P.</note>
       <tuv lang="en-US">
         <seg>I have represented passion-love as being the antithesis of marriage and as coming to an end when the conditions characteristic of marriage impose themselves, by whatever means, upon the lovers.</seg>
       </tuv>
@@ -1183,6 +1193,9 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
+      <note>Pensar y acordar "mister".
+Nymph es un error.
+reader of fiction</note>
       <tuv lang="en-US">
         <seg>Mr. Nabokov is, among his other accomplishments, an eminent entomologist and I shall leave it to some really rigorous close reader of fiction to tell us what an entomological novelist wants us to do with the fact that *nymph* is the name for the young of an insect without complete metamorphosis.</seg>
       </tuv>
@@ -1917,6 +1930,7 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
+      <note>"Y" o "Sin embargo". Invertir S y P.</note>
       <tuv lang="en-US">
         <seg>Yet it is always to marriage that passion-love aspires, unique marriage, ideal marriage, marriage available to no other pair, but marriage nonetheless, with all the cramping vows and habitualness of marriage.</seg>
       </tuv>
@@ -2092,8 +2106,8 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       <tuv lang="en-US">
         <seg>There she was with her ruined looks and her adult, rope-veined narrow hands and her gooseflesh white arms, and her shallow ears, and her unkempt armpits, there she was (my *Lolita*!), hopelessly worn at seventeen, with that baby, dreaming already in her of becoming a big shot and retiring around A.D.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T172109Z" creationid="Gabriel" creationdate="20260407T172109Z">
-        <seg>Allí estaba ella, con su aspecto arruinado y sus manos estrechas de mujer adulta, tensadas por venas como cuerdas, y sus brazos blancos erizados, y sus orejas poco profundas, y sus axilas descuidadas; allí estaba (¡mi Lolita!), irremediablemente marchitada a los diecisiete años, con ese bebé, soñando ya con hacerse alguien y retirarse hacia el año 2020 D.C; y yo la miraba y la miraba, y sabía —con la misma certeza con que sé que he de morir— que la amaba más que a cualquier cosa que hubiese visto o imaginado en la tierra, o hubiese esperado en ningún otro lugar.</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T173738Z" creationid="Gabriel" creationdate="20260407T172109Z">
+        <seg>Allí estaba ella, con su aspecto arruinado y sus manos estrechas de mujer adulta, tensadas por venas como cuerdas, y sus brazos blancos erizados, y sus orejas poco profundas, y sus axilas descuidadas; allí estaba (¡mi Lolita!), irremediablemente marchitada a los diecisiete años, con ese bebé, soñando ya con hacerse alguien y retirarse hacia el año 2020 D.C.</seg>
       </tuv>
     </tu>
   </body>
