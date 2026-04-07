@@ -202,6 +202,9 @@
       </tuv>
     </tu>
     <tu>
+      <note>discutir títulos de libros
+
+respetar los cortes de segmento</note>
       <tuv lang="en-US">
         <seg>A Literary Companion* (2010), Hage argues that *Child of God* is “as much bildungsroman as work of grotesque horror; it just happens to be about a serial killer” (p.</seg>
       </tuv>
@@ -320,6 +323,9 @@ referente de tiene</note>
       </tuv>
     </tu>
     <tu>
+      <note>Personif.
+
+ver vis-à-vis</note>
       <tuv lang="en-US">
         <seg>Although various studies have explored certain aspects of the novel appertaining to identity and the psychological formation of the protagonist,1 the relationship between the novel and the tradition of the *Bildungsroman* vis-à-vis human subjectivity has been afforded scant critical attention.</seg>
       </tuv>
@@ -459,6 +465,10 @@ referente de tiene</note>
       </tuv>
     </tu>
     <tu>
+      <note>American = estadounidense
+plunge
+concord.
+pluntuación</note>
       <tuv lang="en-US">
         <seg>As one of the greatest living American novelists, Cormac McCarthy is renowned for his daunting plunge into the darkest, scarcely plumbed recesses of the human mind and subjectivity, particularly when his writing is entangled with the Gothic with its unﬂinchingly visceral confrontation with the grossly material horrors of human existence.</seg>
       </tuv>
@@ -644,6 +654,7 @@ rever vis-à-vis</note>
       </tuv>
     </tu>
     <tu>
+      <note>discutir scholar</note>
       <tuv lang="en-US">
         <seg>Eric Hage is one of the very few scholars to point out the link between McCarthy’s novel and the Bildungsroman, but even his study gives it a passing mention.</seg>
       </tuv>
@@ -1699,6 +1710,7 @@ redacción</note>
       </tuv>
     </tu>
     <tu>
+      <note>roles de Narrar</note>
       <tuv lang="en-US">
         <seg>The novel traces the life and monstrous becoming of a rural Tennessee man called Lester Ballard, who gradually turns into a cave-dwelling serial killer and follows a path to ruin.</seg>
       </tuv>
@@ -2088,8 +2100,8 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       <tuv lang="en-US">
         <seg>—(*Child of God*, p.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260407T161309Z" creationid="A" creationdate="20260407T161309Z">
-        <seg>(El hijo de Dios, pág. 58).</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T190529Z" creationid="A" creationdate="20260407T161309Z">
+        <seg>(El hijo de Dios, pág.</seg>
       </tuv>
     </tu>
     <tu>
