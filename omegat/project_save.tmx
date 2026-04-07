@@ -108,6 +108,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Aguantar las oraciones largas (no son necesarias las rayas)</note>
       <tuv lang="en-US">
         <seg>2020_ and I looked and looked at her, and knew as clearly as I know I am to die, that I loved her more than anything I had ever seen or imagined on earth, or hoped for anywhere else.</seg>
       </tuv>
@@ -1427,6 +1428,7 @@ ver "sea"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Muy buena traducción, salvo seca y crujiente</note>
       <tuv lang="en-US">
         <seg>She was only the faint violet whiff and dead leaf echo of the nymphet I had rolled myself upon with such cries in the past; an echo on the brink of a russet ravine, with a far wood under a white sky, and brown leaves choking the brook and one last cricket in the crisp weeds...</seg>
       </tuv>
@@ -2109,6 +2111,10 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       <prop type="file">04_Nanzer_Trilling_31-3.txt</prop>
       <prop type="prev">{.Quotation centered}</prop>
       <prop type="next">2020_ and I looked and looked at her, and knew as clearly as I know I am to die, that I loved her more than anything I had ever seen or imagined on earth, or hoped for anywhere else.</prop>
+      <note>rope-veined: como cuerdas no es suficiente para armar la comparativa
+poco profundas es mejorable
+Discutir el !
+</note>
       <tuv lang="en-US">
         <seg>There she was with her ruined looks and her adult, rope-veined narrow hands and her gooseflesh white arms, and her shallow ears, and her unkempt armpits, there she was (my *Lolita*!), hopelessly worn at seventeen, with that baby, dreaming already in her of becoming a big shot and retiring around A.D.</seg>
       </tuv>
