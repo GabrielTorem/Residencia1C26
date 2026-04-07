@@ -359,11 +359,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>avisar si hay segmentos truncados.</note>
       <tuv lang="en-US">
         <seg>And it is just this that</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T184551Z" creationid="Soundwave" creationdate="20260403T184551Z">
-        <seg>Y es precisamente esto lo que</seg>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T171655Z" creationid="Soundwave" creationdate="20260403T184551Z">
+        <seg>Y es precisamente esto lo que H. H. acaba por desear.</seg>
       </tuv>
     </tu>
     <tu>
