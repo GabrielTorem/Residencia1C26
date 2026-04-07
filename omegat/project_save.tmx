@@ -524,6 +524,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>De nuevo, hay que investigar nymph. Conc. exc.</note>
       <tuv lang="en-US">
         <seg>But he is also a scholar of languages and he knows that *nymph* is the Greek word for bride.</seg>
       </tuv>
@@ -707,6 +708,10 @@
       </tuv>
     </tu>
     <tu>
+      <note>to be at pains ≠esmerarse.
+No anteponer adjs.
+ver Evoke
+lust ≠ deseo</note>
       <tuv lang="en-US">
         <seg>He does not impart this information to us, yet he is at pains, as I have remarked, to put us in mind of the rapturous, tortured marriage of Poe and Virginia, and one of his last meditations on *Lolita* is of the constancy she evokes from him despite the ravages of time having destroyed the old incitements to lust:</seg>
       </tuv>
@@ -1346,6 +1351,7 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>No agregar espacios al final</note>
       <tuv lang="en-US">
         <seg>Probably nothing.</seg>
       </tuv>
