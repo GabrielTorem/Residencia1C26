@@ -1646,7 +1646,8 @@ ethos iría en cursiva. La manera de indicarlo es con asteriscos: *ethos*</note>
       </tuv>
     </tu>
     <tu>
-      <note>Segmento traducido como muestra</note>
+      <note>Segmento traducido como muestra
+prueba</note>
       <tuv lang="en-US">
         <seg>The Last Lover:</seg>
       </tuv>
