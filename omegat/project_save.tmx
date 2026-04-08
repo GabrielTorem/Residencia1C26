@@ -578,8 +578,8 @@ pluntuación</note>
       <tuv lang="en-US">
         <seg>But he is also a scholar of languages and he knows that *nymph* is the Greek word for bride.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260408T205843Z" creationid="Soundwave" creationdate="20260403T184706Z">
-        <seg>Pero es también un erudito de las lenguas, y sabe que [[nymph]] es la palabra griega para «novia». </seg>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260408T210006Z" creationid="Soundwave" creationdate="20260403T184706Z">
+        <seg>Pero es también un erudito de las lenguas, y sabe que [[nymph]] es la palabra griega para «novia».</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,7 +774,9 @@ Clarificar.</note>
       <note>to be at pains ≠esmerarse.
 No anteponer adjs.
 ver Evoke
-lust ≠ deseo</note>
+lust ≠ deseo
+
+to be at pains = ansía con / ansioso por</note>
       <tuv lang="en-US">
         <seg>He does not impart this information to us, yet he is at pains, as I have remarked, to put us in mind of the rapturous, tortured marriage of Poe and Virginia, and one of his last meditations on *Lolita* is of the constancy she evokes from him despite the ravages of time having destroyed the old incitements to lust:</seg>
       </tuv>
