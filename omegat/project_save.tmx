@@ -913,8 +913,8 @@ account ≠ relato</note>
       <tuv lang="en-US">
         <seg>I may seem to have been talking about *Lolita* as if in writing it Mr. Nabokov had undertaken a job of emotional archaeology.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260403T001657Z" creationid="tg" creationdate="20260403T001657Z">
-        <seg>Puede parecer que he estado hablando de Lolita, como si al escribirla, el señor Nabokov hubiera emprendido una labor de arqueología emocional.
+      <tuv lang="es-ES" changeid="tg" changedate="20260408T232728Z" creationid="tg" creationdate="20260403T001657Z">
+        <seg>Puede parecer que he estado hablando de *Lolita*, como si al escribirla, Nabokov hubiera emprendido una labor de arqueología emocional.
 </seg>
       </tuv>
     </tu>
@@ -1936,8 +1936,8 @@ Se pierde un how</note>
       <tuv lang="en-US">
         <seg>This may not be quite fair to Mr. Nabokov’s whole intention, but it does suggest how regressive a book Lolita is, how, although it strikes all the most approved modern postures and attitudes, it is concerned to restore a foredone mode of feeling.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260403T001730Z" creationid="tg" creationdate="20260403T001730Z">
-        <seg>Esto puede no ser del todo justo con el propósito del señor Nabokov, pero sí sugiere cuán regresivo es Lolita, y aunque adopta todas las posturas y actitudes modernas más apropiadas, se propone restaurar un modo de sentir ya superado.
+      <tuv lang="es-ES" changeid="tg" changedate="20260408T233413Z" creationid="tg" creationdate="20260403T001730Z">
+        <seg>Esto puede no ser del todo justo con el propósito de Nabokov, pero sí sugiere cuán regresivo es *Lolita*, y hasta qué punto, pese a adoptar todas las posturas y actitudes modernas más apropiadas, se propone restaurar un modo de sentir ya superado.
 </seg>
       </tuv>
     </tu>
