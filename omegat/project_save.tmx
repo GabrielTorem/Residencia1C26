@@ -559,8 +559,8 @@ pluntuación</note>
       <tuv lang="en-US">
         <seg>But Mr. Nabokov is not partisan to the point of being dishonest about the true nature of love.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T170359Z" creationid="Gabriel" creationdate="20260407T170359Z">
-        <seg>Pero el señor Nabokov no es partidista hasta el punto de ser deshonesto con respecto a la verdadera naturaleza del amor.
+      <tuv lang="es-ES" changeid="tg" changedate="20260410T003536Z" creationid="Gabriel" creationdate="20260407T170359Z">
+        <seg>Pero Nabokov no es partidista hasta el punto de ser deshonesto con respecto a la verdadera naturaleza del amor.
 </seg>
       </tuv>
     </tu>
@@ -1149,8 +1149,8 @@ Ver comillas</note>
       <tuv lang="en-US">
         <seg>It seems to me that it is impossible to miss the parti pris in Mr. Nabokov’s archaeological undertaking, the impulse to mock and discredit all forms of progressive rationalism not only because they are stupid in themselves but because they have brought the madness of love to an end.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260403T002212Z" creationid="tg" creationdate="20260403T002212Z">
-        <seg>Me parece que es imposible pasar por alto el parti pris en la tarea arqueológica del señor Nabokov, el impulso de burlarse y desacreditar todas las formas de racionalismo progresista, no solo porque son estúpidas en sí mismas, sino porque han puesto fin a la locura del amor.
+      <tuv lang="es-ES" changeid="tg" changedate="20260410T003507Z" creationid="tg" creationdate="20260403T002212Z">
+        <seg>Me parece que es imposible pasar por alto el *parti pris* en la tarea arqueológica del señor Nabokov, el impulso de burlarse y desacreditar todas las formas de racionalismo progresista, no solo porque son estúpidas en sí mismas, sino porque han puesto fin a la locura del amor.
 </seg>
       </tuv>
     </tu>
