@@ -78,9 +78,17 @@ ver qué se hace con la cita</note>
       <tuv lang="en-US">
         <seg>1), which is “linked to *Humanität* as harmonious development of individuality” through “a metamorphoses of role and character” (Ryan et al., 2022).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260410T175422Z" creationid="tg" creationdate="20260403T203920Z">
-        <seg>1), el cual está vinculado a la Humanität en el desarrollo armónico de la individualidad mediante una metamorfosis del rol y del carácter (Ryan et al., 2022).
+      <tuv lang="es-ES" changeid="tg" changedate="20260410T181110Z" creationid="tg" creationdate="20260403T203920Z">
+        <seg>1), el cual está vinculado a la *Humanität*  en el desarrollo armónico de la individualidad mediante una metamorfosis del rol y del carácter (Ryan et al., 2022).
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260410T181015Z" creationid="tg" creationdate="20260410T181015Z">
+        <seg>1). </seg>
       </tuv>
     </tu>
     <tu>
@@ -107,6 +115,14 @@ ver qué se hace con la cita</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260403T203652Z" creationid="tg" creationdate="20260403T203652Z">
         <seg>estudio Poesía y experiencia de 1906 (Boes, 2006, p. 231).
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260410T181151Z" creationid="tg" creationdate="20260410T181151Z">
+        <seg>2). </seg>
       </tuv>
     </tu>
     <tu>
