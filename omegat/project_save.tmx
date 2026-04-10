@@ -1342,6 +1342,15 @@ Pensar se las traducciones corresponden al español</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nevertheless, it was with Wilhelm Dilthey’s 1870 biography of Friedrich Schleiermacher and his 1906 study *Poetry and Experience* that the term gained traction in modern criticism (Boes, 2006, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260410T175203Z" creationid="tg" creationdate="20260410T175203Z">
+        <seg>No obstante, el término adquirió relevancia en la crítica moderna con la biografía de Friedrich Schleiermacher escrita por Wilhelm Dilthey en 1870 y con su estudio *Poesía y experiencia* de 1906 (Boes, 2006, p.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that a synergic relationship between the Gothic and postmodernism has been established through their mutual engagement with terror, human subjectivity, and parody, these elements and their function can be examined in McCarthy’s *Child of God*, which this study considers a postmodern Gothic novel that makes a statement about the present through a parodic reappropriation of the humanist *Bildungsroman*.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260404T193425Z" creationid="tg" creationdate="20260404T193425Z">
@@ -1819,8 +1828,8 @@ redacción</note>
       <tuv lang="en-US">
         <seg>The term, however, was discussed in a more systematic manner by Morgenstern in another lecture entitled “On the Nature of the *Bildungsroman*” nine years later (Boes, 2012, p.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260403T211817Z" creationid="tg" creationdate="20260403T203432Z">
-        <seg>Sin embargo, Morgenstern analizó el término de manera más sistemática en otra conferencia titulada «Sobre la naturaleza del Bildungsroman», nueve años más tarde (Boes, 2012, p. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260410T174947Z" creationid="tg" creationdate="20260403T203432Z">
+        <seg>Sin embargo, Morgenstern analizó el término de manera más sistemática en otra conferencia titulada «On the Nature of the *Bildungsroman*» («Sobre la naturaleza del Bildungsroman»), nueve años más tarde (Boes, 2012, p. </seg>
       </tuv>
     </tu>
     <tu>
