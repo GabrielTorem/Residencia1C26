@@ -1,0 +1,19 @@
+As Philip L. Simpson argues, “any given depiction of the Gothic killer will be inextricably linked to the historical context in which the author composes his or her work” (2000, p. 135). In other words, the serial killer opts to “write an identity on the body politic” (2000, p. 135). Accordingly, in keeping with the *Bildungsroman*, the elements of identity formation and individualism surrounding McCarthy’s Gothic serial killer have sociohistorical implications.
+
+The biographical element is manifest in both the concentration of the narrative on Ballard’s life as its focal point and the episodic, yet signiﬁcant, information about Ballard’s childhood and background, which the postmodern Gothic nature of the novel accommodates. In a number of chapters, the reader learns about Ballard’s troubled childhood through minor characters.
+
+For example, the reader learns that Ballard’s father committed suicide by hanging himself when Ballard was about “nine or ten year old [sic]” (p. 22). Moreover, his “mother had run off,” which, following the death of his father, made him an orphan (p.
+
+22). In another chapter, it is related that Ballard “worked for old man Whaley settin fenceposts” to buy a riﬂe “when he was just almost a boy,” and he was a crack shot, who could “hit anything he could see” (p. 47). One character recounts an anecdote about Ballard’s grandfather, who was a cheat, and had a younger brother, who was hanged (p. 63). At the end of his account, he concludes, “You can trace em back to Adam if you want and goddamn if he didn’t outstrip em all,” suggesting that the Ballards’ genealogy has followed a degenerative trajectory (p. 63).
+
+Analysing the Gothic body in the nineteenth century by drawing on Bénédict Morel’s degeneration theory, Kelly Hurley notes that
+
+“degeneracy was [deemed] progressive in its effects, as the original contamination… intensiﬁed itself in the offspring, and was manifested in the increasing mental and physical deformity of each successive generation” (1996, p. 68). As it will be demonstrated, a similar degeneration can be detected in *Child of God*, which is not merely genealogical but also individual. Accordingly, the reiteration of the foregoing characteristics in the novel does not follow an uncritically afﬁrmative trajectory. Rather, it is in the psychological formation and the progress of the protagonist toward the ideal of humanity by the realization of his potential that postmodern parody intercedes, as the narrative and character development depart from the wonted path of the protagonist in a typical *Bildungsroman*.
+
+Regarding the postmodern context of the novel, Robert L. Jarrett argues that *Child of God* “trace[s] the outlines of postmodern alienation in which the solitary consciousness—the narrator’s and the reader’s—reﬂects and operates on an externalized nature, man, and history” (1993, pp. 29–30). According to Jarrett, “McCarthy’s
+
+ﬁction places an increasing emphasis on interpolated tales, exhibiting thereby a pronounced self-consciousness about narrative and the function of the novels within the postmodern world”
+
+(1993, pp. 145–146). Furthermore, the theme of “the quest undertaken through a visionary landscape” (Jarrett, 1997, p. x), which involves a concern with human subjectivity, and the role of
+
+“interpolated tales” (p. x) accommodate the engagement with intertextuality through the use of parody. As stated earlier, the postmodern parody in *Child of God* operates through Gothic elements, whose principal effects are horror, terror, and degenerative excess associated with “the primitive, the barbaric, and the tabooed” (Punter, 1996a, p.

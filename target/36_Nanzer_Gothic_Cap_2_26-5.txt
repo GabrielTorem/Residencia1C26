@@ -1,0 +1,19 @@
+Graveyard poetry, its injunctions to nocturnal speculation on human finitude and the vanity of earthly ambitions, uses tombs, ruins, decay and ghosts as a mode of moral instruction rather than excitement.
+
+The attractions of darkness, however, and the power of the images and visions it engendered were not lost on other poets associated with the melancholy evocations of the Graveyard school. William Collins's 'Ode to Fear' (1746) describes the fanciful and shadowy shapes, the monsters, giants and phantoms that the emotion produces. These figures testify less to the power of the grave in elevating thought to spiritual matters and more to the power of imagination:
+
+:::{.paragraph-style=Quotation centered}
+Dark power, with shuddering meek submitted thought,
+
+Be mine, to read the visions old,
+
+Which thy awakening bards have told.
+
+				(II. 51--3)
+:::
+
+Fear and the supernatural figures it conjures up is one of the 'divine emotions' that poets and bards of earlier ages were able to produce. To these the ode appeals for an imaginative power, a sense of nature and a capacity to evoke feelings unavailable in neoclassical compositions. The growing importance of older forms of writing are manifested in the lines from Joseph Warton's 'The Enthusiast' (1740): 'What are the lays of artful Addison, /Coldly correct, to Shakespear's warblings wild?' (ll. 166--7) Or, in the words of Joseph Warton's brother, Thomas, in his 'The Pleasures of Melancholy' (1745), 'But let the sacred genius of the night/Such mystic visions send, as Spenser saw' (ll. 62--3).
+
+Shakespeare and Spenser were considered to be the inheritors of a tradition of romantic writing that harked back to the Middle Ages. Like the songs of bards and minstrels, the emotional power of their descriptions of nature and visionary images were held up as examples of a more imaginative form of literary creation. Wildness of natural scenery, marvellous figures and lyrical style became signs of a re-evaluation of writing which privileged inventiveness and imagination over imitation and morality. 'The Pleasures of Melancholy, like many Graveyard poems, dwells on darkness, ghosts and tombs, but not in order to raise thoughts to heaven. The thoughts that it encourages are on the visionary and mystical power of writing, not to produce moral understanding, but to evoke intense feelings. This power, moreover, is linked, in the many images of storms, rocks and caverns to a dark and wild nature.
+
+These departures from classical rules of imitation and creativity were supported by the work of antiquarians in their reassessments of old texts. Thomas Warton was himself a major figure in this process. His *History of* *English Poetry* (1774--81) traces the origins of romantic fiction to Arabia. From there it had started its migration across Europe during the period of the Crusades. Other scholars queried the idea of the Eastern origins of romances and preferred to identify the beginnings of romance among the Celtic, Saxon and Norse tribes of northern Europe. Of this opinion was Thomas Percy who, in his *Reliques of* *Ancient English Poetry* (1765), published a collection of romantic songs and ballads. Other collections, or in the case of Macpherson's *Ossian* poems (1762), fabrications, established the popularity of, as Percy's Dedication to the *Reliques* put it, 'the rude songs of ancient minstrels'. These 'barbarous productions of unpolished ages' were held up for approval 'not as the labours of art, but as the effusions of nature, showing the first efforts of ancient genius'. While the precise origins of romances remained a matter of scholarly dispute, their importance lay chiefly in the fact that they were not classical. Moreover, the recovery and validation of romances enabled certain neoclassical prejudices to be challenged. Thomas Warton wrote of how Gothic romances, though shaken by classical fictions, maintained their ground:
