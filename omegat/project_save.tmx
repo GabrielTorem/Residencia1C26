@@ -195,6 +195,14 @@ ver qué se hace con la cita</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260411T195022Z" creationid="tg" creationdate="20260411T195022Z">
+        <seg>4). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4, italics in the original)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T183115Z" creationid="Soundwave" creationdate="20260406T183115Z">
@@ -2301,8 +2309,8 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       <tuv lang="en-US">
         <seg>ﬂoundering “masternarratives about humanity” (Halberstam and Livingston, 1995, p.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260404T174620Z" creationid="tg" creationdate="20260404T174620Z">
-        <seg>las debatibles «metanarrativas sobre la humanidad» (Halberstam y Livingston, 1995, p.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260411T195002Z" creationid="tg" creationdate="20260404T174620Z">
+        <seg>los debatibles «grandes relatos sobre la humanidad» (Halberstam y Livingston, 1995, p.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
