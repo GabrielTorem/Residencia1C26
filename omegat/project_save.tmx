@@ -73,6 +73,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260411T204822Z" creationid="tg" creationdate="20260411T204822Z">
+        <seg>. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>
 ver qué se hace con la cita</note>
       <tuv lang="en-US">
