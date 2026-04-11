@@ -126,6 +126,14 @@ ver qué se hace con la cita</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>2009, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T003518Z" creationid="A" creationdate="20260411T003518Z">
+        <seg>2009, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Aguantar las oraciones largas (no son necesarias las rayas)</note>
       <tuv lang="en-US">
         <seg>2020_ and I looked and looked at her, and knew as clearly as I know I am to die, that I loved her more than anything I had ever seen or imagined on earth, or hoped for anywhere else.</seg>
@@ -191,6 +199,14 @@ ver qué se hace con la cita</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T183115Z" creationid="Soundwave" creationdate="20260406T183115Z">
         <seg>4, cursivas en el original).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>404; italics in the original).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T003605Z" creationid="A" creationdate="20260411T003605Z">
+        <seg>404; cursiva en el original).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1017,6 +1033,14 @@ account ≠ relato</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260404T193506Z" creationid="tg" creationdate="20260404T193506Z">
         <seg>Para establecer un vínculo entre Hijo de Dios y la tradición del Bildungsroman, resulta fundamental examinar las características del Bildungsroman y su compatibilidad con la novela. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, in this type of literature, “the plot is the character</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T003044Z" creationid="A" creationdate="20260411T003044Z">
+        <seg>En otras palabras, en este tipo de literatura, "la trama es el personaje</seg>
       </tuv>
     </tu>
     <tu>
@@ -2196,6 +2220,14 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T190529Z" creationid="A" creationdate="20260407T161309Z">
         <seg>(El hijo de Dios, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>—the representation of ‘how one becomes who one is’” (Bates,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T003451Z" creationid="A" creationdate="20260411T003451Z">
+        <seg>—la representación de «cómo una persona se convierte en lo que es»" (Bates,</seg>
       </tuv>
     </tu>
     <tu>
