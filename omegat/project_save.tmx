@@ -387,6 +387,14 @@ referente de tiene</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Accordingly, the reiteration of the foregoing characteristics in the novel does not follow an uncritically afﬁrmative trajectory.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T200852Z" creationid="Soundwave" creationdate="20260411T200852Z">
+        <seg>Por lo tanto, la reiteración de las características previamente mencionadas en la novela no se condice con una lógica afirmativa acrítica. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Sentido</note>
       <tuv lang="en-US">
         <seg>Alanus Capellanus in his manual on courtly love set it down as perfectly obvious doctrine that a husband and wife cannot be lovers.</seg>
@@ -593,6 +601,14 @@ acuñado por primera vez es pleonasmo</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260410T180451Z" creationid="tg" creationdate="20260403T204419Z">
         <seg>En cuanto a la traducción del término, aunque *roman* en *Bildungsroman* significa «novela», *bildung*  es más difícil de precisar y podría traducirse al español como «formación», «aprendizaje» o «crecimiento» (Graham 2).
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As it will be demonstrated, a similar degeneration can be detected in *Child of God*, which is not merely genealogical but also individual.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T200707Z" creationid="Soundwave" creationdate="20260411T200707Z">
+        <seg>Como se demostrará, una degeneración similar puede rastrearse en *Child of God*, que no se limita al plano genealógico, sino que se extiende al ámbito individual. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1623,6 +1639,14 @@ lovely ≠ amada</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260404T201017Z" creationid="tg" creationdate="20260404T201017Z">
         <seg>En lugar de aproximarse al hombre ideal, el protagonista se convierte en un monstruo poshumano quien, como heraldo de una crisis de categoría, amenaza la propia esencia de la subjetividad humana. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rather, it is in the psychological formation and the progress of the protagonist toward the ideal of humanity by the realization of his potential that postmodern parody intercedes, as the narrative and character development depart from the wonted path of the protagonist in a typical *Bildungsroman*.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T201902Z" creationid="Soundwave" creationdate="20260411T201902Z">
+        <seg>En tanto la progresión narrativa y el desarrollo del personaje se apartan del hilo conductor canónico del protagonista en *Bildungsroman*, la parodia posmoderna interviene en la formación psicológica y en el devenir del protagonista hacia el ideal de humanidad mediante la realización de su potencial.</seg>
       </tuv>
     </tu>
     <tu>
