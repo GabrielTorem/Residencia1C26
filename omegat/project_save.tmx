@@ -187,6 +187,14 @@ ver qué se hace con la cita</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>39).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260411T195103Z" creationid="tg" creationdate="20260411T195103Z">
+        <seg>39). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4), operates as one of the emblems of the doctrine of humanism.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T191402Z" creationid="Soundwave" creationdate="20260403T191402Z">
@@ -1805,8 +1813,8 @@ redacción</note>
       <tuv lang="en-US">
         <seg>The distortion of perspective which is a constant hallmark of Gothic ﬁction ﬁnds a further ‘home’ in the postmodern, and… this twist of history has precisely to do… with the Gothic’s ‘origin’ as a counter-discourse to the modernizing impulse of the Enlightenment, and with postmodernism’s complex rebuttal and development of Modernism’s own post-Enlightenment progressive dictates.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260404T193209Z" creationid="tg" creationdate="20260404T193209Z">
-        <seg>La distorsión de la perspectiva, que es un rasgo constante de la ficción gótica, encuentra un nuevo «hogar» en lo posmoderno y este giro de la historia tiene precisamente que ver con el «origen» del gótico como contradiscurso frente al impulso modernizador de la Ilustración, y con la compleja refutación y desarrollo del posmodernismo de lo que establece el propio progresismo posilustrado del modernismo (2004, p. 53).
+      <tuv lang="es-ES" changeid="tg" changedate="20260411T195442Z" creationid="tg" creationdate="20260404T193209Z">
+        <seg>La distorsión de la perspectiva, que es un rasgo constante de la ficción gótica, encuentra un nuevo «hogar» en lo posmoderno y este giro de la historia tiene que ver precisamente con el «origen» del gótico como contradiscurso frente al impulso modernizador de la Ilustración, así como con la compleja refutación y el desarrollo, por parte del posmodernismo, de lo que dicta el propio modernismo posilustrado progresista (2004, p. 53).
 </seg>
       </tuv>
     </tu>
