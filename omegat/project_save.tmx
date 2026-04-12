@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>## *Child of God* as a postmodern Gothic parody of the *Bildungsroman*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T022154Z" creationid="A" creationdate="20260411T022154Z">
+        <seg>## *El hijo de Dios* como parodia posmoderna gótica del género *bildungsroman*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Conclusion</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260404T200246Z" creationid="tg" creationdate="20260404T200246Z">
@@ -44,6 +52,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260407T162150Z" creationid="A" creationdate="20260407T154236Z">
         <seg>Una novela de de-formación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Golban, 2018, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T021457Z" creationid="A" creationdate="20260411T021457Z">
+        <seg>(Golban, 2018, pág.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +146,22 @@ ver qué se hace con la cita</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T183155Z" creationid="Soundwave" creationdate="20260406T183155Z">
         <seg>157) constituye </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>18) is subverted in *Child of God*.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T022043Z" creationid="A" creationdate="20260411T021519Z">
+        <seg>18) se menoscaba en *El hijo de Dios*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>19) and is, therefore, inextricably interwoven with the discourse of humanism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T011542Z" creationid="A" creationdate="20260411T011542Z">
+        <seg>19) y, por ende, se vincula íntimamente con el discurso del humanismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +366,14 @@ respetar los cortes de segmento</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T202712Z" creationid="tg" creationdate="20260404T200900Z">
         <seg>Sobre todo, la degeneración gótica del escenario se cristaliza en los cambios de morada de Ballard, que pasa de una casa relativamente civilizada a una cueva, a una jaula, a la mesa de disección de la facultad de medicina, a una bolsa de plástico y, al final, a un cementerio lejano reservado para los marginados.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>According to Beville, the terror of the Gothic, “often inherent in its monsters and othered bodies, functions as a deconstructive counter-narrative which presents the darker side of subjectivity, the ghosts of otherness that haunt our fragile selves” (2009, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260412T000640Z" creationid="A" creationdate="20260412T000640Z">
+        <seg>Según Beville, el terror del estilo gótico, «a menudo inherente en sus monstruos y cuerpos marginados, </seg>
       </tuv>
     </tu>
     <tu>
@@ -571,6 +611,14 @@ ver vis-à-vis</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T223733Z" creationid="tg" creationdate="20260405T024140Z">
         <seg>Los símbolos aristocráticos de la caballería y el romance quedan subordinados a los valores burgueses de virtud, mérito, buenos modales y, dentro de lo razonable, al individualismo.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As Maria Beville argues in her insightful study of Gothic postmodernism, a link could be forged between the Gothic and postmodernism based on the notion of terror as well as an emphatic concern with (de-centred) human subjectivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T024028Z" creationid="A" creationdate="20260411T024028Z">
+        <seg>Como sostiene Maria Beville en su insondable estudio acerca del posmodernismo gótico, se podría establecer una relación entre el estilo gótico y el posmodernismo a partir de la noción del terror, así como una preocupación enfática por la subejtividad humana (descentrada).</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +914,14 @@ rever vis-à-vis</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T202351Z" creationid="tg" creationdate="20260404T200703Z">
         <seg>Al aprovechar esta relación sinérgica entre el gótico y el posmodernismo, la novela se apoya en el gótico y en su asociación indeleble con lo primitivo, lo bárbaro, lo tabú, la monstruosidad y el horror para consumar la representación paródica.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Following a discussion of the congruence between the Gothic, postmodernism, and parody, the following section will attempt to demonstrate that “the realization of the self,” particularly in terms of “a sense of who one is, gender distinction, family and professional perspectives, social and interhuman status and role,… communication and behaviour, [and] personal discernment”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T235038Z" creationid="A" creationdate="20260411T015959Z">
+        <seg>Luego de realizar un debate sobre la congruencia entre el estilo gótico, el posmodernismo y la parodia, en la sección siguiente se intentará demostrar que «la realización del yo», en particular, en términos de «un sentido de quién es uno, distinción de género, perspectivas familiares y profesionales, estatus y rol social e interhumano,... comunicación y comportamiento, [y] discernimiento personal»</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,6 +2288,14 @@ Invertir S y P</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thus, the idea of individual advancement toward a ﬁnal destination constitutive of the *Bildungsroman* concurrently suggests a “universal” rather than a</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T010315Z" creationid="A" creationdate="20260411T004841Z">
+        <seg>Por lo tanto, la idea del avance individual hacia el destino final constitutivo del género *bildungsroman* propone, al mismo tiempo, un «telos universal» en lugar de un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To achieve the foregoing, the novel fuses Gothic and postmodern elements into a synergy calibrated for the optimal representation of the horrid disintegration of a master narrative about humanity, namely humanism.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T201704Z" creationid="tg" creationdate="20260404T200344Z">
@@ -2487,6 +2551,14 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T202536Z" creationid="Soundwave" creationdate="20260411T202536Z">
         <seg>«relatos interpolados» (p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“merely singular telos” (Boes, 2012, p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260411T010647Z" creationid="A" creationdate="20260411T010647Z">
+        <seg>«simple telos singular» (Boes, 2012, pág.</seg>
       </tuv>
     </tu>
     <tu>
