@@ -435,11 +435,12 @@ respetar los cortes de segmento</note>
       </tuv>
     </tu>
     <tu>
+      <note>counter-narrative a glosario</note>
       <tuv lang="en-US">
         <seg>According to Fred Botting, the Gothic “shadow[s] the progress of modernity with counter-narratives displaying the underside of enlightenment and humanist values” (2005, p. 1).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T184813Z" creationid="gabrielt" creationdate="20260414T184813Z">
-        <seg>sigue de cerca el progreso de la modernidad con contrarrelatos que ponen de manifiesto el lado oculto de la Ilustración y los valores humanistas» (2005, pág. 1).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T191117Z" creationid="gabrielt" creationdate="20260414T184813Z">
+        <seg>Según Fred Botting, el estilo gótico sigue de cerca el progreso de la modernidad con contrarrelatos que ponen de manifiesto el lado oculto de la Ilustración y los valores humanistas» (2005, pág. 1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,11 +1424,14 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate v2]</prop>
+      <note>condense
+hacer bien la ellipsis</note>
       <tuv lang="en-US">
         <seg>In other words, the Gothic “condenses the many perceived threats to these values, threats associated with… imaginative excesses and delusions,… human evil, social transgression, mental disintegration and spiritual corruption” (2005, p.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260412T201905Z" creationid="A" creationdate="20260412T201905Z">
-        <seg>Dicho de otro modo, el estilo gótico concentra las numerosas amenazas percibidas hacia estos valores, amenazas que se asocian a... los excesos y delirios imaginativos,... la maldad humana, la transgresión social, la desintegración mental y la corrupción espiritual» (2005, pág.«</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T191307Z" creationid="A" creationdate="20260412T201905Z">
+        <seg>En otras palabras, lo gótico “condensa las muchas amenazas percibidas a estos valores, amenazas asociadas con… excesos y delirios imaginativos,… maldad humana, transgresión social, desintegración mental y corrupción espiritual” (2005, p.</seg>
       </tuv>
     </tu>
     <tu>
