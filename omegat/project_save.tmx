@@ -460,6 +460,17 @@ respetar los cortes de segmento</note>
       </tuv>
     </tu>
     <tu>
+      <note>arreglar comillas.
+in B.'s terms
+obstáculos para...</note>
+      <tuv lang="en-US">
+        <seg>According to Jerold E. Hogle, Kristeva argues that “grotesques” were “explicitly created to embody [the] contradictions” and indeterminacy of our identities (2002, p. 7), or in Beville’s terms, “those obstacles to subjective knowledge and the creation of coherent identity” (2009, p. 39).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T192111Z" creationid="gabrielt" creationdate="20260414T192111Z">
+        <seg>Según Jerold E. Hogle, Kristeva sostiene que los «grotescos» han sido creados explícitamente para personificar [las] contradicciones y la indeterminación de nuestras identidades (2002, p. 7), o, por lo que respecta a Beville, aquellos obstáculos para el conocimiento subjetivo y la creación de una identidad coherente (2009, p. 39).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>According to Rosi Braidotti, humanism “combines the biological, discursive and moral expansion of human capabilities into an idea of teleologically ordained, rational progress” (2013, p.</seg>
       </tuv>
@@ -1793,6 +1804,15 @@ Pensar se las traducciones corresponden al español</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T001451Z" creationid="tg" creationdate="20260404T174355Z">
         <seg>No obstante, cabe señalar que el género gótico no es un mero reflejo ficcional, sino más bien un precursor en la lucha por encarar el creciente horror de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>acordar p. o pág.</note>
+      <tuv lang="en-US">
+        <seg>Nevertheless, it bears noting that the Gothic is not a mere ﬁctional reﬂection but, rather, a forerunner in the struggle to tackle the growing horror of ﬂoundering “masternarratives about humanity” (Halberstam and Livingston, 1995, p. 4).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T191847Z" creationid="gabrielt" creationdate="20260414T191847Z">
+        <seg>No obstante, cabe señalar que el género gótico no es un mero reflejo ficcional, sino más bien un precursor en la lucha por encarar el creciente horror de los debatibles «grandes relatos sobre la humanidad» (Halberstam y Livingston, 1995, p. 4).</seg>
       </tuv>
     </tu>
     <tu>
