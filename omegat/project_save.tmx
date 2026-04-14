@@ -464,12 +464,12 @@ respetar los cortes de segmento</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
+      <note>increasing</note>
       <tuv lang="en-US">
         <seg>According to Jarrett, “McCarthy’s ﬁction places an increasing emphasis on interpolated tales, exhibiting thereby a pronounced self-consciousness about narrative and the function of the novels within the postmodern world” (1993, pp.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T195122Z" creationid="gabrielt" creationdate="20260414T195122Z">
-        <seg>hace énfasis en relatos interpolados, exhibiendo, por lo tanto, una marcada autoconciencia respecto de la narración y de la función de la novela en el mundo posmoderno» </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T201226Z" creationid="gabrielt" creationdate="20260414T195122Z">
+        <seg>Según Jarrett, «la ficción de McCarthy hace énfasis en relatos interpolados, exhibiendo, por lo tanto, una marcada autoconciencia respecto de la narración y de la función de la novela en el mundo posmoderno» </seg>
       </tuv>
     </tu>
     <tu>
