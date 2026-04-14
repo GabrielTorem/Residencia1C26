@@ -5,6 +5,7 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>¿le diremos siempre género a *Bildungsroman*?</note>
       <tuv lang="en-US">
         <seg>## *Child of God* as a postmodern Gothic parody of the *Bildungsroman*</seg>
       </tuv>
@@ -417,6 +418,7 @@ respetar los cortes de segmento</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿Qué hicimos con la cita?</note>
       <tuv lang="en-US">
         <seg>According to Beville, the terror of the Gothic, “often inherent in its monsters and othered bodies, functions as a deconstructive counter-narrative which presents the darker side of subjectivity, the ghosts of otherness that haunt our fragile selves” (2009, p. 41).</seg>
       </tuv>
@@ -694,6 +696,9 @@ ver vis-à-vis</note>
       </tuv>
     </tu>
     <tu>
+      <note>insondable
+enfática
+gothic a glosario</note>
       <tuv lang="en-US">
         <seg>As Maria Beville argues in her insightful study of Gothic postmodernism, a link could be forged between the Gothic and postmodernism based on the notion of terror as well as an emphatic concern with (de-centred) human subjectivity.</seg>
       </tuv>
