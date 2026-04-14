@@ -751,6 +751,14 @@ ver cómo cargamos a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>As Philip L. Simpson argues, “any given depiction of the Gothic killer will be inextricably linked to the historical context in which the author composes his or her work” (2000, p. 135).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T193339Z" creationid="gabrielt" creationdate="20260414T193339Z">
+        <seg>Como sostiene Philip L. Simpson, «toda representación del asesino gótico se halla inextricablemente ligada al contexto histórico en el que el autor compone su obra» (2000, p. 135). En otras palabras, el asesino serial procura «inscribir una identidad en el cuerpo político» (2000, p. 135).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>scholars
 acuñado por primera vez es pleonasmo</note>
       <tuv lang="en-US">
@@ -1075,6 +1083,14 @@ Pensar orden.
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T195539Z" creationid="Soundwave" creationdate="20260411T195539Z">
         <seg>Por ejemplo, el lector se entera que el padre de Ballard se suicidó ahorcándose cuando este tenía «unos nueve o diez año[s] [sic]» (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the reader learns that Ballard’s father committed suicide by hanging himself when Ballard was about “nine or ten year old [sic]” (p. 22).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T193359Z" creationid="gabrielt" creationdate="20260414T193359Z">
+        <seg>Por ejemplo, el lector se entera que el padre de Ballard se suicidó ahorcándose cuando este tenía «unos nueve o diez año[s] [sic]» (p. 22).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,6 +1491,14 @@ hacer bien la ellipsis</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T195011Z" creationid="Soundwave" creationdate="20260411T195011Z">
         <seg>En otras palabras, el asesino serial procura «inscribir una identidad en el cuerpo político» (2000, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, the serial killer opts to “write an identity on the body politic” (2000, p. 135).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T193352Z" creationid="gabrielt" creationdate="20260414T193352Z">
+        <seg>En otras palabras, el asesino serial procura «inscribir una identidad en el cuerpo político» (2000, p. 135).</seg>
       </tuv>
     </tu>
     <tu>
