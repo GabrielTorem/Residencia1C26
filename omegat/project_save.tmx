@@ -394,6 +394,16 @@ ver qué se hace con la cita</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>:::{.Quotation centered}
+(1) the idea of &lt;u&gt;Bildung&lt;/u&gt;, or formation… shaping of a single main character, normally of a young man; (2) individualism, especially the emphasis on the uniqueness of the protagonist and the primacy of his private life and thoughts, although these are at the same time representative of an age and culture; (3) the biographical element… in what Dilthey calls the ‘conscious and artistic presentation of what is typically human through the depiction of a particular individual life’; (4) the connection with psychology, especially the then-new psychology of development; and (5) the ideal of humanity, of the full realization of all human potential as the goal of life.’ (1968, p. 136)
+:::</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260414T233148Z" creationid="Profesorado" creationdate="20260414T233148Z">
+        <seg>(1) el concepto de *Bildung*, o formación, que le da forma a un solo personaje principal, por lo general un joven; (2) el individualismo, en especial el énfasis en la singularidad del protagonista y la primacía de su vida y pensamientos íntimos, aunque estos son, al mismo tiempo, representativos de una época y una cultura; (3) el elemento biográfico, en lo que Dilthey denomina la «presentación consciente y artística de lo que es típicamente humano a través de la descripción de una vida individual en particular»; (4) la conexión con la psicología, en especial con la nueva psicología del desarrollo de aquel entonces; y (5) el ideal de humanidad, de la plena realización de todo el potencial humano como meta de vida.’ (1968, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>discutir títulos de libros
 
 respetar los cortes de segmento</note>
