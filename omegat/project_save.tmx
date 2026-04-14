@@ -1571,6 +1571,14 @@ ponderan es ambiguo, falta consequent.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Less identifiable as a separate genre in the nineteenth century, Gothic fiction seemed to go underground:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260414T163619Z" creationid="tg" creationdate="20260414T163619Z">
+        <seg>La ficción gótica, difícil de distinguir de otros géneros en el siglo XIX, parecía haberse replegado: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lionel Trilling</seg>
       </tuv>
       <tuv lang="es-ES" changeid="borrar" changedate="20260402T144713Z" creationid="borrar" creationdate="20260402T144713Z">
