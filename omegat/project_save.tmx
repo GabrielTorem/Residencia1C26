@@ -643,6 +643,16 @@ ver vis-à-vis</note>
       </tuv>
     </tu>
     <tu>
+      <note>cuerpo gótico. Conc. exc.
+v.p.</note>
+      <tuv lang="en-US">
+        <seg>Analysing the Gothic body in the nineteenth century by drawing on Bénédict Morel’s degeneration theory, Kelly Hurley notes that “degeneracy was [deemed] progressive in its effects, as the original contamination… intensiﬁed itself in the offspring, and was manifested in the increasing mental and physical deformity of each successive generation” (1996, p. 68).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T194700Z" creationid="gabrielt" creationdate="20260414T194700Z">
+        <seg>A partir de la teoría de la degeneración de Bénédict Morel y, analizando el cuerpo gótico en el Siglo XIX, Kelly Hurley señala que «la degeneración era [considerada] progresiva en sus efectos, en tanto la contaminación original… se intensificaba en la descendencia y se manifestaba en la creciente deformidad mental y física de cada generación sucesiva» (1996, p. 68).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>And builds a Hell in</seg>
       </tuv>
@@ -866,6 +876,14 @@ pluntuación</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T200303Z" creationid="Soundwave" creationdate="20260411T200303Z">
         <seg>Al concluir su relato, afirma que «se los puede remontar hasta Adán si se quiere, y maldita sea, si no los superó a todos», lo que sugiere que la genealogía de los Ballard ha seguido una trayectoria degenerativa (p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the end of his account, he concludes, “You can trace em back to Adam if you want and goddamn if he didn’t outstrip em all,” suggesting that the Ballards’ genealogy has followed a degenerative trajectory (p. 63).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T194447Z" creationid="gabrielt" creationdate="20260414T194447Z">
+        <seg>Al concluir su relato, afirma que «se los puede remontar hasta Adán si se quiere, y maldita sea, si no los superó a todos», lo que sugiere que la genealogía de los Ballard ha seguido una trayectoria degenerativa (p. 63).</seg>
       </tuv>
     </tu>
     <tu>
