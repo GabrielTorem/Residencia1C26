@@ -2924,6 +2924,15 @@ agregar passion-love al glosario</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>x), which involves a concern with human subjectivity, and the role of “interpolated tales” (p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T202129Z" creationid="gabrielt" creationdate="20260414T202129Z">
+        <seg>x), que implica la problemática de la subjetividad humana, junto con el papel de los </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>{.Quotation centered}
 There she was with her ruined looks and her adult, rope-veined narrow hands and her gooseflesh white arms, and her shallow ears, and her unkempt armpits, there she was (my *Lolita*!), hopelessly worn at seventeen, with that baby, dreaming already in her of becoming a big shot and retiring around A.D.</seg>
