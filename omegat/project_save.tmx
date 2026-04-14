@@ -1086,6 +1086,8 @@ Pensar orden.
       </tuv>
     </tu>
     <tu>
+      <note>queísmo
+ver qué es el [sic] ¿Qué traducción tomamos?</note>
       <tuv lang="en-US">
         <seg>For example, the reader learns that Ballard’s father committed suicide by hanging himself when Ballard was about “nine or ten year old [sic]” (p. 22).</seg>
       </tuv>
@@ -1422,6 +1424,14 @@ account ≠ relato</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T200004Z" creationid="Soundwave" creationdate="20260411T200004Z">
         <seg>En otro capítulo, se relata que Ballard «trabajó para el viejo Whaley colocando postes de cerca» para comprar un rifle «cuando apenas dejaba de ser un niño», y que era un tirador excepcional, capaz de «acertar a cualquier cosa que estuviese a su alcance» (p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In another chapter, it is related that Ballard “worked for old man Whaley settin fenceposts” to buy a riﬂe “when he was just almost a boy,” and he was a crack shot, who could “hit anything he could see” (p. 47).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T194351Z" creationid="gabrielt" creationdate="20260414T194351Z">
+        <seg>En otro capítulo, se relata que Ballard «trabajó para el viejo Whaley colocando postes de cerca» para comprar un rifle «cuando apenas dejaba de ser un niño», y que era un tirador excepcional, capaz de «acertar a cualquier cosa que estuviese a su alcance» (p. 47).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1788,6 +1798,15 @@ ponderan es ambiguo, falta consequent.</note>
       </tuv>
     </tu>
     <tu>
+      <note>en condición de...</note>
+      <tuv lang="en-US">
+        <seg>Moreover, his “mother had run off,” which, following the death of his father, made him an orphan (p. 22).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T194324Z" creationid="gabrielt" creationdate="20260414T194324Z">
+        <seg>Además, su «madre había abandonado el hogar», lo que, tras la muerte del padre, lo dejó en condición de huérfano (p. 22).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Moving from real and toy animals to posthuman corpses, the non-human community escalates in a way that echoes Ballard’s progressive alienation and dehumanization.</seg>
       </tuv>
@@ -1923,6 +1942,15 @@ Pensar se las traducciones corresponden al español</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T200127Z" creationid="Soundwave" creationdate="20260411T200127Z">
         <seg>Un personaje refiere una anécdota sobre el abuelo de Ballard, un tramposo, que tenía un hermano menor que fue ahorcado (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>un tramposo</note>
+      <tuv lang="en-US">
+        <seg>One character recounts an anecdote about Ballard’s grandfather, who was a cheat, and had a younger brother, who was hanged (p. 63).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T194418Z" creationid="gabrielt" creationdate="20260414T194418Z">
+        <seg>Un personaje refiere una anécdota sobre el abuelo de Ballard, un tramposo, que tenía un hermano menor que fue ahorcado (p. 63).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2263,6 +2291,7 @@ desarrollo mesurado</note>
       </tuv>
     </tu>
     <tu>
+      <note>invertir?</note>
       <tuv lang="en-US">
         <seg>The biographical element is manifest in both the concentration of the narrative on Ballard’s life as its focal point and the episodic, yet signiﬁcant, information about Ballard’s childhood and background, which the postmodern Gothic nature of the novel accommodates.</seg>
       </tuv>
