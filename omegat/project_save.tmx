@@ -31,6 +31,18 @@
       </tuv>
     </tu>
     <tu>
+      <note>single main character
+estos son: subjuntivo?
+then-new
+a glosario: psychology of development</note>
+      <tuv lang="en-US">
+        <seg>(1) the idea of &lt;u&gt;Bildung&lt;/u&gt;, or formation… shaping of a single main character, normally of a young man; (2) individualism, especially the emphasis on the uniqueness of the protagonist and the primacy of his private life and thoughts, although these are at the same time representative of an age and culture; (3) the biographical element… in what Dilthey calls the ‘conscious and artistic presentation of what is typically human through the depiction of a particular individual life’; (4) the connection with psychology, especially the then-new psychology of development; and (5) the ideal of humanity, of the full realization of all human potential as the goal of life.’ (1968, p. 136)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T193047Z" creationid="gabrielt" creationdate="20260414T193047Z">
+        <seg>(1) el concepto de *Bildung*, o formación, que le da forma a un solo personaje principal, por lo general un joven; (2) el individualismo, en especial el énfasis en la singularidad del protagonista y la primacía de su vida y pensamientos íntimos, aunque estos son, al mismo tiempo, representativos de una época y una cultura; (3) el elemento biográfico, en lo que Dilthey denomina la «presentación consciente y artística de lo que es típicamente humano a través de la descripción de una vida individual en particular»; (4) la conexión con la psicología, en especial con la nueva psicología del desarrollo de aquel entonces; y (5) el ideal de humanidad, de la plena realización de todo el potencial humano como meta de vida.’ (1968, p. 136)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(1936–38).</seg>
       </tuv>
@@ -1120,6 +1132,7 @@ Clarificar.</note>
       </tuv>
     </tu>
     <tu>
+      <note>concordancia</note>
       <tuv lang="en-US">
         <seg>G. B. Tennyson enumerates the ﬁve main characteristics Dilthey attributes to the Bildungsroman in the chapter entitled “Friedrich Hölderlin” in his *Poetry and Experience* as follows:</seg>
       </tuv>
@@ -2077,6 +2090,8 @@ ver "sea"</note>
       </tuv>
     </tu>
     <tu>
+      <note>personif.
+ver Similarly</note>
       <tuv lang="en-US">
         <seg>Similarly, McCarthy’s *Child of God* depicts the conﬂict-plagued life and identity formation of a single character, that is, a young man named Lester Ballard.</seg>
       </tuv>
@@ -2378,6 +2393,15 @@ counter-discourse a glosario</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260404T194003Z" creationid="tg" creationdate="20260404T194003Z">
         <seg>La preocupación constante por la identidad podría resumirse en la reflexión de Ballard, que se presenta en estilo indirecto libre al observar «frías estrellas esparcidas a través del hueco de humo y se pregunta de qué están hechas, o de qué está hecho él mismo» (p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>¿de dónde sale esta cita?</note>
+      <tuv lang="en-US">
+        <seg>The pervasive concern with identity could be summarized in Ballard’s reﬂection rendered in free indirect style when he watches “cold stars sprawled across the smokehole and wonder[s] what stuff they [are] made of, or himself” (p. 107).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T193211Z" creationid="gabrielt" creationdate="20260414T193211Z">
+        <seg>La preocupación constante por la identidad podría resumirse en la reflexión de Ballard, que se presenta en estilo indirecto libre al observar «frías estrellas esparcidas a través del hueco de humo y se pregunta de qué están hechas, o de qué está hecho él mismo» (p. 107).</seg>
       </tuv>
     </tu>
     <tu>
