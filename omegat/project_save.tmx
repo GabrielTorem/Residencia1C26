@@ -2093,6 +2093,15 @@ desarrollo mesurado</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The city, a gloomy forest or dark labyrinth itself, became a site of nocturnal corruption and violence, a locus of real horror; the family became a place rendered threatening and uncanny by the haunting return of past transgressions and attendant guilt on an everyday world shrouded in strangeness.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260414T163735Z" creationid="tg" creationdate="20260414T163735Z">
+        <seg>La ciudad en sí misma, un bosque sombrío o un laberinto oscuro, se convirtió en un escenario de corrupción nocturna y de violencia, un epicentro de horror innegable; el entorno familiar devino en un espacio amenazante y extraño por el retorno persistente de transgresiones del pasado y la culpa que las acompaña, en un mundo cotidiano envuelto en extrañeza.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>al de ...
 
 redacción</note>
@@ -2563,6 +2572,15 @@ agregar passion-love al glosario</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260412T183645Z" creationid="A" creationdate="20260412T183645Z">
         <seg>es la muerte» (Baudrillard, 1993, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>its depths were less romantic chasms or labyrinthine dungeons, than the murky recesses of human subjectivity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260414T163707Z" creationid="tg" creationdate="20260414T163707Z">
+        <seg>sus ámbitos ya no eran los abismos románticos ni las mazmorras laberínticas, sino los recovecos turbios de la subjetividad humana.
+</seg>
       </tuv>
     </tu>
     <tu>
