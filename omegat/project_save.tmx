@@ -1401,10 +1401,8 @@ account ≠ relato</note>
       <tuv lang="en-US">
         <seg>In other words, in this type of literature, “the plot is the character —the representation of ‘how one becomes who one is’” (Bates, 2009, p. 404; italics in the original).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T184357Z" creationid="gabrielt" creationdate="20260414T184357Z">
-        <seg>Dicho de otro modo, en este tipo de literatura, «la trama es el personaje: la representación de "cómo una persona se convierte en lo que es"» (Bates, 2009, pág. 404; cursiva en el original).
-
-</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T185035Z" creationid="gabrielt" creationdate="20260414T184357Z">
+        <seg>Dicho de otro modo, en este tipo de literatura, «la trama es el personaje: la representación de "cómo una persona se convierte en lo que es"» (Bates, 2009, pág. 404; cursiva en el original).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2524,6 +2522,10 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
+      <note>Pensar thus.
+Pensar coma en constitutivo
+¿cursiva en telos?
+</note>
       <tuv lang="en-US">
         <seg>Thus, the idea of individual advancement toward a ﬁnal destination constitutive of the *Bildungsroman* concurrently suggests a “universal” rather than a “merely singular telos” (Boes, 2012, p. 19) and is, therefore, inextricably interwoven with the discourse of humanism.</seg>
       </tuv>
