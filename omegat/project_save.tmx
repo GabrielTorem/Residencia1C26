@@ -514,11 +514,13 @@ razón empoderada
       </tuv>
     </tu>
     <tu>
+      <note>lejos de la muerte.
+Rever oración.</note>
       <tuv lang="en-US">
         <seg>Accordingly, presenting a hybrid mode that “emerges from the dialogic interaction of Gothic and postmodernist characteristics in a given text” (2009, p. 9), Beville contends that the Gothic serves “as the clearest mode of expression in literature for voicing the terrors of postmodernity; a mode that is far from dead and in fact rejuvenated in the present context of increased global terrorism” (Beville, 2009, p. 8).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T184621Z" creationid="gabrielt" creationdate="20260414T184621Z">
-        <seg>Por lo tanto, tras introducir un modo híbrido que «surge de la interacción dialógica del estilo gótico y las características posmodernistas en un texto dado» (2009, pág. 9), Beville afirma que el estilo gótico funciona «como el modo de expresión más claro en la literatura para expresar los terrores de la posmodernidad; un modo que se encuentra lejos de la muerte y, de hecho, se renueva en el presente, contexto del terrorismo global creciente» (Beville, 2009, pág. 8).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T190021Z" creationid="gabrielt" creationdate="20260414T184621Z">
+        <seg>|Por lo tanto, tras introducir un modo híbrido que «surge de la interacción dialógica del estilo gótico y las características posmodernistas en un texto dado» (2009, pág. 9), Beville afirma que el estilo gótico funciona «como el modo de expresión más claro en la literatura para expresar los terrores de la posmodernidad; un modo que se encuentra lejos de la muerte y, de hecho, se renueva en el presente, contexto del terrorismo global creciente» (Beville, 2009, pág. 8).</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,7 +700,9 @@ ver vis-à-vis</note>
     <tu>
       <note>insondable
 enfática
-gothic a glosario</note>
+gothic a glosario
+
+ver cómo cargamos a glosario</note>
       <tuv lang="en-US">
         <seg>As Maria Beville argues in her insightful study of Gothic postmodernism, a link could be forged between the Gothic and postmodernism based on the notion of terror as well as an emphatic concern with (de-centred) human subjectivity.</seg>
       </tuv>
@@ -1196,6 +1200,8 @@ to be at pains = ansía con / ansioso por</note>
       </tuv>
     </tu>
     <tu>
+      <note>concordancia
+antep. adj.</note>
       <tuv lang="en-US">
         <seg>However, as Catherine Spooner points out, the components of the Gothic can be “reordered in inﬁnite combinations, because they provide a lexicon that can be plundered for a hundred different purposes, a crypt of body parts that can be stitched together in myriad different permutations” (2006, p. 156).</seg>
       </tuv>
@@ -2238,6 +2244,8 @@ redacción</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿primaria o principal?
+¿posmodernista, posmoderna, postmodern...?</note>
       <tuv lang="en-US">
         <seg>The enunciation of the sublime effects of terror is the “primary function” of both Gothic rhetoric and postmodernist literature, both of which can be perceived as routes to “the unknown, unrepresentable aspects of self and reality” (Beville, 2009, p. 15).</seg>
       </tuv>
