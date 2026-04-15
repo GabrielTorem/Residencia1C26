@@ -1671,6 +1671,14 @@ Ver comillas</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It has been commonly acknowledged that Johann Wolfgang von Goethe’s *Wilhelm Meister’s Apprenticeship* (1795) is the “paradigmatic example” of the German *Bildungsroman* or the novel of formation (Boes, 2012, p. 1), which is “linked to *Humanität* as harmonious development of individuality” through “a metamorphoses of role and character” (Ryan et al., 2022).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260415T140447Z" creationid="tg" creationdate="20260415T140447Z">
+        <seg>Se reconoce, por lo general, que *Los años de aprendizaje de Wilhelm Meister* (1795) de Johann Wolfgang von Goethe es el «ejemplo paradigmático» del *Bildungsroman* alemán o novela de formación (Boes, 2012, p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T183027Z" creationid="Soundwave" creationdate="20260406T183027Z">
@@ -1948,6 +1956,15 @@ Pensar se las traducciones corresponden al español</note>
         <seg>Nevertheless, it was with Wilhelm Dilthey’s 1870 biography of Friedrich Schleiermacher and his 1906 study *Poetry and Experience* that the term gained traction in modern criticism (Boes, 2006, p.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260410T175203Z" creationid="tg" creationdate="20260410T175203Z">
+        <seg>No obstante, el término adquirió relevancia en la crítica moderna con la biografía de Friedrich Schleiermacher escrita por Wilhelm Dilthey en 1870 y con su estudio *Poesía y experiencia* de 1906 (Boes, 2006, p.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nevertheless, it was with Wilhelm Dilthey’s 1870 biography of Friedrich Schleiermacher and his 1906 study *Poetry and Experience* that the term gained traction in modern criticism (Boes, 2006, p. 231).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260415T140404Z" creationid="tg" creationdate="20260415T140404Z">
         <seg>No obstante, el término adquirió relevancia en la crítica moderna con la biografía de Friedrich Schleiermacher escrita por Wilhelm Dilthey en 1870 y con su estudio *Poesía y experiencia* de 1906 (Boes, 2006, p.
 </seg>
       </tuv>
@@ -2548,6 +2565,14 @@ counter-discourse a glosario</note>
         <seg>The term, however, was discussed in a more systematic manner by Morgenstern in another lecture entitled “On the Nature of the *Bildungsroman*” nine years later (Boes, 2012, p.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260413T191441Z" creationid="tg" creationdate="20260403T203432Z">
+        <seg>Sin embargo, Morgenstern analizó el término de manera más sistemática en otra conferencia titulada «On the Nature of the *Bildungsroman*» («Sobre la naturaleza del *Bildungsroman*»), nueve años más tarde (Boes, 2012, p. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The term, however, was discussed in a more systematic manner by Morgenstern in another lecture entitled “On the Nature of the *Bildungsroman*” nine years later (Boes, 2012, p. 1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260415T140344Z" creationid="tg" creationdate="20260415T140344Z">
         <seg>Sin embargo, Morgenstern analizó el término de manera más sistemática en otra conferencia titulada «On the Nature of the *Bildungsroman*» («Sobre la naturaleza del *Bildungsroman*»), nueve años más tarde (Boes, 2012, p. </seg>
       </tuv>
     </tu>
