@@ -1712,6 +1712,15 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>It is H. H., that mixture of ferocity and jocularity, who reminds us that “Love seeketh only self to please... .</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260415T143958Z" creationid="tg" creationdate="20260415T143958Z">
+        <seg>H. H. es, con esa mezcla de ferocidad y jocosidad, quien nos recuerda que «El amor solo busca complacerse a sí mismo… .
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>about</note>
       <tuv lang="en-US">
         <seg>It is about love.</seg>
