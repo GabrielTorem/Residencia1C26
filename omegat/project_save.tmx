@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -481,6 +481,14 @@ novels</note>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T201226Z" creationid="gabrielt" creationdate="20260414T195122Z">
         <seg>Según Jarrett, «la ficción de McCarthy hace énfasis en relatos interpolados, exhibiendo, por lo tanto, una marcada autoconciencia respecto de la narración y de la función de la novela en el mundo posmoderno» </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>According to Jarrett, “McCarthy’s ﬁction places an increasing emphasis on interpolated tales, exhibiting thereby a pronounced self-consciousness about narrative and the function of the novels within the postmodern world” (1993, pp. 145–146).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260415T101519Z" creationid="gabrielt" creationdate="20260415T101519Z">
+        <seg>Según Jarrett, «la ficción de McCarthy hace énfasis en relatos interpolados, exhibiendo, por lo tanto, una marcada autoconciencia respecto de la narración y de la función de la novela en el mundo posmoderno» (1993, pp. 145−146).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1177,6 +1185,14 @@ Clarificar.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T202452Z" creationid="Soundwave" creationdate="20260411T202452Z">
         <seg>Asimismo, el motivo de «la búsqueda emprendida a través de un paisaje visionario» (Jarrett, 1997, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, the theme of “the quest undertaken through a visionary landscape” (Jarrett, 1997, p. x), which involves a concern with human subjectivity, and the role of “interpolated tales” (p. x) accommodate the engagement with intertextuality through the use of parody.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260415T101907Z" creationid="gabrielt" creationdate="20260415T101642Z">
+        <seg>Asimismo, el motivo de «la búsqueda emprendida a través de un paisaje visionario» (Jarrett, 1997, p. x), que implica la problemática de la subjetividad humana, junto con el papel de los  «relatos interpolados» (p. x) propicia la articulación de la intertextualidad mediante el uso de la parodia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2131,6 +2147,14 @@ canónico</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T202115Z" creationid="Soundwave" creationdate="20260411T202115Z">
         <seg>Con respecto al contexto posmoderno de la novela, Robert L. Jarrett sostiene que *Child of God* «traza los contornos de una alienación posmoderna en la que la conciencia solitaria —la del narrador y la del lector— refleja y opera sobre una naturaleza, el hombre y la historia externalizados» (1993, pp (1993, pp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Regarding the postmodern context of the novel, Robert L. Jarrett argues that *Child of God* “trace[s] the outlines of postmodern alienation in which the solitary consciousness—the narrator’s and the reader’s—reﬂects and operates on an externalized nature, man, and history” (1993, pp. 29–30).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260415T101459Z" creationid="gabrielt" creationdate="20260415T101459Z">
+        <seg>Con respecto al contexto posmoderno de la novela, Robert L. Jarrett sostiene que *Child of God* «traza los contornos de una alienación posmoderna en la que la conciencia solitaria —la del narrador y la del lector— refleja y opera sobre una naturaleza, el hombre y la historia externalizados» (1993, pp (1993, pp. 29−30).</seg>
       </tuv>
     </tu>
     <tu>
