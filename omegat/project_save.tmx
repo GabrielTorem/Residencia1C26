@@ -328,6 +328,14 @@ ver qué se hace con la cita</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3 McCarthy, 1993 (originally published in 1973), p. 116.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260419T143520Z" creationid="Soundwave" creationdate="20260419T143520Z">
+        <seg>McCarthy, 1993 (publicado originalmente en 1973), p. 116.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>39).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T195103Z" creationid="tg" creationdate="20260411T195103Z">
@@ -1020,8 +1028,8 @@ pluntuación</note>
       <tuv lang="en-US">
         <seg>Ballard among gothic tree boles, almost jaunty in the outsized clothing he wore, fording drifts of kneedeep snow” (p. 97).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260419T143341Z" creationid="Soundwave" creationdate="20260419T143341Z">
-        <seg>Ballard, entre troncos de impronta gótica, casi desenfadado dentro de su ropaje desmesurado, vadeando un camino de nieve que lo cubrían a la altura de las rodillasventisqueros de nieve hasta la rodilla” (p. 97).</seg>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260419T143419Z" creationid="Soundwave" creationdate="20260419T143341Z">
+        <seg>Ballard, entre troncos de impronta gótica, casi desenfadado dentro de su ropaje desmesurado, vadeando un camino de nieve que lo cubría a la altura de las rodillas» (p. 97).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +2322,14 @@ Pensar se las traducciones corresponden al español</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260419T142435Z" creationid="Soundwave" creationdate="20260419T142435Z">
         <seg>En «One Drive, Two Deaths in Cormac McCarthy’s Child of God» (2015), Christopher Jenkins sitúa las nociones freudianas de Eros y Tánatos en lo que denomina «la realidad espiritual» de la novela, destacando la muerte espiritual del protagonista como consecuencia de su degeneración moral (p. 97). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or, “In the black smokehole overhead the remote and lidless stars of the Pleiades burned cold and absolute” (p. 101).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260419T143504Z" creationid="Soundwave" creationdate="20260419T143504Z">
+        <seg>O bien: «En el negro respiradero de humo que se abría sobre sus cabezas, las remotas e insomnes estrellas de las Pléyades ardían, frías y absolutas» (p. 101).</seg>
       </tuv>
     </tu>
     <tu>
