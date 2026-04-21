@@ -14,11 +14,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Por favor, las marcas como ## o * copiarlas, porque marcan los estilos de  párrafo o texto respectivamente</note>
       <tuv lang="en-US">
         <seg>## Conclusion</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260404T200246Z" creationid="tg" creationdate="20260404T200246Z">
-        <seg>Conclusión</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T104116Z" creationid="tg" creationdate="20260404T200246Z">
+        <seg>## Conclusión</seg>
       </tuv>
     </tu>
     <tu>
@@ -1275,6 +1276,7 @@ determinacy a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <note>decentred a glosario</note>
       <tuv lang="en-US">
         <seg>Cormac McCarthy’s *Child of God* tackles the crisis of Man and its haunting horrors in a postmodern world of disorienting alienation and decentred subjectivity.</seg>
       </tuv>
@@ -3596,6 +3598,9 @@ ortogr.</note>
       </tuv>
     </tu>
     <tu>
+      <note>ver calibrated &gt; planeada
+ver espacios
+master narrative a glosario</note>
       <tuv lang="en-US">
         <seg>To achieve the foregoing, the novel fuses Gothic and postmodern elements into a synergy calibrated for the optimal representation of the horrid disintegration of a master narrative about humanity, namely humanism.</seg>
       </tuv>
