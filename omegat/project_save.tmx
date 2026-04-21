@@ -1469,6 +1469,15 @@ Pensar orden.
       </tuv>
     </tu>
     <tu>
+      <note>Acá no veo que se deban intercambiar los lugarres de los circs.</note>
+      <tuv lang="en-US">
+        <seg>Following the loss of the relatively civilized house in the ﬁre, the cave, which is the quintessential image of the primitive, the barbaric, and the tabooed, becomes Ballard’s new home.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T173649Z" creationid="gabrielt" creationdate="20260421T173649Z">
+        <seg>Tras la destrucción en el incendio de la casa relativamente civilizada, la cueva, que es la imagen por excelencia de lo primitivo, lo bárbaro y lo prohibido, se convierte en el nuevo hogar de Ballard.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>For example, the reader learns that Ballard’s father committed suicide by hanging himself when Ballard was about “nine or ten year old [sic]” (p.</seg>
       </tuv>
@@ -3241,6 +3250,15 @@ counter-discourse a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>The further the narrative advances, the more claustrophobic and primitive the atmosphere of the setting becomes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T173648Z" creationid="gabrielt" creationdate="20260421T173648Z">
+        <seg>Cuanto más avanza la narración, más claustrofóbica y primitiva se vuelve la atmósfera.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>The fusion of the Gothic and postmodernism in *Child of God* represents a controversial mode of writing along the lines of what Beville dubs “a literary monster” (2009, p. 16), which mirrors its own protagonist.</seg>
       </tuv>
@@ -3264,6 +3282,16 @@ counter-discourse a glosario</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260407T154936Z" creationid="A" creationdate="20260407T154936Z">
         <seg>La relación reconfigura el significado del terror gótico en el mundo posmoderno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>espacio después de p. 
+es la imagen de la casa</note>
+      <tuv lang="en-US">
+        <seg>The irony intimates the “primal wilderness” (Jarrett, 1997, p. 41) lying beneath the rusting patina of postmodern civilization that had been precariously sustained by the image of the ostensibly civilized house before giving way to the veritably primitive cave.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T173652Z" creationid="gabrielt" creationdate="20260421T173652Z">
+        <seg>En la ironía se insinúa el «salvajismo original» (Jarrett, 1997, p.41) que subyace bajo una pátina oxidada de civilización posmoderna, que la casa, civilizada en apariencia, había sostenido precariamente antes de dar paso a la auténtica cueva primitiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3399,6 +3427,15 @@ reason no sé si es motivo acá.</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260408T181112Z" creationid="tg" creationdate="20260403T001127Z">
         <seg>Por lo tanto, el novelista debe prestar atención a que la obsesión del amante resulte creíble y no ridícula.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>mejorar</note>
+      <tuv lang="en-US">
+        <seg>There is a subversive edge to the irony that permeates the image of the cave succeeding that of the ruined house.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260421T173650Z" creationid="gabrielt" creationdate="20260421T173650Z">
+        <seg>Hay un vestigio de subversión en la ironía que impregna la imagen de la cueva que sucede a la de la casa en ruinas.</seg>
       </tuv>
     </tu>
     <tu>
