@@ -22,6 +22,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Traducir este segmento.</note>
+      <tuv lang="en-US">
+        <seg>## Degeneration and Gothic space in *Child of God*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>## Notes</seg>
       </tuv>
@@ -2098,6 +2104,7 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>que vs. lo que</note>
       <tuv lang="en-US">
         <seg>It bears noting that the primacy of the setting and characterization in the Gothic corresponds to the dominance of the same components in the *Bildungsroman*, making them an apt target for parody.</seg>
       </tuv>
