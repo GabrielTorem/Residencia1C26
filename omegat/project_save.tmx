@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23,9 +23,11 @@
       </tuv>
     </tu>
     <tu>
-      <note>Traducir este segmento.</note>
       <tuv lang="en-US">
         <seg>## Degeneration and Gothic space in *Child of God*</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T013257Z" creationid="A" creationdate="20260421T013257Z">
+        <seg>## Degeneración y espacio gótico en *Hijo de Dios*</seg>
       </tuv>
     </tu>
     <tu>
@@ -487,6 +489,14 @@ respetar los cortes de segmento</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A cognate concern with the setting feeds into both the Gothic and postmodernism insofar as “the complications of postmodern writing, particularly in the areas of subjectivity and location (the inner and outer worlds), reﬂect back onto and into the Gothic” (Punter and Byron, 2004, p. 53).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014016Z" creationid="A" creationdate="20260421T014016Z">
+        <seg>Una preocupación afín por el escenario incide tanto en el gótico como en el posmodernismo, en la medida en que «las complicaciones de la escritura posmoderna, en particular, en los ámbitos de la subjetividad y la ubicación (los mundos interior y exterior) se reflejan en el gótico» (Punter y Byron, 2004, p. 53).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ARTICLE</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T182852Z" creationid="Soundwave" creationdate="20260406T182852Z">
@@ -903,6 +913,14 @@ v.p.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>As Jarrett notes, McCarthy’s setting functions both as “realistic regional detail and as universal symbols of postmodern contemporary existence” (1993, p. 47).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014625Z" creationid="A" creationdate="20260421T014625Z">
+        <seg>Como señala Jarrett, el escenario de McCarthy funciona como «detalle regional realista, así como símbolo universal de la existencia contemporánea posmoderna» (1993, p. 47).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>insondable
 enfática
 gothic a glosario
@@ -1183,6 +1201,14 @@ determinacy a glosario</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both effects can be found in the spatial setting of *Child of God*, in whose procession the typical progressive setting of the *Bildungsroman* is subverted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014200Z" creationid="A" creationdate="20260421T014200Z">
+        <seg>Se pueden hallar ambas situaciones en el escenario espacial de *Hijo de Dios*, en cuya trama se menoscaba el típico escenario progresivo del *Bildungsroman*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Broader definitions of Romanticism, like those by Eino Railo and Mario Praz, include Gothic writings, but as examples of less ideal themes of violence, incest, passion and agony: Gothic becomes the dark or negative side to Romanticism.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260420T005915Z" creationid="tg" creationdate="20260420T005915Z">
@@ -1251,6 +1277,14 @@ determinacy a glosario</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260405T023243Z" creationid="tg" creationdate="20260405T023243Z">
         <seg>Por medios nefarios, los villanos góticos usurpan a los herederos legítimos, despojan a familias respetables de su propiedad y reputación, al tiempo que amenazan el honor de sus esposas e hijas huérfanas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cars are also described as “degenerate” (p. 25), leaving “coiling dust” behind (p. 33), or “rusting” in a corner (p. 32).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014738Z" creationid="A" creationdate="20260421T014738Z">
+        <seg>Los autos también se describen como «degenerados» (p. 25), que dejan atrás «polvo en volutas» (p. 33), o se «oxidan» en un rincón (p. 32).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1493,6 +1527,14 @@ ver qué es el [sic] ¿Qué traducción tomamos?</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260415T184149Z" creationid="gabrielt" creationdate="20260414T193359Z">
         <seg>Por ejemplo, el lector se entera del suicidio de su padre por ahorcamiento cuando este tenía «unos nueve o diez año[s] [sic]» (p. 22).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, when Ballard stops by Ralph’s house and brings a robin for Billy, the place is described thus: “familiar of the warped ﬂoorboards and the holes tacked up with foodtins hammered ﬂat, a consort of roaches and great hairy spiders in their season, perenially benastied and afﬂicted with a nameless crud” (p. 60).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014604Z" creationid="A" creationdate="20260421T014604Z">
+        <seg>Por ejemplo, cuando Ballard pasa por la casa de Ralph y le trae un petirrojo a Billy, el lugar se describe así: «familiarizado con los tablones hundidos del suelo y con los agujeros fijados con tachuelas hechas de latas de comida aplastadas, familiarizado con un consorte de cucarachas y de arañas en celo, grandes y peludas, oprimido y aquejado de una estupidez indescriptible y perpetua» (p. 60).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1841,6 +1883,14 @@ account ≠ relato</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260405T023307Z" creationid="tg" creationdate="20260405T023307Z">
         <seg>El poder ilegítimo y la violencia no solo se exhiben, sino que amenazan con extinguir del mundo los valores de la vida civilizada y familiar. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Images of decay pervade Ballard’s surroundings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014307Z" creationid="A" creationdate="20260421T014307Z">
+        <seg>Imágenes de decadencia invaden el entorno de Ballard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,6 +2565,14 @@ Pensar se las traducciones corresponden al español</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nevertheless, even though there are scenes when Ballard is dwarfed by nature,2 the Gothic setting in the novel primarily serves a playfully specular purpose for the reﬂection of the growing alienation and degenerative journey of the protagonist.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014254Z" creationid="A" creationdate="20260421T014254Z">
+        <seg>No obstante, a pesar de que existen escenas en las que la naturaleza empequeñece a Ballard, el escenario gótico de la novela sirve, sobre todo, a un propósito especular y lúdico para reflejar la alienación creciente y el viaje degenerativo del protagonista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nevertheless, it bears noting that the Gothic is not a mere ﬁctional reﬂection but, rather, a forerunner in the struggle to tackle the growing horror of</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T001451Z" creationid="tg" creationdate="20260404T174355Z">
@@ -2528,6 +2586,14 @@ Pensar se las traducciones corresponden al español</note>
       </tuv>
       <tuv lang="es-ES" changeid="gabrielt" changedate="20260414T191847Z" creationid="gabrielt" creationdate="20260414T191847Z">
         <seg>No obstante, cabe señalar que el género gótico no es un mero reflejo ficcional, sino más bien un precursor en la lucha por encarar el creciente horror de los debatibles «grandes relatos sobre la humanidad» (Halberstam y Livingston, 1995, p. 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nevertheless, it is not only that the novel is riddled with Gothic images of decay, but that an incremental degeneration pervading the Gothic setting feeds the parodic effect of the novel by undermining the advancement of the narrative toward positive progress and social integration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014828Z" creationid="A" creationdate="20260421T014828Z">
+        <seg>No obstante, no se trata solo de que la novela esté plagada de imágenes góticas de decadencia, sino también de que una degeneración progresiva que impregna el escenario gótico alimenta el efecto paródico de la novela al socavar el avance de la narrativa hacia el progreso positivo y la integración social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2653,6 +2719,14 @@ Pensar se las traducciones corresponden al español</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Other houses also evoke images of decay and degeneration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014508Z" creationid="A" creationdate="20260421T014508Z">
+        <seg>Otras casas también evocan imágenes de decadencia y degeneración.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>prep.</note>
       <tuv lang="en-US">
         <seg>Passion-love was a mode of feeling not available to everyone—the authorities on the subject restricted it to the aristocracy—but it was always of the greatest interest to almost everyone who was at all interested in the feelings, and it had a continuing influence on other kinds of love and on the literary conventions through which love was represented.</seg>
@@ -2703,6 +2777,14 @@ lovely ≠ amada</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T185227Z" creationid="Soundwave" creationdate="20260403T185227Z">
         <seg>Tal vez sea esa peculiar movilidad moral que nos impone lo que explique su extraordinaria aptitud para representar ciertos aspectos de la vida estadounidense. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poe points out, the setting is “[c]rucial to the narrative structure of the *Bildungsroman*” so much so that it is “practically a character itself” (2002, p. 147; italics in the original).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T013920Z" creationid="A" creationdate="20260421T013843Z">
+        <seg>Como señala K. L. Poe, el escenario es «[c]rucial para la estructura narrativa del *Bildungsroman*», hasta el punto de ser «prácticamente un personaje en sí mismo» (2002, p. 147; cursiva en el original).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,6 +3148,14 @@ concord.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Gothic setting usually deals either in “claustrophobia, so often the obvious image for the repressed and dislocated psyche,” or “in anxieties about being… dwarfed into insigniﬁcance by [nature]” (Punter, 1996b, p. 81).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014057Z" creationid="A" creationdate="20260421T014057Z">
+        <seg>Por lo general, el escenario gótico trata o bien sobre «la claustrofobia, imagen tan a menudo evidente de la psiquis reprimida y dislocada», o bien sobre «las preocupaciones acerca de que… [la naturaleza] puede empequeñecer hasta la insignificancia” (Punter, 1996b, p. 81).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Gothic strain existed in excess of, and often within, realist forms, both inhabiting and excluded from its homogenising representations of the world.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260419T210421Z" creationid="tg" creationdate="20260419T210421Z">
@@ -3098,6 +3188,14 @@ prueba</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260420T005538Z" creationid="tg" creationdate="20260420T005538Z">
         <seg>Para ellos, el atractivo de la escritura gótica residía en su oposición al realismo y al racionalismo, y también en su búsqueda de un ámbito más allá del mundo empírico y material, de un ámbito de lo misterioso, lo místico y lo sagrado.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ashy snow, too, is a Gothic “palimpsest” revealing “old buried wanderings, struggles, [and] scenes of death” (p. 106).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014757Z" creationid="A" creationdate="20260421T014757Z">
+        <seg>La nieve cenicienta también es un «palimpsesto» gótico que revela «viejas correrías enterradas, luchas, [y] escenas de muerte» (p. 106).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3250,7 +3348,6 @@ counter-discourse a glosario</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>The further the narrative advances, the more claustrophobic and primitive the atmosphere of the setting becomes.</seg>
       </tuv>
@@ -3300,6 +3397,14 @@ es la imagen de la casa</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260410T012943Z" creationid="A" creationdate="20260402T221517Z">
         <seg>El significado literal de la palabra *pasión* muestra esa distancia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The novel opens with a scene in which the narrator compares the auctioneer’s voice to “a ghost chorus among old ruins” (p. 10).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014324Z" creationid="A" creationdate="20260421T014324Z">
+        <seg>La novela empieza con una escena en la que el narrador compara la voz del subastador con la de «un coro fantasmal entre las viejas ruinas» (p. 10).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3356,6 +3461,22 @@ es la imagen de la casa</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The ruined house, for instance, is a recycled Gothic image indicative of contemporary alienation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014658Z" creationid="A" creationdate="20260421T014658Z">
+        <seg>La casa en ruinas, por ejemplo, es una imagen gótica reciclada que evoca la alienación contemporánea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The series of settings in the Bildungsroman usually follow a “controlled sequence… each a further step towards the harmonious and meaningful integration of the… individual into society” (Ehland, 2003, p. 92).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T013914Z" creationid="A" creationdate="20260421T013914Z">
+        <seg>La sucesión de escenarios en el *Bildungsroman* suele seguir una «secuencia controlada… cada uno un paso más hacia la integración armoniosa y significativa del… individuo en la sociedad» (Ehland, 2003, p. 92).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>de nuevo, target no es objetivo acá.
 self-acculturation a glosario
 pensar modificación
@@ -3403,6 +3524,14 @@ reason no sé si es motivo acá.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The “empty shell of a house” Ballard squats (p. 33) is strewn with “old newspapers,” “dried dung of foxes and possums,” and “bits of brickcolored mud fallen from the board ceiling with their black husks pupae” (p. 16).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014415Z" creationid="A" creationdate="20260421T014415Z">
+        <seg>El «caparazón vacío de una casa» que ocupa Ballard (p. 33) está cubierto de «periódicos viejos», «boñigas de los zorros y de las comadrejas» y «trozos de barro arcilloso que se habían caído del techo con los restos de las cascarillas de crisálidas» (p. 16).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Their behaviour to each other must be precisely not what we call “mature”—they must see each other and the world with the imperious absolutism of children.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260412T235653Z" creationid="tg" creationdate="20260402T225003Z">
@@ -3446,6 +3575,14 @@ concord.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260403T191329Z" creationid="Soundwave" creationdate="20260403T191329Z">
         <seg>Existe una fe fundamental, continúa Braidotti, «en los poderes singulares, autorregulados e intrínsecamente morales de la razón humana», inscrita en el discurso del humanismo (2013, p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is “a spider hung” in the chimney, which reeks of “a rank odour of earth and old woodsmoke,” and the ﬂoor of the hearth is “ashy” (p. 16).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260421T014444Z" creationid="A" creationdate="20260421T014444Z">
+        <seg>Hay «una araña colgada» en la chimenea, que apesta a «tierra rancia y a humo viejo», y el suelo del hogar está «ceniciento» (p. 16).</seg>
       </tuv>
     </tu>
     <tu>
