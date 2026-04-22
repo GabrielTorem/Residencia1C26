@@ -12,3 +12,5 @@ counter-discourse	contradiscurso
 *Child of God*	*Hijo de Dios*	Child of God (1973) is the third novel by American author Cormac McCarthy. It depicts the life of a violent outcast and serial killer in 1960s Appalachian Tennessee.
 milieu	entorno / ambiente / ámbito
 decentred	descentrada/o
+master narrative	grandes narrativas
+self-acculturation	autoaculturación
