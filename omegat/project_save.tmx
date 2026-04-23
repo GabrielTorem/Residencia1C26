@@ -3185,6 +3185,14 @@ postmodern parody a glosario
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Terror evoked cathartic emotions and facilitated the expulsion of the object of fear.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260423T203816Z" creationid="Soundwave" creationdate="20260423T203816Z">
+        <seg>El terror, al suscitar afectos de índole catártica, facilitaba la expulsión del objeto de temor. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>concordancia, referencia.
 ethos iría en cursiva. La manera de indicarlo es con asteriscos: *ethos*</note>
       <tuv lang="en-US">
