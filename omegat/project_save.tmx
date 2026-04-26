@@ -515,11 +515,12 @@ ver qué hacer con onto and into</note>
       </tuv>
     </tu>
     <tu>
+      <note>Quité comillas (parafrásis) APA7</note>
       <tuv lang="en-US">
         <seg>According to Ashley Craig Lancaster, “McCarthy combines the tradition of the British Gothicism with the realism of American Gothicism to create an updated version of Mary Shelley’s Frankenstein” (132).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260416T025037Z" creationid="tg" creationdate="20260416T025037Z">
-        <seg>Según expresa Ashley Craig Lancaster, «McCarthy combina la tradición del gótico británico con el realismo del gótico estadounidense para crear una versión actualizada del *Frankenstein* de Mary Shelley» (132).
+      <tuv lang="es-ES" changeid="tg" changedate="20260426T201625Z" creationid="tg" creationdate="20260416T025037Z">
+        <seg>Según expresa Ashley Craig Lancaster, McCarthy combina la tradición del gótico británico con el realismo del gótico estadounidense para crear una versión actualizada del *Frankenstein* de Mary Shelley (132).
 </seg>
       </tuv>
     </tu>
