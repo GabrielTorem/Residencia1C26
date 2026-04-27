@@ -1890,6 +1890,14 @@ ver qué es el [sic] ¿Qué traducción tomamos?</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>From the 1930s vampires, Jekylls and Hydes, Frankensteins and monsters have populated cinema and television screens in a variety of guises ranging from the seriously sinister to the comic and ridiculous.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260427T212545Z" creationid="Soundwave" creationdate="20260427T212545Z">
+        <seg>Desde la década de 1930, vampiros, Jekylls y Hydes, Frankensteins y monstruos poblaron las pantallas de cine y televisión bajo una variedad de aspectos que van de lo realmente siniestro a lo cómico y ridículo. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Furthermore = Por último
 
 Clarificar.</note>
