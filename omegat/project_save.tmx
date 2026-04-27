@@ -4365,6 +4365,15 @@ reason no sé si es motivo acá.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Locus = cursiva, lo traduzco? es latín (epicentro, ubicación, lugar).</note>
+      <tuv lang="en-US">
+        <seg>Their popularity, as well as the way they ambivalently reflect cultural anxieties, locates them firmly in the non-literary, cultural, tradition that conventionally remains the true locus of Gothic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260427T212908Z" creationid="Soundwave" creationdate="20260427T212908Z">
+        <seg>Su popularidad, así como el modo en que reflejan ambivalentemente ansiedades culturales, los sitúa firmemente en la tradición cultural no literaria que convencionalmente permanece como el verdadero *locus* de lo gótico.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Themes of the divided nature of the human constitution have become established ways of discussing Gothic texts: dualities of mind and body, reason and desire, are repeatedly invoked.</seg>
       </tuv>
