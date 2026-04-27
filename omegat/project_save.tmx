@@ -477,6 +477,16 @@ ver qué se hace con la cita</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>:::{.paragraph-style=Quotation centered}
+For as the matter of them is taken chiefly from nature, from adventures, real or imaginary, but familiar, practical and probable to be met with in the course of common life, they may serve as pilot's charts, or maps of those parts of the world, which every one may chance to travel through; and in this light they are public benefits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T003809Z" creationid="tg" creationdate="20260427T003809Z">
+        <seg>Puesto que su contenido proviene principalmente de la naturaleza, de aventuras reales o imaginarias, pero conocidas, prácticas y probables de encontrarse en el curso de la vida cotidiana, pueden servir como cartas de navegación o mapas de aquellas partes del mundo que cualquiera puede llegar a transitar; y bajo esta perspectiva constituyen beneficios públicos. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>discutir títulos de libros
 
 respetar los cortes de segmento</note>
