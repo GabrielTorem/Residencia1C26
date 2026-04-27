@@ -3313,6 +3313,14 @@ Pensar se las traducciones corresponden al español</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One place, however, has perpetuated distinctly Gothic figures: the cinema.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260427T212342Z" creationid="Soundwave" creationdate="20260427T212342Z">
+        <seg>Hay, sin embargo, un ámbito que ha perpetuado figuras distintivamente góticas: el cine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Opposed to all forms of tyranny and slavery, the warlike, Gothic tribes of northern Europe were popularly believed to have brought down the Roman empire.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T222756Z" creationid="tg" creationdate="20260405T023648Z">
