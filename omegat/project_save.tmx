@@ -2263,6 +2263,14 @@ Ver comillas</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instead, the precepts of classical writers like Horace and Plutarch are recommended.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T002520Z" creationid="tg" creationdate="20260427T002520Z">
+        <seg>En cambio, se recomiendan los preceptos de autores clásicos como Horacio y Plutarco. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260407T160545Z" creationid="A" creationdate="20260407T160545Z">
@@ -4110,6 +4118,15 @@ aspectos ilustrados</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260426T221148Z" creationid="tg" creationdate="20260420T010449Z">
         <seg>La noción de Ellen Moers del «gótico femenino», entendida como una forma de abordar los temores en torno a la sexualidad y el parto, trazó uno de los rumbos más significativos de la crítica gótica reciente. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writing from life is considered the morally instructive way to ward off 'monsters of the imagination', providing guidance in the ways of the world rather than extravagant excursions of the imagination:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T002621Z" creationid="tg" creationdate="20260427T002621Z">
+        <seg>Escribir conforme a la vida se considera la forma moralmente instructiva de alejar a los «monstruos de la imaginación», y se proporciona orientación sobre la realidad del mundo en lugar de desvíos exagerados de la imaginación:
 </seg>
       </tuv>
     </tu>
