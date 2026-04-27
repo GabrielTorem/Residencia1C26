@@ -503,6 +503,16 @@ For as the matter of them is taken chiefly from nature, from adventures, real or
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>:::{.paragraph-style=Quotation centered}
+Soon, very soon, thy firmest Footing fails;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T005034Z" creationid="tg" creationdate="20260427T005034Z">
+        <seg>Pronto, muy pronto, tu Apoyo más firme falla;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>discutir títulos de libros
 
 respetar los cortes de segmento</note>
@@ -885,6 +895,15 @@ v.p.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T170913Z" creationid="Gabriel" creationdate="20260407T170913Z">
         <seg>Y construye un infierno en medio del cielo».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And down dropp't into that darksome Place,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T005059Z" creationid="tg" creationdate="20260427T005059Z">
+        <seg>y te desplomas en ese Lugar sombrío,
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1457,6 +1476,15 @@ fiction, repensar, y ver si va a glosario.</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260420T010118Z" creationid="tg" creationdate="20260420T010118Z">
         <seg>El exhaustivo estudio de David Punter sobre la literatura gótica es igualmente freudiano, aunque fuertemente atenuado por la crítica marxista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Death lays waste to material human aspirations:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T004925Z" creationid="tg" creationdate="20260427T004925Z">
+        <seg>La muerte arrasa con las aspiraciones humanas materiales:
+</seg>
       </tuv>
     </tu>
     <tu>
