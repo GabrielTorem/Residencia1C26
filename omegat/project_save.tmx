@@ -1076,6 +1076,14 @@ acuñado por primera vez es pleonasmo</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>As a poem imbued with the sentiments of the Evangelical revival taking place in the eighteenth century, 'The Grave' enjoyed a long life in print as required reading for the spiritually-minded.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T005737Z" creationid="tg" creationdate="20260427T005737Z">
+        <seg>*The Grave*, un poema impregnado de la sentimentalidad del resurgimiento evangélico que tuvo lugar en el siglo XVIII, gozó de una larga vida en la imprenta como lectura obligatoria para los espiritualmente inclinados. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>be  trained at</note>
       <tuv lang="en-US">
         <seg>As a result, it is easy to discern how the parody embedded in both the Gothic and postmodernism could be trained at the *Bildungsroman* with its humanistic conception of subjectivity.</seg>
@@ -1435,6 +1443,15 @@ determinacy a glosario</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conducts us to our Home, and lands us safe</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T005430Z" creationid="tg" creationdate="20260427T005430Z">
+        <seg>Nos conduce a nuestro Hogar, y desembarcamos a salvo
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consequently, “humanistic historicism, conceived as an ideology of perfection through time” (Boes, 2012, p.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T183141Z" creationid="Soundwave" creationdate="20260406T183141Z">
@@ -1511,6 +1528,15 @@ fiction, repensar, y ver si va a glosario.</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260417T000323Z" creationid="tg" creationdate="20260417T000323Z">
         <seg>La muerte parece ser el único medio a través del cual Ballard puede hallar la apariencia de integración y compañía.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Death, as leveller of earthly desires and ambitions, demands religious faith and hope in order to pave the way for souls to ascend to heaven.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T005625Z" creationid="tg" creationdate="20260427T005625Z">
+        <seg>La muerte, como niveladora de los deseos y ambiciones terrenales, exige fe religiosa y esperanza para allanar el camino que permita a las almas ascender al cielo.
 </seg>
       </tuv>
     </tu>
@@ -2972,6 +2998,15 @@ Pensar se las traducciones corresponden al español</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260405T023844Z" creationid="tg" creationdate="20260405T023844Z">
         <seg>Los castillos antiguos, los caballeros y los aristócratas malévolos parecen encajar en un modelo ilustrado que identifica el gótico en su totalidad con la tiranía y la barbarie de los tiempos feudales. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the long-wish'd for Shore.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T005453Z" creationid="tg" creationdate="20260427T005453Z">
+        <seg>en la tan anhelada Orilla.
 </seg>
       </tuv>
     </tu>
