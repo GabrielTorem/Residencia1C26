@@ -2936,6 +2936,14 @@ ponderan es ambiguo, falta consequent.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Like the durability of Gothic buildings, these relics are reminders of the 'noble Strength and Simplicity' of the Gothic Constitution.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T193407Z" creationid="tg" creationdate="20260427T193407Z">
+        <seg>Al igual que la durabilidad de los edificios góticos, estas reliquias son recordatorios de la «fuerza y simplicidad noble» de la constitución gótica. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lionel Trilling</seg>
       </tuv>
       <tuv lang="es-ES" changeid="borrar" changedate="20260402T144713Z" creationid="borrar" creationdate="20260402T144713Z">
@@ -4039,6 +4047,15 @@ counter-discourse a glosario</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260422T210927Z" creationid="Soundwave" creationdate="20260420T202625Z">
         <seg>La fusión de lo gótico y el posmodernismo en *Hijo de Dios* constituye un modo de escritura controvertido alineado con lo que Beville denomina «un monstruo con todas las letras» (2009, p. 16), el cual refleja a su propio protagonista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The hierarchical relation of the meanings of 'Gothic' and 'Roman' was far less clear than eighteenth-century critics made out: privileged meanings of 'Gothic' or 'classical' alternated, polarised by the political positions of Whig or Tory that employed the terms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T193452Z" creationid="tg" creationdate="20260427T193452Z">
+        <seg>La relación jerárquica entre los significados de «gótico» y «romano» era mucho menos clara de lo que los críticos del siglo XVIII daban a entender: los significados privilegiados de «gótico» o «clásico» se alternaban, polarizados por las posiciones políticas de *whig* o *tory* que empleaban los términos.
+</seg>
       </tuv>
     </tu>
     <tu>
