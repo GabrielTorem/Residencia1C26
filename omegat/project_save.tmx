@@ -504,6 +504,16 @@ ver qué se hace con la cita</note>
     <tu>
       <tuv lang="en-US">
         <seg>:::{.paragraph-style=Quotation centered}
+*Darkness* has more Divinity for me,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T011322Z" creationid="tg" creationdate="20260427T011322Z">
+        <seg>¡Más para mí la *obscuridad* encierra en sí mucha mayor Divinidad!
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:::{.paragraph-style=Quotation centered}
 For as the matter of them is taken chiefly from nature, from adventures, real or imaginary, but familiar, practical and probable to be met with in the course of common life, they may serve as pilot's charts, or maps of those parts of the world, which every one may chance to travel through; and in this light they are public benefits.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260427T003809Z" creationid="tg" creationdate="20260427T003809Z">
@@ -1726,6 +1736,15 @@ Pensar orden.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For Young, the life of the body entombs the soul in darkness, while death and darkness enable the apprehension of a transcendent and immanent brilliance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T010552Z" creationid="tg" creationdate="20260427T010532Z">
+        <seg>Para Young, la vida del cuerpo sepulta el alma en la oscuridad, mientras que la muerte y la oscuridad permiten la aprehensión de un resplandor trascendente e inmanente. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, the reader learns that Ballard’s father committed suicide by hanging himself when Ballard was about “nine or ten year old [sic]” (p.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260411T195539Z" creationid="Soundwave" creationdate="20260411T195539Z">
@@ -2573,6 +2592,14 @@ Ver comillas</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260402T215228Z">
         <seg>Trata sobre el amor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is for these reasons that night and darkness are so valued:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260427T010601Z" creationid="tg" creationdate="20260427T010601Z">
+        <seg>Es por estas razones que la noche y la oscuridad son tan valoradas:</seg>
       </tuv>
     </tu>
     <tu>
