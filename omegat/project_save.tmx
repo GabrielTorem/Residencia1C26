@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -118,7 +118,6 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(A novel of de-formation: Cormac McCarthy’s *Child of God* as a postmodern Gothic parody of the Bildungsroman</seg>
       </tuv>
@@ -2482,7 +2481,6 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In *Cormac McCarthy: A Literary Companion* (2010), Hage argues that *Child of God* is “as much bildungsroman as work of grotesque horror; it just happens to be about a serial killer” (p.</seg>
       </tuv>
@@ -5038,8 +5036,8 @@ Invertir S y P</note>
       <tuv lang="en-US">
         <seg>Thus, *Child of God* can be interpreted as a postmodern parody of the tradition of the Bildungsroman in accordance with Linda Hutcheon’s deﬁnition of postmodern parody as “imitation characterized by ironic inversion” (2000, p. 6), which is itself a corollary of the postmodern crisis of subjectivity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260422T022825Z" creationid="tg" creationdate="20260415T154011Z">
-        <seg>De este modo, *Hijo de Dios* puede interpretarse como una parodia posmoderna de la tradición del *Bildungsroman*, en conformidad con la definición de parodia posmoderna de Linda Hutcheon: «imitación caracterizada por la inversión irónica» (2000, p. 6, traducción propia), la cual es un corolario de la crisis posmoderna de la subjetividad.
+      <tuv lang="es-ES" changeid="tg" changedate="20260428T181758Z" creationid="tg" creationdate="20260415T154011Z">
+        <seg>De este modo, *Hijo de Dios* puede interpretarse como una parodia posmoderna de la tradición del *Bildungsroman*, en conformidad con la definición de parodia posmoderna de Linda Hutcheon: imitación caracterizada por la inversión irónica (2000, p. 6, traducción propia), la cual es un corolario de la crisis posmoderna de la subjetividad.
 </seg>
       </tuv>
     </tu>
