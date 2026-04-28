@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -118,6 +118,7 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(A novel of de-formation: Cormac McCarthy’s *Child of God* as a postmodern Gothic parody of the Bildungsroman</seg>
       </tuv>
@@ -2481,6 +2482,7 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In *Cormac McCarthy: A Literary Companion* (2010), Hage argues that *Child of God* is “as much bildungsroman as work of grotesque horror; it just happens to be about a serial killer” (p.</seg>
       </tuv>
@@ -3259,8 +3261,8 @@ ponderan es ambiguo, falta consequent.</note>
       <tuv lang="en-US">
         <seg>Lester Ballard: a “bedraggled parody”3 of Bildung The Bildungsroman pivots around the identity formation and psychological development of the protagonist.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260428T014613Z" creationid="A" creationdate="20260428T014613Z">
-        <seg>Lester Ballard: una «parodia desaliñada»3 del *Bildung*. El *Bildungsroman* gira en torno a la formación de la identidad y al desarrollo psicológico del protagonista.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T181843Z" creationid="A" creationdate="20260428T014613Z">
+        <seg>Lester Ballard: una «parodia desaliñada»^[3] del *Bildung*. El *Bildungsroman* gira en torno a la formación de la identidad y al desarrollo psicológico del protagonista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4033,6 +4035,7 @@ lo cual = que</note>
       </tuv>
     </tu>
     <tu>
+      <note>Pensar cohesión con oración anterior.</note>
       <tuv lang="en-US">
         <seg>Similarly, in Child of God, postmodern parody operates chieﬂy through Gothic lineaments in characterization.</seg>
       </tuv>
@@ -5016,11 +5019,12 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
+      <note>ver finess (v.) en M.Webster's</note>
       <tuv lang="en-US">
         <seg>Through postmodern parody as “the [concurrent] inscription of continuity and change” (Hutcheon, 2000, p. 36), the novel depicts the life and becoming of Ballard in imitation of the 6 typical Bildungsroman but with ironic critical distance ﬁnessed by the Gothic, which undercuts “the humanistic concept of the shaping of the individual self from its innate potentialities through acculturation and social experience” (Sammons, 1991, p. 41).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260428T014848Z" creationid="A" creationdate="20260428T014848Z">
-        <seg>Mediante la parodia posmoderna como «la inscripción [concurrente] de la continuidad y el cambio» (Hutcheon, 2000, p. 36), la novela describe la vida y la transformación de Ballard, imitando el 6 típico *Bildungsroman*, pero con una distancia irónica crítica matizada por el gótico, que socava «el concepto humanista de la formación del yo individual a partir de sus potencialidades innatas mediante la aculturación y la experiencia social» (Sammons, 1991, p. 41).</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T183019Z" creationid="A" creationdate="20260428T014848Z">
+        <seg>Mediante la parodia posmoderna como «la inscripción [concurrente] de la continuidad y el cambio» (Hutcheon, 2000, p. 36), la novela describe la vida y la transformación de Ballard, imitando el típico *Bildungsroman,* pero con una distancia irónica crítica matizada por el gótico, que socava «el concepto humanista de la formación del yo individual a partir de sus potencialidades innatas mediante la aculturación y la experiencia social» (Sammons, 1991, p. 41).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5059,6 +5063,8 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
+      <note>critical ironic distance a glosario. ¿se puede invertir?
+Falta un referente</note>
       <tuv lang="en-US">
         <seg>Thus, in order for the “critical ironic distance” of parody (Hutcheon, 2000, p. 34) to work in the novel, it needs to target characterization above all.</seg>
       </tuv>
