@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -118,7 +118,6 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(A novel of de-formation: Cormac McCarthy’s *Child of God* as a postmodern Gothic parody of the Bildungsroman</seg>
       </tuv>
@@ -655,8 +654,8 @@ ver qué hacer con onto and into</note>
       <tuv lang="en-US">
         <seg>According to Erin E. Edwards, “the corpse marks the cessation of rationalist control over the body, the moment when the socially deﬁned person is given over to biological forces, and the molar form of the human yields to the molecular processes of decomposition” (2018, p. 3).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260426T202157Z" creationid="tg" creationdate="20260416T235954Z">
-        <seg>Según Erin E. Edwards, el cadáver marca el cese del control racionalista sobre el cuerpo, el momento en que la persona socialmente definida se entrega a las fuerzas biológicas, y la forma molar de lo humano cede a los procesos moleculares de la descomposición (2018, p. 3).
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260428T214039Z" creationid="tg" creationdate="20260416T235954Z">
+        <seg>nSegún Erin E. Edwards, el cadáver marca el cese del control racionalista sobre el cuerpo, el momento en que la persona socialmente definida se entrega a las fuerzas biológicas, y la forma molar de lo humano cede a los procesos moleculares de la descomposición (2018, p. 3).
 </seg>
       </tuv>
     </tu>
@@ -2519,7 +2518,6 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>In *Cormac McCarthy: A Literary Companion* (2010), Hage argues that *Child of God* is “as much bildungsroman as work of grotesque horror; it just happens to be about a serial killer” (p.</seg>
       </tuv>
