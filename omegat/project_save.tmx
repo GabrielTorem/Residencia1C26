@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -115,6 +115,15 @@ a glosario: psychology of development</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260407T162150Z" creationid="A" creationdate="20260407T154236Z">
         <seg>Una novela de de-formación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>(A novel of de-formation: Cormac McCarthy’s *Child of God* as a postmodern Gothic parody of the Bildungsroman</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T174455Z" creationid="gabrielt" creationdate="20260428T174455Z">
+        <seg>*El hijo de Dios*, de Cormac McCarthy como parodia gótica posmoderna de la novela de formación</seg>
       </tuv>
     </tu>
     <tu>
@@ -2461,6 +2470,15 @@ account ≠ relato</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260410T020630Z" creationid="A" creationdate="20260407T161736Z">
         <seg>En el libro *Cormac McCarthy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>In *Cormac McCarthy: A Literary Companion* (2010), Hage argues that *Child of God* is “as much bildungsroman as work of grotesque horror; it just happens to be about a serial killer” (p.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T174516Z" creationid="gabrielt" creationdate="20260428T174516Z">
+        <seg>A Literary Companion* (2010), Hage sostiene que El hijo de Dios es “tanto una novela de formación como una obra de terror grotesco; simplemente trata sobre un asesino serial” (p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5443,6 +5461,14 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T190529Z" creationid="A" creationdate="20260407T161309Z">
         <seg>(El hijo de Dios, pág.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>—(*Child of God*, p. 58)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T174506Z" creationid="gabrielt" creationdate="20260428T174506Z">
+        <seg>(El hijo de Dios, pág. 58)</seg>
       </tuv>
     </tu>
     <tu>
