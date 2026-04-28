@@ -771,11 +771,13 @@ afirmativamente no es una palabra del español</note>
       </tuv>
     </tu>
     <tu>
+      <note>literary monster (puede ir a glosario)
+añadir coma</note>
       <tuv lang="en-US">
         <seg>Accordingly, as “a literary monster” that parodies the tradition of the *Bildungsroman*, *Child of God* voices the harrowing fears that engulf the situation of human subjectivity in postmodern times by engendering a “dark and mutant” posthuman monster (McCarthy, 1993, p. 118), who ultimately fails to achieve positive self-knowledge, self-realization, social integration, and companionship and succumbs, instead, to incomprehension, alienation, and indeterminacy.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260422T210945Z" creationid="Soundwave" creationdate="20260420T202812Z">
-        <seg>En consecuencia, como el «monstruo con todas las letras»  parodia la tradición del *Bildungsroman*, *Hijo de Dios* da voz a los temores sobrecogedores que envuelven la situación de la subjetividad humana en tiempos posmodernos al engendrar un monstruo poshumano «oscuro y mutante» (McCarthy, 1993, p. 118), que, en última instancia, no logra alcanzar el autoconocimiento positivo, la autorrealización, la integración social ni la compañía y sucumbe, en cambio, a la incomprensión, la alienación y la indeterminación.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T192406Z" creationid="Soundwave" creationdate="20260420T202812Z">
+        <seg>En consecuencia, como el «monstruo con todas las letras» parodia la tradición del *Bildungsroman*, *Hijo de Dios* da voz a los temores sobrecogedores que envuelven la situación de la subjetividad humana en tiempos posmodernos al engendrar un monstruo poshumano «oscuro y mutante» (McCarthy, 1993, p. 118), que, en última instancia, no logra alcanzar el autoconocimiento positivo, la autorrealización, la integración social ni la compañía y sucumbe, en cambio, a la incomprensión, la alienación y la indeterminación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,8 +860,8 @@ referente de tiene</note>
       <tuv lang="en-US">
         <seg>Aesthetically excessive, Gothic productions were considered unnatural in their under-mining of physical laws with marvellous beings and fantastic events.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260422T211834Z" creationid="Soundwave" creationdate="20260422T211834Z">
-        <seg>Estéticamente excesivas, las producciones góticas se consideraban antinaturales por socavabar —mediante la irrupción de seres maravillosos y acontecimientos fantásticos— las leyes de la física.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T192458Z" creationid="Soundwave" creationdate="20260422T211834Z">
+        <seg>Estéticamente excesivas, las producciones góticas se consideraban antinaturales por socavar —mediante la irrupción de seres maravillosos y acontecimientos fantásticos— las leyes de la física.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4548,6 +4550,8 @@ en .. en...</note>
       </tuv>
     </tu>
     <tu>
+      <note>agregar coma
+mirror a glosario</note>
       <tuv lang="en-US">
         <seg>The fusion of the Gothic and postmodernism in *Child of God* represents a controversial mode of writing along the lines of what Beville dubs “a literary monster” (2009, p. 16), which mirrors its own protagonist.</seg>
       </tuv>
@@ -5241,6 +5245,7 @@ master narrative a glosario; esto también te hará reformular "en  concreto"</n
       </tuv>
     </tu>
     <tu>
+      <note>y en los vuelos... mejorar</note>
       <tuv lang="en-US">
         <seg>Transgressing the bounds of reality and possibility, they also challenged reason through their overindulgence in fanciful ideas and imaginative flights.</seg>
       </tuv>
