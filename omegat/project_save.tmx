@@ -1075,6 +1075,7 @@ v.p.</note>
       </tuv>
     </tu>
     <tu>
+      <note>chivalry</note>
       <tuv lang="en-US">
         <seg>Aristocratic trappings of chivalry and romance are subsumed by bourgeois values of virtue, merit, propriety and, within reason, individualism.</seg>
       </tuv>
@@ -2874,9 +2875,8 @@ Ver comillas</note>
       <tuv lang="en-US">
         <seg>In this respect Gothic fiction preserves older traditions rather than attacking the aristocratic legacy of feudalism.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260405T024006Z" creationid="tg" creationdate="20260405T024006Z">
-        <seg>En este sentido, la ficción gótica preserva tradiciones más antiguas en lugar de atacar el legado aristocrático del feudalismo. 
-
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T190202Z" creationid="tg" creationdate="20260405T024006Z">
+        <seg>En este sentido, la ficción gótica preserva tradiciones más antiguas en lugar de atacar el legado aristocrático del feudalismo.
 </seg>
       </tuv>
     </tu>
@@ -4294,6 +4294,8 @@ prueba</note>
       </tuv>
     </tu>
     <tu>
+      <note>invertir?
+ascendancy ≠ dominio</note>
       <tuv lang="en-US">
         <seg>The anxieties about the past and its forms of power are projected on to malevolent and villainous aristocrats in order to consolidate the ascendancy of middle-class values.</seg>
       </tuv>
@@ -5375,6 +5377,7 @@ aspectos ilustrados</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿invertir?</note>
       <tuv lang="en-US">
         <seg>Yet narratives are dominated by values of family, domesticity and virtuous sentimentalism, values more appropriate to the middle-class readership that composed the increasingly large portion of the literary market in the eighteenth century.</seg>
       </tuv>
