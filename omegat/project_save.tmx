@@ -812,6 +812,8 @@ Rever oración.</note>
       </tuv>
     </tu>
     <tu>
+      <note>journey a glosario
+concluir con/en</note>
       <tuv lang="en-US">
         <seg>Accordingly, rather than conclude with “a certain practical accommodation between the hero and the social world around him” (Swales, 2015, p. 34), Ballard’s journey “terminate[s] in nothingness” (McCarthy, 1993, p. 138).</seg>
       </tuv>
@@ -4489,12 +4491,12 @@ counter-discourse a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <note>conc. impersonal</note>
       <tuv lang="en-US">
         <seg>The excesses and ambivalence associated with Gothic figures were seen as distinct signs of transgression.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260405T024558Z" creationid="tg" creationdate="20260405T024558Z">
-        <seg>Se consideraban signos evidentes de transgresión a los excesos y a la ambivalencia asociados a las figuras góticas. 
-</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T190741Z" creationid="tg" creationdate="20260405T024558Z">
+        <seg>Se consideraban signos evidentes de transgresión a los excesos y a la ambivalencia asociados a las figuras góticas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,6 +5276,8 @@ Podemos mover circunstanciales.</note>
       </tuv>
     </tu>
     <tu>
+      <note>posponer adj.
+¿Invertir?</note>
       <tuv lang="en-US">
         <seg>Virtually none of the aspects involved in the identity formation of the typical protagonist in the Bildungsroman, which includes “the realization of the self, and, along with it, of various other aspects such as a sense of who one is, gender distinction, family and professional perspectives, social and interhuman status and role… communication and behaviour” (Golban 18) is achieved in the novel.</seg>
       </tuv>
