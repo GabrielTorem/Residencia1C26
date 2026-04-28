@@ -1376,6 +1376,7 @@ pluntuación</note>
       </tuv>
     </tu>
     <tu>
+      <note>da un paso más allá que</note>
       <tuv lang="en-US">
         <seg>Ballard takes a step further than Frankenstein’s monster and becomes a thoroughgoing necrophile in addition to being a serial killer.</seg>
       </tuv>
@@ -1430,11 +1431,12 @@ determinacy a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <note>othering a glosario</note>
       <tuv lang="en-US">
         <seg>Both Ballard and Frankenstein’s monster, Lancaster continues, are rejected companionship, ostracized by society, and subjected to a “system of social othering” (2008, p. 133), which fuels their process of becoming “degenerate” monsters (2008, p. 142).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260423T232340Z" creationid="tg" creationdate="20260416T234911Z">
-        <seg>Tanto a Ballard como al monstruo de Frankenstein, agrega Lancaster, se les niega la compañia, son marginados por la sociedad y sometidos a un «sistema de alteridad social» (2008, p. 133), lo que alimenta su proceso de convertirse en monstruos «degenerados» (2008, p. 142).
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T183742Z" creationid="tg" creationdate="20260416T234911Z">
+        <seg>Tanto a Ballard como al monstruo de Frankenstein, agrega Lancaster, se les niega la compañía, son marginados por la sociedad y sometidos a un «sistema de alteridad social» (2008, p. 133), lo que alimenta su proceso de convertirse en monstruos «degenerados» (2008, p. 142).
 </seg>
       </tuv>
     </tu>
@@ -2748,6 +2750,8 @@ hacer bien la ellipsis</note>
       </tuv>
     </tu>
     <tu>
+      <note>degradar en: conc. exc.
+subversivamente no es palabra en español</note>
       <tuv lang="en-US">
         <seg>In particular, Ballard’s social alienation progresses to the point where his communion with animals increasingly lapses into a community of corpses, which seems to echo his own subversively posthuman mode of existence.</seg>
       </tuv>
