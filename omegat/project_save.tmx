@@ -2955,6 +2955,7 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>resting place. Pensemos al lenguaje sin un lugar, que es lo importante, no que no tenga descanso.</note>
       <tuv lang="en-US">
         <seg>It drives itself out of any possible resting place.</seg>
       </tuv>
@@ -3912,6 +3913,7 @@ canónico</note>
       </tuv>
     </tu>
     <tu>
+      <note>works of language</note>
       <tuv lang="en-US">
         <seg>Sade and the novels of terror introduce an essential imbalance within works of language: they force them of necessity to be always excessive and deficient.</seg>
       </tuv>
@@ -4521,6 +4523,8 @@ es la imagen de la casa</note>
       </tuv>
     </tu>
     <tu>
+      <note>Expense a glosario, con detalle de su uso en lit.
+pensar si único es ambiguo.</note>
       <tuv lang="en-US">
         <seg>The language of terror is dedicated to an endless expense, even though it only seeks to achieve a single effect.</seg>
       </tuv>
