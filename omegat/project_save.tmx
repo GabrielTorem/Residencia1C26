@@ -1718,6 +1718,7 @@ fiction, repensar, y ver si va a glosario.</note>
       </tuv>
     </tu>
     <tu>
+      <note>ver plural</note>
       <tuv lang="en-US">
         <seg>Decaying, bleak and full of hidden passageways, the castle was linked to other medieval edifices—abbeys, churches and graveyards especially— that, in their generally ruinous states, harked back to a feudal past associated with barbarity, superstition and fear.</seg>
       </tuv>
@@ -2118,6 +2119,7 @@ pensar el complejo referente de tales</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿están o son?</note>
       <tuv lang="en-US">
         <seg>Gothic landscapes are desolate, alienating and full of menace.</seg>
       </tuv>
@@ -2801,6 +2803,7 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>wild</note>
       <tuv lang="en-US">
         <seg>In the eighteenth century they were wild and mountainous locations.</seg>
       </tuv>
@@ -4554,6 +4557,9 @@ pensar si único es ambiguo.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The vs Un
+Locus a glosario
+</note>
       <tuv lang="en-US">
         <seg>The major locus of Gothic plots, the castle, was gloomily predominant in early Gothic fiction.</seg>
       </tuv>
