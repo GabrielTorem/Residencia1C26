@@ -2183,11 +2183,12 @@ pensar el complejo referente de tales</note>
       </tuv>
     </tu>
     <tu>
+      <note>usar '' para metalenguaje.</note>
       <tuv lang="en-US">
         <seg>Gothic, too, was a term invoked in many political debates, signifying, for a range of political positions, revolutionary mobs, enlightened radicals and irrational adherence to tyrannical and superstitious feudal values.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260405T023539Z" creationid="tg" creationdate="20260405T023539Z">
-        <seg>El término gótico también se empleaba en muchos debates políticos y, según diversas  posiciones políticas, podía referirse a las turbas revolucionarias, a los radicales ilustrados y a la adhesión irracional a valores feudales tiránicos y supersticiosos. </seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260428T185654Z" creationid="tg" creationdate="20260405T023539Z">
+        <seg>El término gótico también se empleaba en muchos debates políticos y, según diversas posiciones políticas, podía referirse a las turbas revolucionarias, a los radicales ilustrados y a la adhesión irracional a valores feudales tiránicos y supersticiosos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4929,6 +4930,7 @@ No remplazar asteriscos por comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>Éstas ya no lleva tilde casi nunca</note>
       <tuv lang="en-US">
         <seg>They are linked to wider threats of disintegration manifested most forcefully in political revolution.</seg>
       </tuv>
@@ -5246,6 +5248,7 @@ master narrative a glosario; esto también te hará reformular "en  concreto"</n
       </tuv>
     </tu>
     <tu>
+      <note>¿Invertir?</note>
       <tuv lang="en-US">
         <seg>Uncertainties about the nature of power, law, society, family and sexuality dominate Gothic fiction.</seg>
       </tuv>
