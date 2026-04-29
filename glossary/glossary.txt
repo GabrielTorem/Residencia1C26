@@ -15,3 +15,4 @@ decentred	descentrada/o
 master narrative	grandes narrativas
 self-acculturation	autoaculturación
 social incorporation	incorporación en la sociedad
+subtext	trasfondo	tg;29/04/2026
