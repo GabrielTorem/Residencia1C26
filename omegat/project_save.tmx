@@ -3302,11 +3302,12 @@ ponderan es ambiguo, falta consequent.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Agregué a glosario "to go undergorund", aunque tengo dudas con este término.</note>
       <tuv lang="en-US">
         <seg>Less identifiable as a separate genre in the nineteenth century, Gothic fiction seemed to go underground: its depths were less romantic chasms or labyrinthine dungeons, than the murky recesses of human subjectivity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260419T210034Z" creationid="tg" creationdate="20260419T210034Z">
-        <seg>La ficción gótica, difícil de distinguir de otros géneros en el siglo XIX, parecía haberse replegado: sus ámbitos ya no eran los abismos románticos ni las mazmorras laberínticas, sino los recovecos turbios de la subjetividad humana.
+      <tuv lang="es-ES" changeid="tg" changedate="20260430T184135Z" creationid="tg" creationdate="20260419T210034Z">
+        <seg>La ficción gótica, difícil de distinguir de otros géneros en el siglo XIX, parecía haber pasado a un plano secundario: sus ámbitos ya no eran los abismos románticos ni las mazmorras laberínticas, sino los recovecos turbios de la subjetividad humana.
 </seg>
       </tuv>
     </tu>
