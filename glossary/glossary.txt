@@ -21,3 +21,4 @@ recesses	recovecos	tg; 30/4/26
 secure	estable	tg; 30/4/26
 prime mover	motor principal	tg; 30/4/26
 scrutiny	análisis minucioso	tg; 30/4/26
+primal	primigenio	tg; 30/4/26
