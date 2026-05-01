@@ -23,3 +23,4 @@ prime mover	motor principal	tg; 30/4/26
 scrutiny	análisis minucioso	tg; 30/4/26
 primal	primigenio	tg; 30/4/26
 trappings	ornamentos	tg; 1/5/26
+commodiﬁcation	cosificación	tg; 1/5/26
