@@ -2147,6 +2147,17 @@ Clarificar.</note>
       </tuv>
     </tu>
     <tu>
+      <note>*loci*
+
+plural of *locus* </note>
+      <tuv lang="en-US">
+        <seg>Gothic excesses and transgressions repeatedly return to particular images and particular loci.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260504T211045Z" creationid="Soundwave" creationdate="20260504T211045Z">
+        <seg>Los excesos y transgresiones góticos retornan una y otra vez a imágenes particulares y *loci* específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ver el conector.
 pensar el complejo referente de tales</note>
       <tuv lang="en-US">
