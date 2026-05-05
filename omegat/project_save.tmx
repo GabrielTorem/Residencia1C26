@@ -1678,6 +1678,7 @@ fiction, repensar, y ver si va a glosario.</note>
       </tuv>
     </tu>
     <tu>
+      <note>crime ≠ crimen</note>
       <tuv lang="en-US">
         <seg>Crime similarly presented a challenge to rationality in a degenerate world of mysterious but distinctly human and corrupt motivations.</seg>
       </tuv>
@@ -2689,6 +2690,7 @@ Hacia el final quedó verbosa.n</note>
       </tuv>
     </tu>
     <tu>
+      <note>En ... en...</note>
       <tuv lang="en-US">
         <seg>In defining a divided world of divided beings, science also disclosed a sense of loss, of the decline of human society and its values of individual strength and health.</seg>
       </tuv>
@@ -4122,6 +4124,7 @@ canónico</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿posesivos?</note>
       <tuv lang="en-US">
         <seg>Science, with its chemical concoctions, mechanical laboratories and electrical instruments became a new domain for the encounter with dark powers, now secular, mental and animal rather than supernatural.</seg>
       </tuv>
@@ -4681,6 +4684,8 @@ en .. en...</note>
       </tuv>
     </tu>
     <tu>
+      <note>inversión
+individual</note>
       <tuv lang="en-US">
         <seg>The forms of history deployed, appearing like ghosts in the present, were less feudal and romantic and more an effect of scientific discourse: guilts and fears haunted individuals and families, while primal patterns of instinct and motivation threatened the humanity of the human species.</seg>
       </tuv>
