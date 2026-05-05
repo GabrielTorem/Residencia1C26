@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1060,8 +1060,8 @@ v.p.</note>
       <tuv lang="en-US">
         <seg>Apart from this, every aspect of the new relationship is a denial of the old ideal of love.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260402T221233Z" creationid="A" creationdate="20260402T221233Z">
-        <seg>Además, cada aspecto de la nueva relación supone una negación del antiguo ideal del amor.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T031711Z" creationid="A" creationdate="20260402T221233Z">
+        <seg>Aparte de esto, cada aspecto de la nueva relación supone una negación del antiguo ideal del amor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,6 +1649,14 @@ Me dijiste que lo deje igual.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Considered as a serious threat to literary and social values, anything Gothic was also discarded as an idle waste of time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T024224Z" creationid="A" creationdate="20260505T024224Z">
+        <seg>Además de que se descartaba cualquier expresión gótica como una ociosa pérdida de tiempo, se la consideraba una grave amenaza para los valores literarios y sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Usar asteriscos. Bilgungsroman a glosario</note>
       <tuv lang="en-US">
         <seg>Cormac McCarthy’s *Child of God* as a postmodern Gothic parody of the Bildungsroman</seg>
@@ -1758,6 +1766,14 @@ fiction, repensar, y ver si va a glosario.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Defining and affirming one term—reason—by denigrating and excluding the other—passion—moral and literary value admitted both force and emotion as a means of regulating conventional hierarchies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023515Z" creationid="A" creationdate="20260505T023515Z">
+        <seg>La definición y afirmación de un término —la razón— mediante el menosprecio y la exclusión del otro —la pasión—, llevó a que los valores morales y literarios reconocieran la fuerza y la emoción como medios para regular las jerarquías convencionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>espacios
 ensamble
 rever vis-à-vis</note>
@@ -1835,6 +1851,14 @@ Ojo los tiempos</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260504T212605Z" creationid="Soundwave" creationdate="20260504T212605Z">
         <seg>Apoyándose tanto en trabajos críticos más recientes como en estudios anteriores, esta introducción anticipa futuros análisis de los modos en que los textos góticos producen, refuerzan y socavan concepciones heredadas acerca de la literatura, la nación, el género y la cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drawing on various literary forms, Gothic fiction hovers between the categories of novel and romance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T024126Z" creationid="A" creationdate="20260505T024126Z">
+        <seg>Debido a que se basa en diversas formas literarias, la ficción gótica ronda entre las categorías de la novela y el romance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2523,8 +2547,8 @@ account ≠ relato</note>
       <tuv lang="en-US">
         <seg>If one can rely on the evidence of fiction to discover the modern idea of the right relation between a man and a woman, it would probably begin with a sexual meeting, more or less tentative or experimental, and go on to sexual communion, after which marriage would take place.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260402T221259Z" creationid="A" creationdate="20260402T221259Z">
-        <seg>Si una persona se basara en la ficción para descubrir el concepto moderno de la relación correcta entre un hombre y una mujer, sería probable que iniciara con un encuentro sexual, un tanto tentativo o experimental, seguido de la comunión sexual, luego de lo cual llegaría el matrimonio.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T032632Z" creationid="A" creationdate="20260402T221259Z">
+        <seg>Si una persona se basara en la evidencia que nos brinda la ficción para descubrir el concepto moderno de la relación correcta entre un hombre y una mujer, probablemente dicha relación comenzaría con un encuentro sexual, un tanto tentativo o experimental, que llevaría a una comunión sexual, luego de lo cual tendría lugar el matrimonio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2569,6 +2593,14 @@ account ≠ relato</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260423T022353Z" creationid="A" creationdate="20260421T014307Z">
         <seg>Una imagen de decadencia invade el entorno de Ballard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Images of light and dark focus, in their duality, the acceptable and unacceptable sides of the limits that regulate social distinctions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023228Z" creationid="A" creationdate="20260505T023228Z">
+        <seg>Las imágenes de luz y oscuridad se centran, en su dualidad, en los aspectos aceptables e inaceptables de los límites que regulan las distinciones sociales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2675,6 +2707,14 @@ Hacia el final quedó verbosa.n</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260501T211450Z" creationid="A" creationdate="20260428T014051Z">
         <seg>En un mundo que desde el siglo XVIII se ha vuelto cada vez más secular, la ausencia de un marco religioso establecido, así como las condiciones políticas y sociales cambiantes, dieron lugar a que la escritura gótica y su recepción atravesaran transformaciones significativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In an age that developed philosophical, scientific and psychological systems to define and classify the nature of the external world, the parameters of human organisation and their relation to the workings of the mind, transgression is important not only as an interrogation of received rules and values, but in the identification, reconstitution or transformation of limits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023139Z" creationid="A" creationdate="20260505T023139Z">
+        <seg>En una época en la que surgieron sistemas filosóficos, científicos y psicológicos para definir y clasificar la naturaleza del mundo exterior, los parámetros de la organización humana y su relación con el funcionamiento de la mente, la transgresión es importante no solo como un cuestionamiento de las normas y los valores establecidos, sino también en la identificación, la reconstitución o la transformación de los límites.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,6 +2967,14 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In the demonstrations of the forms and effects of evil by means of terror, the line between transgression and a restitution of acceptable limits remained a difficult one to discern.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023303Z" creationid="A" creationdate="20260505T023303Z">
+        <seg>En las representaciones de las formas y los efectos del mal por medio del terror, seguía siendo difícil distinguir la línea que separaba la transgresión de la restitución de los límites aceptables.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>wild</note>
       <tuv lang="en-US">
         <seg>In the eighteenth century they were wild and mountainous locations.</seg>
@@ -2968,6 +3016,14 @@ Ver comillas</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260428T013941Z" creationid="A" creationdate="20260428T013941Z">
         <seg>En el siglo XX, de formas diversas y ambiguas, las figuras del gótico siguieron ensombreciendo el progreso de la modernidad con contranarrativas que ponían de manifiesto la cara oculta de la Ilustración y los valores humanistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this respect Gothic fiction is less an unrestrained celebration of unsanctioned excesses and more an examination of the limits produced in the eighteenth century to distinguish good from evil, reason from passion, virtue from vice and self from other.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023215Z" creationid="A" creationdate="20260505T023215Z">
+        <seg>En ese sentido, la ficción gótica no es tanto una celebración desenfrenada de los excesos prohibidos como un análisis de los límites que se establecieron en el siglo XVIII para distinguir el bien del mal, la razón de la pasión, la virtud del vicio y el yo del otro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3298,8 +3354,8 @@ uncanny ≠ extraña</note>
       <tuv lang="en-US">
         <seg>It was surely one of the most interesting and important of cultural revisions when the middle classes, which had been quite specifically excluded from the pleasure and dignity of love (one cannot be both busy and a lover), began to appropriate the prestige of this mode of feeling and to change it in the process of adopting it.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260502T221940Z" creationid="A" creationdate="20260402T221036Z">
-        <seg>Sin duda, uno de los cambios culturales más interesantes y significativos se dio cuando la clase media, que había sido excluida expresamente del placer y la dignidad del amor (una persona no puede estar ocupada y enamorada al mismo tiempo), empezó a apropiarse del prestigio de esta manera de sentir y a transformarla al adoptarla. </seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T030938Z" creationid="A" creationdate="20260402T221036Z">
+        <seg>Sin duda, uno de los cambios culturales más interesantes y significativos se dio cuando la clase media, que había sido excluida expresamente del placer y la dignidad del amor (una persona no puede estar ocupada y enamorada al mismo tiempo), empezó a apropiarse del prestigio de este modo de sentir y lo transformó al adoptarlo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3328,6 +3384,14 @@ ponderan es ambiguo, falta consequent.</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260501T022847Z" creationid="A" creationdate="20260407T160537Z">
         <seg>Cabe señalar que, sin embargo, aunque el protagonista se acerca a la monstruosidad poshumana de modo que pone de manifiesto la falla de la novela de formación y su tradición humanista, la liminalidad y la marginalidad poshumanas que derivan de esta desintegración no se celebran en esta novela, así como su goticidad ayuda a revelar los horrores consecuentes de esta disolución.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its images of dark power and mystery evoked fear and anxiety, but their absurdity also provoked ridicule and laughter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T024303Z" creationid="A" creationdate="20260505T024303Z">
+        <seg>Sus imágenes de poder oscuro y misterio evocaban miedo y ansiedad, pero su absurdo también causaba burlas y risas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4081,6 +4145,14 @@ canónico</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relations between real and fantastic, sacred and profane, supernatural and natural, past and present, civilised and barbaric, rational and fanciful, remain crucial to the Gothic dynamic of limit and transgression.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T024048Z" creationid="A" creationdate="20260505T024048Z">
+        <seg>Las relaciones entre lo real y lo fantástico, lo sagrado y lo profano, lo sobrenatural y lo natural, el pasado y el presente, lo civilizado y lo bárbaro, lo racional y lo fantástico, siguen siendo cruciales para la dinámica gótica del límite y la transgresión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Robert Blair's 'The Grave' (1743) revels in images of death and encourages readers to think about the horrors of the grave, of night and ghosts not as a morbid fascination but rather as a warning to the godless.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260427T004332Z" creationid="tg" creationdate="20260427T004332Z">
@@ -4299,12 +4371,20 @@ lo cual = que</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Some moral endings are little more than perfunctory tokens, thin excuses for salacious excesses, while others sustain a decorous and didactic balance of excitement and instruction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023430Z" creationid="A" creationdate="20260505T023430Z">
+        <seg>Algunos finales morales no son más que muestras superficiales, excusas endebles para justificar excesos lascivos, mientras que otros mantienen un equilibrio decoroso y moralizante entre la emoción y la instrucción.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Invertir</note>
       <tuv lang="en-US">
         <seg>Something of that expectation still persists—it is still the love poetry and the love music and the love dramas of passionlove in its later forms that shape our notions of what the erotic experience can be in intensity, in variety, in grace.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260402T221128Z" creationid="A" creationdate="20260402T221128Z">
-        <seg>Algo de esa expectativa aún persiste: siguen siendo los poemas de amor y la música romántica y los dramas amorosos del amor apasionado en sus versiones posteriores los que moldean nuestras nociones de lo que puede ser la experiencia erótica en cuanto a intensidad, variedad y elegancia.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T031402Z" creationid="A" creationdate="20260402T221128Z">
+        <seg>Algo de esa expectativa aún persiste: los que moldean nuestras nociones de lo que puede ser la experiencia erótica en cuanto a intensidad, variedad y elegancia siguen siendo los poemas de amor y la música romántica y los dramas amorosos del amor apasionado en sus versiones posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4373,6 +4453,14 @@ postmodern parody a glosario
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Terror, in its sublime manifestations, is associated with subjective elevation, with the pleasures of imaginatively transcending or overcoming fear and thereby renewing and heightening a sense of self and social value: threatened with dissolution, the self, like the social limits which define it, reconstitutes its identity against the otherness and loss presented in the moment of terror.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T024402Z" creationid="A" creationdate="20260505T024402Z">
+        <seg>El terror, en sus manifestaciones sublimes, se asocia a la elevación subjetiva, a los placeres de trascender o superar imaginativamente el miedo y, de ese modo, renovar y potenciar la conciencia de uno mismo y el valor social: amenazado con la disolución, el yo, así como los límites sociales que lo definen, reconstituye su identidad frente a la otredad y la pérdida que se presentan en el momento del terror.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That after many a painful bleeding Step</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260427T005358Z" creationid="tg" creationdate="20260427T005358Z">
@@ -4396,8 +4484,8 @@ ethos iría en cursiva. La manera de indicarlo es con asteriscos: *ethos*</note>
       <tuv lang="en-US">
         <seg>That the possibility of love could exist only apart from and more or less in opposition to marriage has been, by and large, the traditional supposition of the European upper classes, which have placed most of their expectations of erotic pleasure outside of marriage.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260502T221212Z" creationid="A" creationdate="20260402T220720Z">
-        <seg>En general, la suposición tradicional de las clases altas europeas, quienes han puesto gran parte de sus expectativas en el placer erótico fuera del matrimonio, ha sido que el amor solo pueda existir fuera de este y en oposición a él.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T025237Z" creationid="A" creationdate="20260402T220720Z">
+        <seg>En general, la suposición tradicional de las clases altas europeas, quienes han puesto gran parte de sus expectativas sobre el placer erótico fuera del matrimonio, ha sido que el amor solo pueda existir fuera de este y en oposición a él.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4573,8 +4661,8 @@ redacción</note>
       <tuv lang="en-US">
         <seg>The condition towards which such a marriage aspires is *health*—a marriage is praised by being called a *healthy* marriage.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260410T012632Z" creationid="A" creationdate="20260402T221458Z">
-        <seg>El estado al que un matrimonio de este tipo aspira es la *salud*: un matrimonio es reconocido cuando lo consideran *saludable*.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T033232Z" creationid="A" creationdate="20260402T221458Z">
+        <seg>El estado al que un matrimonio de este tipo aspira es la *salud*: un matrimonio es reconocido cuando se lo considera *saludable*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4629,6 +4717,14 @@ counter-discourse a glosario</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260415T151640Z" creationid="tg" creationdate="20260404T193209Z">
         <seg>La distorsión de perspectiva, que es un rasgo constante de la ficción gótica, encuentra un nuevo «hogar» en lo posmoderno y este giro de la historia tiene que ver precisamente con el «origen» del gótico como contradiscurso frente al impulso modernizador de la Ilustración, así como con la compleja refutación y el desarrollo, por parte del posmodernismo, de lo que dicta el propio modernismo posilustrado progresista.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The emotions most associated with Gothic fiction are similarly ambivalent: objects of terror and horror not only provoke repugnance, disgust and recoil, but also engage readers’ interest, fascinating and attracting them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T024331Z" creationid="A" creationdate="20260505T024331Z">
+        <seg>Las emociones más asociadas a la ficción gótica son de igual modo ambivalentes: los objetos de terror y horror no solo causan repugnancia, asco y rechazo, sino que también captan el interés de los lectores, mientras los fascinan y los atraen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4801,6 +4897,14 @@ Locus a glosario
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The moral, political and literary ambivalence of Gothic fiction seems to be an effect of the counter-vailing movements of propriety and imaginative excess in which morality, in its enthusiasm to identify and exclude forms of evil, of culturally threatening elements, becomes entangled in the symbolic and social antagonisms it sets out to distinguish.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023457Z" creationid="A" creationdate="20260505T023457Z">
+        <seg>La ambivalencia moral, política y literaria de la ficción gótica parece ser una consecuencia de los movimientos contrapuestos del decoro y el exceso de imaginación, en los que la moralidad, en su afán por identificar y excluir las formas del mal y de los factores culturalmente amenazantes, termina enredándose en los antagonismos simbólicos y sociales que pretende distinguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The native culture that it referred to was one composed of those indigenous peoples and invaders whose occupation preceded the invasions of the Romans.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260427T193237Z" creationid="tg" creationdate="20260427T193237Z">
@@ -4857,6 +4961,22 @@ Locus a glosario
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260415T235516Z" creationid="gabrielt" creationdate="20260414T193211Z">
         <seg>La preocupación constante por la identidad podría resumirse en la reflexión de Ballard, que se presenta en estilo indirecto libre al observar «frías estrellas esparcidas a través del hueco del humo y se pregunta de qué están hechas, o de qué está hecho él mismo», cita que proviene del libro *Meridiano de sangre* de McCarthy (p. 107).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The play means that Gothic is an inscription neither of darkness nor of light, a delineation neither of reason and morality nor of superstition and corruption, neither good nor evil, but both at the same time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023956Z" creationid="A" creationdate="20260505T023956Z">
+        <seg>El juego da a entender que el gótico no es una inscripción ni de la oscuridad ni de la luz, no es una delimitación ni de la razón y la moralidad ni de la superstición y la corrupción, ni del bien ni del mal, sino de ambos al mismo tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The play of antitheses produces the ambivalent and excessive effects and reception of Gothic writing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T024106Z" creationid="A" creationdate="20260505T024106Z">
+        <seg>El juego de la antítesis genera las consecuencias y la aceptación ambivalentes y excesivas de la escritura gótica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5096,8 +5216,8 @@ No remplazar asteriscos por comillas</note>
       <tuv lang="en-US">
         <seg>There would follow a period in which husband and wife would each make an effort to get rid of their *merely symbolic* feelings for the other partner in the marriage and to learn to see each other *without illusion* and as they are *in reality*.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260410T011933Z" creationid="A" creationdate="20260402T221319Z">
-        <seg>Seguiría un período en el que marido y mujer se esforzarían por librarse de los sentimientos *meramente simbólicos* del uno hacia la otra, y por aprender a verse *sin ilusiones* y tal cual son *en realidad*.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T032859Z" creationid="A" creationdate="20260402T221319Z">
+        <seg>Después llegaría un período en el que marido y mujer se esforzarían por librarse de los sentimientos *meramente simbólicos* del uno hacia la otra, y por aprender a verse *sin ilusiones* y tal cual son *en realidad*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5133,6 +5253,14 @@ No remplazar asteriscos por comillas</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260422T202058Z" creationid="Soundwave" creationdate="20260420T202542Z">
         <seg>Por lo tanto, puede concluirse que la fuente primaria del horror en *Hijo de Dios*, en tanto novela gótica posmoderna, reside en «la incertidumbre acerca de en qué nos convertiremos y qué quedará de nosotros tras el cambio» o la disolución de la subjetividad humana (Bolton, 2014, p. 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These contradictions undermine the project of attaining and fixing secure boundaries and leave Gothic texts open to a play of ambivalence, a dynamic of limit and transgression that both restores and contests boundaries.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023906Z" creationid="A" creationdate="20260505T023906Z">
+        <seg>Estas contradicciones socavan el proyecto de alcanzar y fijar fronteras estables y dejan los textos góticos abiertos a un juego de ambivalencias, a una dinámica del límite y la transgresión que a la vez restablece y desafía las fronteras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5221,6 +5349,14 @@ Se pierde un how</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This play of terms, of oppositions, indeed, characterises the ambivalence of Gothic fiction: good depends on evil, light on dark, reason on irrationality, in order to define limits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T023926Z" creationid="A" creationdate="20260505T023926Z">
+        <seg>Este juego de términos, de oposiciones, caracteriza, en efecto, la ambivalencia de la ficción gótica: el bien depende del mal, la luz de la oscuridad, la razón de la irracionalidad, con el propósito de definir los límites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This sense of freedom was neither purely subjective nor simply a matter of exceeding previous aesthetic forms.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260427T192417Z" creationid="tg" creationdate="20260427T192417Z">
@@ -5262,6 +5398,14 @@ Invertir S y P</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260427T212311Z" creationid="Soundwave" creationdate="20260427T212311Z">
         <seg>Figuras amenazantes de peligro, destrucción y violencia emergen bajo la forma de científicos locos, psicópatas, extraterrestres y toda una proliferación de extrañas mutaciones sobrenaturales o naturalmente monstruosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Threats are spiced with thrills, terrors with delights, horrors with pleasures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T024344Z" creationid="A" creationdate="20260505T024344Z">
+        <seg>Las amenazas se mezclan con las emociones, los terrores con los deleites, los horrores con los placeres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5436,8 +5580,8 @@ master narrative a glosario; esto también te hará reformular "en  concreto"</n
       <tuv lang="en-US">
         <seg>Towards each other, as towards their children, they show *tolerance* and *understanding,* which they find it easier to do if they have a *good sexual relationship.*</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260410T012352Z" creationid="A" creationdate="20260402T221426Z">
-        <seg>Entre ellos y con los hijos, muestran *tolerancia* y *comprensión*, lo cual les resulta más fácil si tienen una *buena relación sexual*.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260505T033011Z" creationid="A" creationdate="20260402T221426Z">
+        <seg>Entre ellos y con los hijos, muestran *tolerancia* y *comprensión*, lo cual les resulta más fácil si tienen una *vida sexual satisfactoria*.</seg>
       </tuv>
     </tu>
     <tu>
