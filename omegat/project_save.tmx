@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3386,7 +3386,13 @@ ponderan es ambiguo, falta consequent.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Agregué a glosario "to go undergorund", aunque tengo dudas con este término.</note>
+      <note>Agregué a glosario "to go undergorund", aunque tengo dudas con este término.
+
+Si no es pertinente para el subject field, no va a glosario, se busca en diccionarios.
+
+Siempre se enuncia en singular en el glosario, aunque a recess le vale lo mismo que a underground
+
+Creo que la figura de lo subterráneo debe mantenerse</note>
       <tuv lang="en-US">
         <seg>Less identifiable as a separate genre in the nineteenth century, Gothic fiction seemed to go underground: its depths were less romantic chasms or labyrinthine dungeons, than the murky recesses of human subjectivity.</seg>
       </tuv>
