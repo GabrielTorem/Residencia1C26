@@ -2056,6 +2056,8 @@ ver qué es el [sic] ¿Qué traducción tomamos?</note>
       </tuv>
     </tu>
     <tu>
+      <note>invertir
+penser "seriously sinister"</note>
       <tuv lang="en-US">
         <seg>From the 1930s vampires, Jekylls and Hydes, Frankensteins and monsters have populated cinema and television screens in a variety of guises ranging from the seriously sinister to the comic and ridiculous.</seg>
       </tuv>
@@ -3779,6 +3781,7 @@ amenzaza [con] la pérdida...
       </tuv>
     </tu>
     <tu>
+      <note>seriamente</note>
       <tuv lang="en-US">
         <seg>On the screen as well as in certain novels, Gothic narratives display a more serious ‘literary’ or self-conscious aspect.</seg>
       </tuv>
@@ -5010,7 +5013,14 @@ reason no sé si es motivo acá.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Locus = cursiva, lo traduzco? es latín (epicentro, ubicación, lugar).</note>
+      <note>Locus = cursiva, lo traduzco? es latín (epicentro, ubicación, lugar).
+
+No, son latinismos que nosotros también usamos.
+
+ojo con "popularidad"
+ambivalentemente
+
+convencionalmente</note>
       <tuv lang="en-US">
         <seg>Their popularity, as well as the way they ambivalently reflect cultural anxieties, locates them firmly in the non-literary, cultural, tradition that conventionally remains the true locus of Gothic.</seg>
       </tuv>
@@ -5241,6 +5251,7 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
+      <note>Invertir</note>
       <tuv lang="en-US">
         <seg>Threatening figures of menace, destruction and violence emerge in the form of mad scientists, psychopaths, extraterrestrials and a host of strange supernatural or naturally monstrous mutations.</seg>
       </tuv>
