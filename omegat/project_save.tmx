@@ -2633,6 +2633,7 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
+      <note>Hay mucho adv. en -mente</note>
       <tuv lang="en-US">
         <seg>In a century that has become increasingly sceptical about the values and practices associated with modernity and perceives these values as powerful fictions or grand narratives, new and yet familiar terrors and horrors emerge to present the dissolution of all order, meaning and identity in a play of signs, images and texts.</seg>
       </tuv>
@@ -2731,8 +2732,8 @@ Hacia el final quedó verbosa.n</note>
       <tuv lang="en-US">
         <seg>In many ways the multiple origins of Gothic writing highlight its diverse composition.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260427T214258Z" creationid="Soundwave" creationdate="20260427T214258Z">
-        <seg>De muchas maneras, los orígenes múltiples de la escritura gótica  realzan el carácter diverso de su composición.</seg>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260505T144822Z" creationid="Soundwave" creationdate="20260427T214258Z">
+        <seg>De muchas maneras, los orígenes múltiples de la escritura gótica realzan el carácter diverso de su composición.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3817,6 +3818,8 @@ amenzaza [con] la pérdida...
       </tuv>
     </tu>
     <tu>
+      <note>oscuramente
+¿iluminante?</note>
       <tuv lang="en-US">
         <seg>One of the principal horrors lurking throughout Gothic fiction is the sense that there is no exit from the darkly illuminating labyrinth of language.</seg>
       </tuv>
@@ -4609,6 +4612,7 @@ redacción</note>
       </tuv>
     </tu>
     <tu>
+      <note>-mente</note>
       <tuv lang="en-US">
         <seg>The diffusion of Gothic forms and figures over more than two centuries makes the definition of a homogeneous generic category exceptionally difficult.</seg>
       </tuv>
