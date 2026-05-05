@@ -1233,6 +1233,7 @@ acuñado por primera vez es pleonasmo</note>
       </tuv>
     </tu>
     <tu>
+      <note>individuals = individuos. No alejarse cuando un término puede tener un significado fuerte.</note>
       <tuv lang="en-US">
         <seg>As bourgeois modes of social organisation and economic and aesthetic production demanded increasing realism, self-discipline and regulation of its individuals, with techniques being developed by social and scientific practices, those persons that deviated from its norms became fascinating objects of scrutiny.</seg>
       </tuv>
@@ -1816,6 +1817,9 @@ rever vis-à-vis</note>
       </tuv>
     </tu>
     <tu>
+      <note>extender la cursiva a la coma
+*alter egos,*
+Ojo los tiempos</note>
       <tuv lang="en-US">
         <seg>Doubles, *alter egos,* mirrors and animated representations of the disturbing parts of human identity became the stock devices.</seg>
       </tuv>
@@ -4173,6 +4177,8 @@ ver "sea"</note>
       </tuv>
     </tu>
     <tu>
+      <note>tense, aspect
+inversión</note>
       <tuv lang="en-US">
         <seg>Signifying the alienation of the human subject from the culture and language in which s/he was located, these devices increasingly destabilised the boundaries between psyche and reality, opening up an indeterminate zone in which the differences between fantasy and actuality were no longer secure.</seg>
       </tuv>
@@ -4416,6 +4422,7 @@ concord.</note>
       </tuv>
     </tu>
     <tu>
+      <note>exceso, repensar, puede ir a glosario</note>
       <tuv lang="en-US">
         <seg>The Gothic strain existed in excess of, and often within, realist forms, both inhabiting and excluded from its homogenising representations of the world.</seg>
       </tuv>
