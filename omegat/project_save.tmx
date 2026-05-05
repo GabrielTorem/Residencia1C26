@@ -4491,6 +4491,9 @@ desarrollo mesurado</note>
       </tuv>
     </tu>
     <tu>
+      <note>evitar el calco de estándar en este tipo textual
+
+falta un determ.</note>
       <tuv lang="en-US">
         <seg>The attempt to distinguish the apparent from the real, the good from the bad, evident in the standard Gothic device of portraits assuming life, was internalised rather than explained as a supernatural occurrence, a trick of the light or of the imagination.</seg>
       </tuv>
@@ -4527,6 +4530,9 @@ desarrollo mesurado</note>
       </tuv>
     </tu>
     <tu>
+      <note>Los términos latinos solemos mantenerlos, en cursiva, en crítica literaria.
+
+family no parece ser el ambiente familiar</note>
       <tuv lang="en-US">
         <seg>The city, a gloomy forest or dark labyrinth itself, became a site of nocturnal corruption and violence, a locus of real horror; the family became a place rendered threatening and uncanny by the haunting return of past transgressions and attendant guilt on an everyday world shrouded in strangeness.</seg>
       </tuv>
@@ -5424,6 +5430,7 @@ master narrative a glosario; esto también te hará reformular "en  concreto"</n
       </tuv>
     </tu>
     <tu>
+      <note>mejorar la trad de "uncanny"</note>
       <tuv lang="en-US">
         <seg>Uncanny effects rather than sublime terrors predominated.</seg>
       </tuv>
