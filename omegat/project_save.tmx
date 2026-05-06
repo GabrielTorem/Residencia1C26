@@ -4208,12 +4208,13 @@ En la consulta a corpus no parece ser el uso de "Resuena con"</note>
       </tuv>
     </tu>
     <tu>
-      <note>¿posesivos?</note>
+      <note>¿posesivos?
+Ok.</note>
       <tuv lang="en-US">
         <seg>Science, with its chemical concoctions, mechanical laboratories and electrical instruments became a new domain for the encounter with dark powers, now secular, mental and animal rather than supernatural.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260430T190652Z" creationid="tg" creationdate="20260419T211101Z">
-        <seg>La ciencia, con las mezclas químicas desagradables, los laboratorios mecánicos y los instrumentos eléctricos, se convirtió en un nuevo ámbito para el encuentro con fuerzas oscuras, ahora seculares, mentales y animales más que sobrenaturales. 
+      <tuv lang="es-ES" changeid="tg" changedate="20260506T020206Z" creationid="tg" creationdate="20260419T211101Z">
+        <seg>La ciencia, con sus mezclas químicas desagradables, sus laboratorios mecánicos y sus instrumentos eléctricos, se convirtió en un nuevo ámbito para el encuentro con fuerzas oscuras, ahora seculares, mentales y animales más que sobrenaturales. 
 </seg>
       </tuv>
     </tu>
@@ -4798,8 +4799,8 @@ individual</note>
       <tuv lang="en-US">
         <seg>The forms of history deployed, appearing like ghosts in the present, were less feudal and romantic and more an effect of scientific discourse: guilts and fears haunted individuals and families, while primal patterns of instinct and motivation threatened the humanity of the human species.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260430T190355Z" creationid="tg" creationdate="20260419T211019Z">
-        <seg>Las formas que la historia utilizaba, que aparecían como fantasmas en el presente, eran menos feudales y románticas y más bien un efecto del discurso científico: las culpas y los miedos acechaban a las personas y a las familias, mientras que los patrones primigenios del instinto y la motivación amenazaban la humanidad de la especie humana. 
+      <tuv lang="es-ES" changeid="tg" changedate="20260506T020459Z" creationid="tg" creationdate="20260419T211019Z">
+        <seg>Las formas que la historia utilizaba, que aparecían como fantasmas en el presente, eran menos feudales y románticas y más bien un efecto del discurso científico: las culpas y los miedos acechaban a los individuos y a las familias, mientras que los patrones primigenios del instinto y la motivación amenazaban la humanidad de la especie humana. 
 </seg>
       </tuv>
     </tu>
