@@ -24,3 +24,4 @@ trappings	ornamentos	tg; 1/5/26
 commodiﬁcation	cosificación	tg; 1/5/26
 loci	loci	plural of locus
 locus	*locus*	lat - lugar (RAE)
+Uncanny	siniestro	tg; 5/5/26
