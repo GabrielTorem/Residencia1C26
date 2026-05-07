@@ -27,3 +27,4 @@ locus	*locus*	lat - lugar (RAE)
 Uncanny	siniestro	tg; 5/5/26
 excess	desbordar	tg; 6/4/26
 (P) *The Rambler*	*El Divagador*	(P) Revista literaria creada por Samuel Johnson, que se publicó todos los martes y sábados desde 1750 hasta 1752. Solía profundizar en temas como la moral, literatura, política, y religión.
+*Essay on Man*	*Ensayo sobre el hombre*	(P) Es un poema publicado por Alexander Pope entre 1733 y 1734 . Está dedicado a Henry St John, vizconde de Bolingbroke, citado en el inicio del poema.
