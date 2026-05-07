@@ -1727,8 +1727,9 @@ Dijiste que podía dejar crimen.</note>
       <tuv lang="en-US">
         <seg>David Punter’s exhaustive survey of Gothic literature is similarly Freudian, though heavily tempered by Marxist criticism.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260420T010118Z" creationid="tg" creationdate="20260420T010118Z">
-        <seg>El exhaustivo estudio de David Punter sobre la literatura gótica es igualmente freudiano, aunque fuertemente atenuado por la crítica marxista.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260507T210549Z" creationid="tg" creationdate="20260420T010118Z">
+        <seg>La exhaustiva revisión de David Punter sobre la literatura gótica es igualmente freudiana, aunque matizada, en gran medida, por la crítica marxista.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4025,8 +4026,8 @@ lovely ≠ amada</note>
       <tuv lang="en-US">
         <seg>Popular Freudianism, assimilated by nineteenth-century notions of human duality, is ubiquitous, informing texts like Robert Kiely’s and Masao Miyoshi’s on the romantic novel and the divided self.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260420T010042Z" creationid="tg" creationdate="20260420T010042Z">
-        <seg>Un freudianismo popular, incorporado a las nociones de la dualidad humana del siglo XIX, es omnipresente y sirve de fundamento a obras como las de Robert Kiely y Masao Miyoshi sobre la novela romántica y el yo dividido.
+      <tuv lang="es-ES" changeid="tg" changedate="20260507T210457Z" creationid="tg" creationdate="20260420T010042Z">
+        <seg>Un freudianismo popular que incorpora nociones de la dualidad humana del siglo XIX es omnipresente, y sirve de fundamento a obras como las de Robert Kiely y Masao Miyoshi sobre la novela romántica y el yo dividido.
 </seg>
       </tuv>
     </tu>
