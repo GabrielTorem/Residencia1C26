@@ -5057,6 +5057,15 @@ Locus a glosario
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The reason for the representation of vice is made clear in lines from Pope's *Essay on Man:* 'Vice is a monster of so frightful mien/As, to be hated, needs but to be seen' (II, 217--18).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260507T213522Z" creationid="Soundwave" creationdate="20260507T213522Z">
+        <seg>La razón de representar el vicio se explicita en unos versos de *Ensayo sobre el hombre*, de Alexander Pope: «Es el vicio un monstruo de aspecto tan horrible, que para ser aborrecido no es necesario más que verle». (II,217–18).
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>calco</note>
       <tuv lang="en-US">
         <seg>The reason was that theirs was a practical and contractual relationship, having reference to estates and progeny.</seg>
