@@ -543,8 +543,8 @@ ver qué se hace con la cita</note>
         <seg>:::{.paragraph-style=Quotation centered}
 For as the matter of them is taken chiefly from nature, from adventures, real or imaginary, but familiar, practical and probable to be met with in the course of common life, they may serve as pilot's charts, or maps of those parts of the world, which every one may chance to travel through; and in this light they are public benefits.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T003809Z" creationid="tg" creationdate="20260427T003809Z">
-        <seg>Puesto que su contenido proviene principalmente de la naturaleza, de aventuras reales o imaginarias, pero conocidas, prácticas y probables de encontrarse en el curso de la vida cotidiana, pueden servir como cartas de navegación o mapas de aquellas partes del mundo que cualquiera puede llegar a transitar; y bajo esta perspectiva constituyen beneficios públicos. 
+      <tuv lang="es-ES" changeid="tg" changedate="20260508T165335Z" creationid="tg" creationdate="20260427T003809Z">
+        <seg>Puesto que su contenido proviene principalmente de la naturaleza, de aventuras, reales o imaginarias, pero conocidas, verosímiles y propias de la vida cotidiana, pueden servir como cartas de navegación o mapas de aquellas partes del mundo que cualquiera puede llegar a recorrer; y bajo esta perspectiva constituyen beneficios públicos. 
 </seg>
       </tuv>
     </tu>
@@ -5877,8 +5877,8 @@ aspectos ilustrados</note>
       <tuv lang="en-US">
         <seg>Writing from life is considered the morally instructive way to ward off 'monsters of the imagination', providing guidance in the ways of the world rather than extravagant excursions of the imagination:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T002621Z" creationid="tg" creationdate="20260427T002621Z">
-        <seg>Escribir conforme a la vida se considera la forma moralmente instructiva de alejar a los «monstruos de la imaginación», y se proporciona orientación sobre la realidad del mundo en lugar de desvíos exagerados de la imaginación:
+      <tuv lang="es-ES" changeid="tg" changedate="20260508T165108Z" creationid="tg" creationdate="20260427T002621Z">
+        <seg>Escribir a partir de la vida se considera una forma moralmente instructiva de alejar a los «monstruos de la imaginación», pues ofrece una guía sobre cómo funciona el mundo en lugar de dar paso a extravagantes desbordes de la imaginación: 
 </seg>
       </tuv>
     </tu>
