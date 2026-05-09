@@ -529,6 +529,7 @@ ver qué se hace con la cita</note>
       </tuv>
     </tu>
     <tu>
+      <note>traducción de Escoiquiz</note>
       <tuv lang="en-US">
         <seg>:::{.paragraph-style=Quotation centered}
 *Darkness* has more Divinity for me,</seg>
@@ -3302,8 +3303,8 @@ Ver comillas</note>
       <tuv lang="en-US">
         <seg>It is for these reasons that night and darkness are so valued:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T010601Z" creationid="tg" creationdate="20260427T010601Z">
-        <seg>Es por estas razones que la noche y la oscuridad son tan valoradas:</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T232320Z" creationid="tg" creationdate="20260427T010601Z">
+        <seg>Por estas razones, la noche y la oscuridad son tan valoradas:</seg>
       </tuv>
     </tu>
     <tu>
