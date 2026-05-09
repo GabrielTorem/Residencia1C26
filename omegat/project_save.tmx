@@ -1332,8 +1332,9 @@ adventurous freedom</note>
       <tuv lang="en-US">
         <seg>Asia was not the only locus of tyranny.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192959Z" creationid="tg" creationdate="20260427T192959Z">
-        <seg>Asia no era el único foco de la tiranía. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234754Z" creationid="tg" creationdate="20260427T192959Z">
+        <seg>Asia no era el único *locus* de la tiranía. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,8 +2046,8 @@ Pensar orden.
       <tuv lang="en-US">
         <seg>For although the Gothic form of government has been almost every where altered or abolished, have we not retained, in most things, the opinions, the customs, the manners which that government had a tendency to produce?</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192908Z" creationid="tg" creationdate="20260427T192908Z">
-        <seg>Pues, aunque la forma de gobierno gótica ha sido casi en todas partes modificada o abolida, ¿no hemos conservado, en la mayoría de las cosas, las opiniones, las costumbres y los modales que ese tipo de gobierno tendía a generar? 
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234526Z" creationid="tg" creationdate="20260427T192908Z">
+        <seg>Pues, aunque la forma de gobierno gótica ha sido casi en todas partes alterada o abolida, ¿no hemos conservado, en la mayoría de las cosas, las opiniones, las costumbres y los modales que dicho gobierno tendía a producir? 
 </seg>
       </tuv>
     </tu>
@@ -3192,8 +3193,8 @@ Ver comillas</note>
       <tuv lang="en-US">
         <seg>Is not this, in fact, the principal source of that courage, of that aversion to slavery, of that empire of honour which characterize in general the European nations; and of that moderation, of that easiness of access, and peculiar attention to the rights of humanity, which so happily distinguish our sovereigns from the inaccessible and superb tyrants of Asia?</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192926Z" creationid="tg" creationdate="20260427T192926Z">
-        <seg>¿No es esto, en efecto, la principal fuente de ese valor, de esa aversión a la esclavitud, de ese imperio del honor que caracteriza en general a las naciones europeas; y de esa moderación, de esa accesibilidad y de esa atención particular a los derechos de la humanidad que distinguen tan felizmente a nuestros soberanos de los tiranos inaccesibles y soberbios de Asia?
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234642Z" creationid="tg" creationdate="20260427T192926Z">
+        <seg>¿No es esto, en efecto, la principal fuente de ese valor, de esa aversión a la esclavitud, de ese imperio del honor que caracteriza en general a las naciones europeas; y de esa moderación, de esa facilidad de acceso y de esa atención particular a los derechos de la humanidad que distinguen tan felizmente a nuestros soberanos de los tiranos soberbios e inaccesibles de Asia?
 </seg>
       </tuv>
     </tu>
