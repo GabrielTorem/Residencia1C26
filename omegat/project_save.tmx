@@ -1564,8 +1564,8 @@ determinacy a glosario</note>
       <tuv lang="en-US">
         <seg>By means of natural and cultural objects of sublimity the human mind began its transcendence.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192337Z" creationid="tg" creationdate="20260427T192337Z">
-        <seg>Mediante objetos naturales y culturales de sublimidad, la mente humana inició su trascendencia. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T233749Z" creationid="tg" creationdate="20260427T192337Z">
+        <seg>Mediante objetos naturales y culturales sublimes, la mente humana comenzó a trascender. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2819,8 +2819,8 @@ Hacia el final quedó verbosa.n</note>
       <tuv lang="en-US">
         <seg>In its imaginary ascendancy over nature, it discovered a grander scale and a new sense of power and freedom for itself.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192355Z" creationid="tg" creationdate="20260427T192355Z">
-        <seg>En su ascenso imaginario sobre la naturaleza, descubrió una magnitud más imponente y un nuevo sentido de poder y libertad para sí misma.
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T233827Z" creationid="tg" creationdate="20260427T192355Z">
+        <seg>En su ascenso imaginario sobre la naturaleza, descubrió una escala más elevada y un nuevo sentido de poder y libertad para sí misma.
 </seg>
       </tuv>
     </tu>
@@ -4278,8 +4278,9 @@ canónico</note>
       <tuv lang="en-US">
         <seg>Sacred nature, glimpsed in sublime settings and evoked by old poetry and buildings, ceded to the genius and creative power of a sacred self.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192304Z" creationid="tg" creationdate="20260427T192304Z">
-        <seg>La naturaleza sagrada, percibida en escenarios sublimes y evocada por la poesía y los edificios antiguos, cedió ante el genio y el poder creativo de un yo sagrado. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T233642Z" creationid="tg" creationdate="20260427T192304Z">
+        <seg>La naturaleza sagrada, percibida en escenarios sublimes y evocada por la poesía y los edificios antiguos, dio paso al genio y al poder creativo de un yo sagrado.
+</seg>
       </tuv>
     </tu>
     <tu>
