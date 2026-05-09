@@ -3565,8 +3565,9 @@ Creo que la figura de lo subterráneo debe mantenerse</note>
       <tuv lang="en-US">
         <seg>Like the durability of Gothic buildings, these relics are reminders of the 'noble Strength and Simplicity' of the Gothic Constitution.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T193407Z" creationid="tg" creationdate="20260427T193407Z">
-        <seg>Al igual que la durabilidad de los edificios góticos, estas reliquias son recordatorios de la «fuerza y simplicidad noble» de la constitución gótica. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T235456Z" creationid="tg" creationdate="20260427T193407Z">
+        <seg>Al igual que la durabilidad de los edificios góticos, estas reliquias son recordatorios de la «noble fuerza y simplicidad» de la constitución gótica.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4931,8 +4932,8 @@ mirror a glosario</note>
       <tuv lang="en-US">
         <seg>The hierarchical relation of the meanings of 'Gothic' and 'Roman' was far less clear than eighteenth-century critics made out: privileged meanings of 'Gothic' or 'classical' alternated, polarised by the political positions of Whig or Tory that employed the terms.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T193452Z" creationid="tg" creationdate="20260427T193452Z">
-        <seg>La relación jerárquica entre los significados de «gótico» y «romano» era mucho menos clara de lo que los críticos del siglo XVIII daban a entender: los significados privilegiados de «gótico» o «clásico» se alternaban, polarizados por las posiciones políticas de *whig* o *tory* que empleaban los términos.
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T235720Z" creationid="tg" creationdate="20260427T193452Z">
+        <seg>La relación jerárquica entre los significados de «gótico» y «romano» era mucho menos clara de lo que sugerían los críticos del siglo XVIII: las acepciones privilegiadas de «gótico» o «clásico» se alternaban, polarizadas por las posiciones políticas *whig* o *tory*, que empleaban dichos términos.
 </seg>
       </tuv>
     </tu>
