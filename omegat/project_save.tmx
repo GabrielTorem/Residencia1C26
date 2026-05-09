@@ -564,8 +564,9 @@ Soon, very soon, thy firmest Footing fails;</seg>
         <seg>:::{.paragraph-style=Quotation centered}
 is it not well known that the most flourishing and celebrated states of Europe owe originally to the northern nations, whatever liberty they now enjoy, either in their constitution, or in the spirit of their government?</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192849Z" creationid="tg" creationdate="20260427T192849Z">
-        <seg>¿No es bien sabido que los estados más prósperos y celebrados de Europa deben originalmente a las naciones del norte, cualquiera que sea la libertad que hoy gozan, ya sea su constitución o el espíritu de su gobierno? </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234454Z" creationid="tg" creationdate="20260427T192849Z">
+        <seg>¿No es bien sabido que los estados más prósperos y célebres de Europa deben su origen a las naciones del norte, cualquiera que sea la libertad que hoy disfrutan, ya sea en su constitución o en el espíritu de su gobierno? 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3385,8 +3386,8 @@ uncanny ≠ extraña</note>
       <tuv lang="en-US">
         <seg>It was among the nations of northern Europe and Scandinavia that European hatred of slavery and tyranny originated:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192752Z" creationid="tg" creationdate="20260427T192752Z">
-        <seg>Fue entre las naciones del norte de Europa y Escandinavia donde se originó el odio europeo hacia la esclavitud y la tiranía:
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234345Z" creationid="tg" creationdate="20260427T192752Z">
+        <seg>Fue entre las naciones del norte de Europa y Escandinavia donde se originó el odio europeo por la esclavitud y la tiranía:
 </seg>
       </tuv>
     </tu>
