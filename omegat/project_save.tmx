@@ -906,8 +906,9 @@ No dar opciones en las entradas de glosario.</note>
       <tuv lang="en-US">
         <seg>Although *Night Thoughts* alters the significance of Enlightenment metaphors of light and dark and goes beyond the limits of rationality and empirical knowledge in its efforts to inspire the individual imagination with a sense of religious mystery and wonder, its power as a moral text was beyond question.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T011735Z" creationid="tg" creationdate="20260427T011735Z">
-        <seg>Aunque *Pensamientos nocturnos* modifica el significado de las metáforas de luz y oscuridad de la Ilustración, va más allá de los límites de la racionalidad y del conocimiento empírico en su intento de inspirar la imaginación individual con un sentido de misterio religioso y asombro, su valor como texto moral era incuestionable. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T232911Z" creationid="tg" creationdate="20260427T011735Z">
+        <seg>Aunque *Pensamientos nocturnos* modifica el significado de las metáforas de luz y oscuridad propias de la Ilustración y va más allá de los límites de la racionalidad y del conocimiento empírico en su intento de despertar en el individuo la imaginación con un sentido de misterio religioso y asombro, su valor como texto moral era incuestionable. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2835,8 +2836,8 @@ Hacia el final quedó verbosa.n</note>
       <tuv lang="en-US">
         <seg>In many ways, the poem's warnings against corruption, depravity and atheism as well as many of its images of the Divinity, as a mighty mind, for instance, mark it out as a product of its age.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T011952Z" creationid="tg" creationdate="20260427T011952Z">
-        <seg>En muchos aspectos, las advertencias del poema contra la corrupción, la depravación y el ateísmo, así como muchas de sus imágenes de la Divinidad, como mente poderosa, por ejemplo, lo identifican claramente como un producto de su época.  
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T232949Z" creationid="tg" creationdate="20260427T011952Z">
+        <seg>En muchos aspectos, las advertencias del poema frente a la corrupción, la depravación y el ateísmo, así como muchas de sus imágenes de la divinidad, por ejemplo, una mente poderosa, lo identifican claramente como un producto de su época.  
 </seg>
       </tuv>
     </tu>
