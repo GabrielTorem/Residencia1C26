@@ -1823,8 +1823,8 @@ rever vis-à-vis</note>
       <tuv lang="en-US">
         <seg>Despite the prevailing indiscriminate dismissal of romances and novels, attempts were made to distinguish between modes of fictional writing and to admit a few examples of the latter within the parameters of acceptability.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T003111Z" creationid="tg" creationdate="20260427T003111Z">
-        <seg>A pesar del rechazo indiscriminado predominante hacia los romances y las novelas, se hicieron intentos por distinguir entre las formas de escritura ficcional y por admitir algunos ejemplos de esta última dentro de los parámetros de lo aceptable. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T153338Z" creationid="tg" creationdate="20260427T003111Z">
+        <seg>A pesar del predominante rechazo indiscriminado  hacia los romances y las novelas, se intentó distinguir entre las distintas formas de escritura ficcional y admitir algunos ejemplos de estas últimas dentro de los límites de lo aceptable. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3135,8 +3135,8 @@ Ver comillas</note>
       <tuv lang="en-US">
         <seg>Indeed, the danger of moral degeneration became the principal reason for the general condemnation of romances, tales and novels.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T003032Z" creationid="tg" creationdate="20260427T003032Z">
-        <seg>En efecto, el peligro de la degeneración moral se convirtió en la  razón principal de la censura general de los romances, cuentos y novelas.
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T153218Z" creationid="tg" creationdate="20260427T003032Z">
+        <seg>En efecto, el peligro de la degeneración moral se convirtió en la  razón principal de la condena general de los romances, cuentos y novelas.
 </seg>
       </tuv>
     </tu>
