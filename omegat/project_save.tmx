@@ -1199,8 +1199,8 @@ acuñado por primera vez es pleonasmo</note>
       <tuv lang="en-US">
         <seg>As a poem imbued with the sentiments of the Evangelical revival taking place in the eighteenth century, 'The Grave' enjoyed a long life in print as required reading for the spiritually-minded.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T005737Z" creationid="tg" creationdate="20260427T005737Z">
-        <seg>*The Grave*, un poema impregnado de la sentimentalidad del resurgimiento evangélico que tuvo lugar en el siglo XVIII, gozó de una larga vida en la imprenta como lectura obligatoria para los espiritualmente inclinados. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T231728Z" creationid="tg" creationdate="20260427T005737Z">
+        <seg>*The Grave*, un poema impregnado del espíritu del resurgimiento evangélico que tuvo lugar en el siglo XVIII, gozó de una extensa vida editorial como lectura obligada para personas con inclinación espiritual. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,8 +1770,8 @@ Dijiste que podía dejar crimen.</note>
       <tuv lang="en-US">
         <seg>Death, as leveller of earthly desires and ambitions, demands religious faith and hope in order to pave the way for souls to ascend to heaven.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T005625Z" creationid="tg" creationdate="20260427T005625Z">
-        <seg>La muerte, como niveladora de los deseos y ambiciones terrenales, exige fe religiosa y esperanza para allanar el camino que permita a las almas ascender al cielo.
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T231036Z" creationid="tg" creationdate="20260427T005625Z">
+        <seg>La muerte, en cuanto niveladora de los deseos y ambiciones terrenales, exige fe religiosa y esperanza para allanar el camino que permita a las almas ascender al cielo.
 </seg>
       </tuv>
     </tu>
