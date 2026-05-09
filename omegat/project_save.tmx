@@ -2115,8 +2115,9 @@ ver qué es el [sic] ¿Qué traducción tomamos?</note>
       <tuv lang="en-US">
         <seg>Freedom, in a political sense, was evoked in the process of recovering old texts, themselves markers of a history in which endured a different idea of nation and culture.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192439Z" creationid="tg" creationdate="20260427T192439Z">
-        <seg>La libertad, en un sentido político, se evocaba en el proceso de recuperación de textos antiguos, que a su vez eran marcas de una historia en la que perduraba una idea diferente de nación y cultura.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234015Z" creationid="tg" creationdate="20260427T192439Z">
+        <seg>La libertad, en un sentido político, se evocaba durante el proceso de recuperación de textos antiguos, que a su vez eran marcas de una historia en la que perduraba otra idea de nación y cultura. 
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3375,8 +3376,8 @@ uncanny ≠ extraña</note>
       <tuv lang="en-US">
         <seg>It was a culture, if not entirely indigenous to Britain, that was distinguished from those of Greece or Rome and possessed of a history which had the permanence identified in Gothic architecture.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192456Z" creationid="tg" creationdate="20260427T192456Z">
-        <seg>Era una cultura que, si bien no completamente autóctona de Gran Bretaña, se distinguía de las de Grecia o Roma y poseía una historia que tenía la continuidad identificada en la arquitectura gótica. 
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234050Z" creationid="tg" creationdate="20260427T192456Z">
+        <seg>Era una cultura que, si bien no del todo autóctona de Gran Bretaña, se distinguía de las de Grecia o Roma y poseía una historia que tenía la permanencia identificada en la arquitectura gótica. 
 </seg>
       </tuv>
     </tu>
@@ -3662,8 +3663,8 @@ prohibitivas</note>
       <tuv lang="en-US">
         <seg>Moreover, it was a culture believed to foster a love of liberty and democracy.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192517Z" creationid="tg" creationdate="20260427T192517Z">
-        <seg>Además, era una cultura que se creía que fomentaba el amor por la libertad y la democracia. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234137Z" creationid="tg" creationdate="20260427T192517Z">
+        <seg>Además, se la consideraba una cultura que fomentaba el amor por la libertad y la democracia. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4042,8 +4043,8 @@ amenzaza [con] la pérdida...
       <tuv lang="en-US">
         <seg>Paul-Henri Mallett's Preface to his 1755 account of the early history of the Germanic tribes, translated by Percy as *Northern Antiquities* (1770), outlines these aspects of Gothic culture.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T192734Z" creationid="tg" creationdate="20260427T192734Z">
-        <seg>El Preface [prefacio] de Paul-Henri Mallet a su relato de 1755 sobre la historia temprana de las tribus germánicas, traducido por Thomas Percy como *Northern Antiquities* [Antiguedades nórdicas] (1770), describe estos aspectos de la cultura gótica. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T234325Z" creationid="tg" creationdate="20260427T192734Z">
+        <seg>El prefacio de Paul-Henri Mallet a su relato de 1755 sobre la historia temprana de las tribus germánicas, traducido por Percy como *Northern Antiquities* [Antigüedades nórdicas] (1770), describe estos aspectos de la cultura gótica. </seg>
       </tuv>
     </tu>
     <tu>
