@@ -5874,11 +5874,12 @@ aspectos ilustrados</note>
       </tuv>
     </tu>
     <tu>
+      <note>Agregué "abandonarse". Me pareció que faltaba una palabra para que se comprenda la frase en español.</note>
       <tuv lang="en-US">
         <seg>Writing from life is considered the morally instructive way to ward off 'monsters of the imagination', providing guidance in the ways of the world rather than extravagant excursions of the imagination:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260508T165108Z" creationid="tg" creationdate="20260427T002621Z">
-        <seg>Escribir a partir de la vida se considera una forma moralmente instructiva de alejar a los «monstruos de la imaginación», pues ofrece una guía sobre cómo funciona el mundo en lugar de dar paso a extravagantes desbordes de la imaginación: 
+      <tuv lang="es-ES" changeid="tg" changedate="20260509T145711Z" creationid="tg" creationdate="20260427T002621Z">
+        <seg>Escribir a partir de la vida se considera una forma moralmente instructiva de alejar a los «monstruos de la imaginación», pues ofrece una guía sobre cómo funciona el mundo en lugar de abandonarse a extravagantes desbordes de la imaginación: 
 </seg>
       </tuv>
     </tu>
