@@ -1685,6 +1685,8 @@ Me dijiste que lo deje igual.</note>
       </tuv>
     </tu>
     <tu>
+      <note>no anteponer adj.
+"la" no tiene referencia</note>
       <tuv lang="en-US">
         <seg>Considered as a serious threat to literary and social values, anything Gothic was also discarded as an idle waste of time.</seg>
       </tuv>
@@ -1893,6 +1895,7 @@ Ojo los tiempos</note>
       </tuv>
     </tu>
     <tu>
+      <note>mejorar hover</note>
       <tuv lang="en-US">
         <seg>Drawing on various literary forms, Gothic fiction hovers between the categories of novel and romance.</seg>
       </tuv>
@@ -4353,6 +4356,7 @@ canónico</note>
       </tuv>
     </tu>
     <tu>
+      <note>fanciful no es fantástico, que en literatura es un género.</note>
       <tuv lang="en-US">
         <seg>Relations between real and fantastic, sacred and profane, supernatural and natural, past and present, civilised and barbaric, rational and fanciful, remain crucial to the Gothic dynamic of limit and transgression.</seg>
       </tuv>
@@ -5214,6 +5218,7 @@ Locus a glosario
       </tuv>
     </tu>
     <tu>
+      <note>Repensar esta oración</note>
       <tuv lang="en-US">
         <seg>The play of antitheses produces the ambivalent and excessive effects and reception of Gothic writing.</seg>
       </tuv>
