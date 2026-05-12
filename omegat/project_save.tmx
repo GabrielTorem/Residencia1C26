@@ -1059,6 +1059,14 @@ v.p.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Apart from the period in which the key Gothic texts were produced, a period extending from Horace Walpole’s *The Castle of* *Otranto* (1764) to Charles Maturin’s *Melmoth the Wanderer* (1820), it is impossible to define a fixed set of conventions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260512T014913Z" creationid="A" creationdate="20260512T014913Z">
+        <seg>Aparte de la época en la que se produjeron los textos góticos clave, período que se extendió desde la publicación de la novela *El castillo de Otranto* (1764), de Horace Walpole, hasta la aparición de la novela *Melmoth el errabundo* (1820), de Charles Maturin, resulta imposible definir un conjunto establecido de convenciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modalización</note>
       <tuv lang="en-US">
         <seg>Apart from this, every aspect of the new relationship is a denial of the old ideal of love.</seg>
@@ -5841,6 +5849,14 @@ Podemos mover circunstanciales.</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260509T150858Z" creationid="tg" creationdate="20260427T002813Z">
         <seg>En cambio, los romances y las novelas que giran en torno a personajes antinaturales, monstruos de perfección, hazañas caballerescas, encantamientos de hadas y toda la serie del absurdo maravilloso, llevan inútilmente al lector a las nubes, donde él  está seguro de no encontrar tierra firme, o bien a las tierras inexploradas de la fantasía, que se apartan para siempre de todos los senderos humanos.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While certain devices and plots, what might be called the staples of the Gothic, are clearly identifiable in early Gothic texts, the tradition draws on medieval romances, supernatural, Faustian and fairy tales, Renaissance drama, sentimental, picaresque and confessional narratives as well as the ruins, tombs and nocturnal speculations that fascinated Graveyard poets.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260512T014835Z" creationid="A" creationdate="20260512T014835Z">
+        <seg>Aunque en los primeros textos góticos se pueden identificar con claridad algunos recursos y tramas, que podrían denominarse los elementos básicos de este estilo, la tradición recurre a los romances medievales, a los cuentos de hadas, faustianos y sobrenaturales, al teatro renacentista, a las narrativas sentimentales, picarescas y confesionales, así como a las ruinas, a las tumbas y a las especulaciones nocturnas que fascinaban a los poetas de cementerio.</seg>
       </tuv>
     </tu>
     <tu>
