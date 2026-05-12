@@ -1956,6 +1956,7 @@ Ojo los tiempos</note>
       </tuv>
     </tu>
     <tu>
+      <note>straddle es más que abarcar. Quizás se pueda mejorar</note>
       <tuv lang="en-US">
         <seg>Even these dates seem arbitrary, straddling as they do the eras dominated by neoclassical and Romantic writing.</seg>
       </tuv>
@@ -4017,6 +4018,9 @@ amenzaza [con] la pérdida...
       </tuv>
     </tu>
     <tu>
+      <note>resulta ser es interferencia
+evitar diferentemente
+romance y tale a glosario</note>
       <tuv lang="en-US">
         <seg>Nowhere is this more evident than in the shifts that occurred within Gothic writing in the move from a neoclassical to a Romantic context, and in the various, and differently marked, descriptions of texts as novels, romances or tales.</seg>
       </tuv>
@@ -6011,6 +6015,7 @@ Podemos mover circunstanciales.</note>
       </tuv>
     </tu>
     <tu>
+      <note>graveyard poets a glosario, con referencias</note>
       <tuv lang="en-US">
         <seg>While certain devices and plots, what might be called the staples of the Gothic, are clearly identifiable in early Gothic texts, the tradition draws on medieval romances, supernatural, Faustian and fairy tales, Renaissance drama, sentimental, picaresque and confessional narratives as well as the ruins, tombs and nocturnal speculations that fascinated Graveyard poets.</seg>
       </tuv>
