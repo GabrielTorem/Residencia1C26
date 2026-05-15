@@ -1,42 +1,63 @@
-Night gave free reign to imagination's unnatural and marvellous creatures, while ruins testified to a temporality that exceeded rational understanding and human finitude. These were the thoughts conjured up by Graveyard poets.
+La noche daba rienda suelta a las criaturas antinaturales y maravillosas de la imaginación, mientras que las ruinas eran testimonio de una temporalidad que excedía la comprensión racional y la finitud humana. 
+ Estos eran los pensamientos que evocaban los poetas del cementerio.  
 
-Graveyard poetry was popular in the first half of the eighteenth century. Its principal poetic objects, other than graves and churchyards, were night, ruins, death and ghosts, everything, indeed, that was excluded by rational culture. It did not, however, idly or uncritically, celebrate them for its own sake. Robert Blair's 'The Grave' (1743) revels in images of death and encourages readers to think about the horrors of the grave, of night and ghosts not as a morbid fascination but rather as a warning to the godless. For Blair death is a 'gloomy path' (l. 687) that leads from earth to heaven. To contemplate death and its accompanying signs is to recognise the transience of physical things and pleasures: 'How shocking must thy Summons be, O *Death*! /To him that is at Ease in his possessions' (ll. 350--1). Death lays waste to material human aspirations:
+
+La poesía de cementerio fue popular en la primera mitad del siglo XVIII.  Sus principales objetos poéticos, además de las tumbas y los cementerios, eran la noche, las ruinas, la muerte y los fantasmas, es decir, todo aquello que la cultura racional excluía.  Sin embargo, no los celebraba de manera ociosa ni acrítica por el solo hecho de hacerlo.  *The Grave* [La tumba] (1743) de Robert Blair se deleita con imágenes de muerte e incentiva a los lectores a reflexionar sobre los horrores de la tumba, de la noche y de los fantasmas, no como una fascinación morbosa, sino más bien como advertencia para los descreídos.
+ Para Blair, la muerte es un «camino sombrío» (l.  687) que conduce de la tierra al cielo.   Contemplar la muerte y los signos que la acompañan es reconocer la transitoriedad de las cosas y los placeres físicos: «¡Cuán impactante debe ser tu Llamado, Oh *Muerte*! /Para aquel que está a Gusto en sus dominios» (II.  350--1). La muerte arrasa con las aspiraciones materiales humanas:
 
 
-:::{.paragraph-style=Quotation centered}
-Soon, very soon, thy firmest Footing fails;
 
-And down dropp't into that darksome Place,
+Pronto, muy pronto, tu Apoyo más firme falla;
 
-*Where* nor Device, nor knowledge *ever came.*
+
+y te caes en ese Lugar sombrío,
+
+
+*Donde* ni el Ingenio ni el conocimiento *jamás llegaron*.
+
 
 					(II. 294--6)
 :::
 
-But it also elevates ones considerations to higher, spiritual objects and ends: Thrice welcome *Death*!
+Pero también eleva las reflexiones hacia objetos y fines espirituales superiores: ¡Tres veces bienvenida *Muerte*!
 
-That after many a painful bleeding Step
 
-Conducts us to our Home, and lands us safe
+Que tras muchos Pasos dolorosos y sangrantes
 
-On the long-wish'd for Shore.
+
+Nos conduce a nuestro Hogar, y desembarcamos a salvo
+
+
+en la tan anhelada Orilla.
+
 
 (II. 706--9)
 
-Death, as leveller of earthly desires and ambitions, demands religious faith and hope in order to pave the way for souls to ascend to heaven.
+La muerte, en cuanto niveladora de los deseos y ambiciones terrenales, exige fe religiosa y esperanza para allanar el camino que permita a las almas ascender al cielo.
 
-As a poem imbued with the sentiments of the Evangelical revival taking place in the eighteenth century, 'The Grave' enjoyed a long life in print as required reading for the spiritually-minded. Edward Young's *Night Thoughts* (1749--51) also received such acclaim. This much longer poem develops evangelical themes, but in a more extravagant fashion. In *Night Thoughts* the contemplation of death and decay serves to encourage speculations on the life to come. Fears of mortality and associated superstitions are unwarranted if one has faith. Confronting and overcoming the limits of material existence, *Night Thoughts* is organised by a play of images which double the significance of life and death, light and dark. For Young, the life of the body entombs the soul in darkness, while death and darkness enable the apprehension of a transcendent and immanent brilliance. It is for these reasons that night and darkness are so valued:
 
-:::{.paragraph-style=Quotation centered}
-*Darkness* has more Divinity for me,
+*The Grave*, un poema impregnado del espíritu del resurgimiento evangélico que tuvo lugar en el siglo XVIII, gozó de una extensa vida editorial como lectura obligada para personas con inclinación espiritual.  La obra *Pensamientos nocturnos* (1749–51) de Edward Young también recibió tal reconocimiento.
+ Este poema, mucho más extenso, desarrolla temas evangélicos, aunque de un modo más extravagante.  En *Pensamientos nocturnos*, la contemplación de la muerte y la descomposición sirve para alentar especulaciones sobre la vida venidera. 
+ Los temores ante la mortalidad y sus supersticiones carecen de fundamento si se tiene fe. 
+ *Pensamientos nocturnos*, al enfrentar y superar los límites de la existencia material, se organiza en torno a un juego de imágenes que duplican el significado de la vida y la muerte, de la luz y la oscuridad. 
+ Para Young, la vida del cuerpo sepulta el alma en la oscuridad, mientras que la muerte y la oscuridad permiten la aprehensión de un resplandor trascendente e inmanente. 
+ Por estas razones, la noche y la oscuridad son tan valoradas:
 
-It strikes Thought inward, it drives back the Soul
+¡Más para mí la *obscuridad* encierra en sí mucha mayor Divinidad!
 
-To settle on Herself, our Point supreme!
+
+Ella es la que concentra en nuestro seno el pensamiento, y obliga al alma toda
+
+
+a recogerse en sí, ¡Punto supremo de nuestra elevación! 
+
 
 					(V, 128--30)
 :::
 
-Darkness enables a person to perceive the soul within, it expands the mind by producing a consciousness of its own potential for divinity.
+La oscuridad permite a la persona percibir el alma en su interior; amplía la mente al producir una conciencia de su propio potencial divino.
 
-Although *Night Thoughts* alters the significance of Enlightenment metaphors of light and dark and goes beyond the limits of rationality and empirical knowledge in its efforts to inspire the individual imagination with a sense of religious mystery and wonder, its power as a moral text was beyond question. In many ways, the poem's warnings against corruption, depravity and atheism as well as many of its images of the Divinity, as a mighty mind, for instance, mark it out as a product of its age. Like other poems of its kind, *Night Thoughts* criticises ignorance and superstition. Thomas Parnell's 'Night-piece on Death' (1722), Nathaniel Cotton's 'Night-piece' (1751) and John Cunningham's 'The Contemplatist' (1762) all emphasise that the leveller, death, is not to be feared. Without fear the spectres and ghosts that haunt superstitious minds disappear. In the face of death, moreover, science remains impotent and blind.
+
+Aunque *Pensamientos nocturnos* modifica el significado de las metáforas de luz y oscuridad propias de la Ilustración y va más allá de los límites de la racionalidad y del conocimiento empírico en su intento de despertar en el individuo la imaginación con un sentido de misterio religioso y asombro, su valor como texto moral era incuestionable. 
+ En muchos aspectos, las advertencias del poema frente a la corrupción, la depravación y el ateísmo, así como muchas de sus imágenes de la divinidad, por ejemplo, una mente poderosa, lo identifican claramente como un producto de su época.  
+ Como otros poemas de su tipo, *Pensamientos nocturnos* critica la ignorancia y la superstición. «Una pieza nocturna sobre la muerte» (1722) de Thomas Parnell, «Pieza nocturna» (1751) de Nathaniel Cotton y «The Contemplatist» [El contemplador] (1762) de John Cunningham subrayan que la muerte, como igualadora, no debe temerse.  Sin miedo, desaparecen los espectros y fantasmas que acechan a las mentes supersticiosas.  Ante la muerte, además, la ciencia permanece impotente y ciega.  
