@@ -40,3 +40,4 @@ supernatural-Gothic	gótico sobrenatural	tg; 14/5/26
 historical-Gothic	gótico histórico	tg; 14/5/26
 rational-Gothic	gótico racional	tg; 14/5/26
 terror-Gothic	gótico del terror	tg; 14/5/26
+literary levity	frivolidad literaria	tg; 16/5/26
