@@ -1970,6 +1970,14 @@ Ojo los tiempos</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Even the clear classifications proposed by Beattie and Johnson fell foul of the way in which their terms were framed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T011447Z" creationid="Soundwave" creationdate="20260517T011447Z">
+        <seg>Incluso las nítidas clasificaciones propuestas por Beattie y Johnson terminaban viéndose socavadas por el propio modo en que sus categorías eran formuladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>straddle es más que abarcar. Quizás se pueda mejorar</note>
       <tuv lang="en-US">
         <seg>Even these dates seem arbitrary, straddling as they do the eras dominated by neoclassical and Romantic writing.</seg>
