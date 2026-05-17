@@ -1490,6 +1490,14 @@ determinacy a glosario</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Be mine, to read the visions old,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T142812Z" creationid="Soundwave" creationdate="20260517T142812Z">
+        <seg>me conceda leer las antiguas visiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Beattie's essay on medieval romances and the novel form describes another type as a 'strange mixture' of the two.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T011559Z" creationid="Soundwave" creationdate="20260517T011516Z">
@@ -6154,6 +6162,14 @@ Podemos mover circunstanciales.</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260516T224622Z" creationid="tg" creationdate="20260427T002813Z">
         <seg>En cambio, los romances y las novelas que giran en torno a personajes antinaturales, monstruos de perfección, hazañas caballerescas, encantamientos de hadas y toda la serie del absurdo maravilloso, llevan inútilmente al lector a las nubes, donde él está seguro de no encontrar tierra firme, o bien a las tierras inexploradas de la fantasía, que se apartan para siempre de todos los senderos humanos.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Which thy awakening bards have told.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T142839Z" creationid="Soundwave" creationdate="20260517T142839Z">
+        <seg>que vuestros bardos despertados han narrado.</seg>
       </tuv>
     </tu>
     <tu>
