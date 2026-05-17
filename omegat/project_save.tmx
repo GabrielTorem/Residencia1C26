@@ -5205,11 +5205,12 @@ mirror a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <note>Traducción propia de la cita (no encontré nada en español).</note>
       <tuv lang="en-US">
         <seg>The growing importance of older forms of writing are manifested in the lines from Joseph Warton's 'The Enthusiast' (1740): 'What are the lays of artful Addison, /Coldly correct, to Shakespear's warblings wild?' (ll.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T143913Z" creationid="Soundwave" creationdate="20260517T143913Z">
-        <seg>La creciente importancia de las formas antiguas de escritura se manifiesta en los versos de “The Enthusiast” (1740), de Joseph Warton: «¿Qué son las composiciones del artificioso Addison, / tan fríamente correctas, frente a los salvajes arrebatos de Shakespeare?»</seg>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T144051Z" creationid="Soundwave" creationdate="20260517T143913Z">
+        <seg>La creciente importancia de las formas antiguas de escritura se manifiesta en  «The Enthusiast» (1740), de Joseph Warton: «¿Qué son las composiciones del artificioso Addison, / tan fríamente correctas, frente a los salvajes arrebatos de Shakespeare?»</seg>
       </tuv>
     </tu>
     <tu>
