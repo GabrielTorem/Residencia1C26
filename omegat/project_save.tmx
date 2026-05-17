@@ -293,6 +293,15 @@ ver qué se hace con la cita</note>
       </tuv>
     </tu>
     <tu>
+      <note>Si bien encontré 'The pleasures of Melancholy' en español, curiosamente el poema no corresponde con el original que se cita. No sé qué onda. Decidí traducirla por mi cuenta.</note>
+      <tuv lang="en-US">
+        <seg>166--7) Or, in the words of Joseph Warton's brother, Thomas, in his 'The Pleasures of Melancholy' (1745), 'But let the sacred genius of the night/Such mystic visions send, as Spenser saw' (ll.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T144914Z" creationid="Soundwave" creationdate="20260517T144914Z">
+        <seg>O, en palabras del hermano de Joseph Warton, Thomas Warton, en «The Pleasures of Melancholy» (1745): «Mas que el sagrado genio de la noche / envíe aquellas visiones místicas que Spenser contempló»</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>18) is subverted in *Child of God*.</seg>
       </tuv>
