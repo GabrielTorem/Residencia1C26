@@ -44,3 +44,4 @@ literary levity	frivolidad literaria	tg; 16/5/26
 excursion	digresión	tg; 16/5/26
 straying of fancy	desvío de la imaginación	tg; 16/5/26
 'Ode to Fear'	Oda al miedo	(P) Oda al miedo (Ode to Fear) es un poema gótico del escritor inglés William Collins (1721-1759), publicado en la antología de 1746: Odas sobre algunos temas descriptivos y alegóricos (Odes on Several Descriptive and Allegorical Subjects).
+“The Enthusiast”	"The Enthusiast"	Also known as 'The Lover of Nature'.
