@@ -57,6 +57,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>'The Pleasures of Melancholy, like many Graveyard poems, dwells on darkness, ghosts and tombs, but not in order to raise thoughts to heaven.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T145343Z" creationid="Soundwave" creationdate="20260517T145343Z">
+        <seg>«Los placeres de la melancolía», como muchos poemas de cementerio, reside en la oscuridad, los fantasmas y las tumbas, aunque no con el propósito de elevar el pensamiento hacia el cielo. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>single main character
 estos son: subjuntivo?
 then-new
