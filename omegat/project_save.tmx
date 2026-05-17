@@ -4781,6 +4781,14 @@ ethos iría en cursiva. La manera de indicarlo es con asteriscos: *ethos*</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>That these boundaries were difficult to police accounts for the repeated critical effort to maintain them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T011415Z" creationid="Soundwave" creationdate="20260517T011415Z">
+        <seg>Que tales fronteras resultaran difíciles de custodiar explica el reiterado esfuerzo crítico destinado a preservarlas. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>podemos pensar una inversión, quizás. Por otro lado, el original no es claro a quién se refiere, pero nosotros debemos serlo.</note>
       <tuv lang="en-US">
         <seg>That tradition, however, distinguishing itself and its canon of great works according to different codes and values in specific periods, remains discontinuous and partial.</seg>
