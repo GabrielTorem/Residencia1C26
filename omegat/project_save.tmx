@@ -3015,9 +3015,8 @@ Aspecto</note>
       <tuv lang="en-US">
         <seg>In J.M.S.Tompkins’s study of the popular novel various themes and characteristics of Gothic were situated within a general literary historical context, while Edith Birkhead examined particular tales more closely in terms of their literary merit.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260514T165634Z" creationid="tg" creationdate="20260420T005457Z">
-        <seg>En el estudio de J. M. S. Tompkins sobre la novela popular, diversos temas y características del gótico se enmarcaban dentro de un contexto histórico-literario general, mientras que, en función de su mérito literario, Edith Birkhead examinaba con mayor atención ciertos relatos específicos.
-</seg>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260519T221452Z" creationid="tg" creationdate="20260420T005457Z">
+        <seg>En el estudio de J. M. S. Tompkins sobre la novela popular, diversos temas y características del gótico se enmarcaban dentro de un contexto histórico-literario general, mientras que, en función de su mérito literario, Edith Birkhead examinaba con mayor atención ciertos relatos específicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3416,7 +3415,6 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <note>¿por qué no traducís tomahawk?</note>
       <tuv lang="en-US">
         <seg>In them, all facts and characters, real and fabulous; and systems of policy and manners, the Greek, the Roman, the Feudal, and the modern, are jumbled together and confounded: as if a painter should represent Julius Cesar drinking tea with Queen Elizabeth, Jupiter, and Dulcinea del Toboso, and having on his head the laurel wreathe of antient Rome, a suit of Gothick armour on his shoulders, laced ruffles at his wrist, a pipe of tobacco In his mouth, and a pistol and tomahawk stuck in his belt.</seg>
