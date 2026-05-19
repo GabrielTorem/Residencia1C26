@@ -3416,6 +3416,16 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <note>¿por qué no traducís tomahawk?</note>
+      <tuv lang="en-US">
+        <seg>In them, all facts and characters, real and fabulous; and systems of policy and manners, the Greek, the Roman, the Feudal, and the modern, are jumbled together and confounded: as if a painter should represent Julius Cesar drinking tea with Queen Elizabeth, Jupiter, and Dulcinea del Toboso, and having on his head the laurel wreathe of antient Rome, a suit of Gothick armour on his shoulders, laced ruffles at his wrist, a pipe of tobacco In his mouth, and a pistol and tomahawk stuck in his belt.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260519T191854Z" creationid="Gabriel" creationdate="20260519T191854Z">
+        <seg>En ellos aparecen mezclados y confundidos todos los hechos y personajes, reales y fabulosos, así como los sistemas políticos y las costumbres —griegos, romanos, feudales y modernos—, como si un pintor representara a Julio César bebiendo té junto a la reina Isabel, Júpiter y Dulcinea del Toboso, llevando sobre la cabeza la corona de laureles de la antigua Roma, una armadura gótica sobre los hombros, puños de encaje en las muñecas, una pipa de tabaco en la boca y una pistola y un *tomahawk* sujetos al cinturón.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>unsanctioned --&gt; sentido. Todo el sentido está mal a partir de esto.</note>
       <tuv lang="en-US">
         <seg>In this respect Gothic fiction is less an unrestrained celebration of unsanctioned excesses and more an examination of the limits produced in the eighteenth century to distinguish good from evil, reason from passion, virtue from vice and self from other.</seg>
