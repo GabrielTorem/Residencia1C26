@@ -3960,6 +3960,15 @@ Creo que la figura de lo subterráneo debe mantenerse</note>
       </tuv>
     </tu>
     <tu>
+      <note>the apology of probability</note>
+      <tuv lang="en-US">
+        <seg>Lust, murder, incest, and every atrocity that can disgrace human nature, brought together, without the apology of probability, or even possibility for their introduction.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260519T182322Z" creationid="Gabriel" creationdate="20260519T182322Z">
+        <seg>La lujuria, el asesinato, el incesto y todas las atrocidades que pueden deshonrar la naturaleza humana, reunidas, sin la menor probabilidad, ni siquiera la posibilidad, de que se produzcan.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Manifestations of the Gothic past—buildings, ruins, songs and romances—were treated as products of uncultivated if not childish minds.</seg>
       </tuv>
@@ -6281,6 +6290,7 @@ master narrative a glosario; esto también te hará reformular "en  concreto"</n
       </tuv>
     </tu>
     <tu>
+      <note>Los signos no necesariamente se trasladan al español.</note>
       <tuv lang="en-US">
         <seg>To make amends, the moral is general and *very practical;* it is, 'not to deal in witchcraft and magic because the devil will have you at last!!' We are sorry to observe that good talents have been misapplied in the production of this monster.</seg>
       </tuv>
