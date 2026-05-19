@@ -66,6 +66,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>( *The British Critic* 7, June 1796, p. 677)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260519T182434Z" creationid="Gabriel" creationdate="20260519T182434Z">
+        <seg>(*The British Critic* [*El crítico británico*] 7, junio de 1796, p. 677)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>( *The British Critic* 7, June 1796, p. 677)
 :::</seg>
       </tuv>
