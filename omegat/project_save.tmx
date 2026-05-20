@@ -4475,6 +4475,14 @@ romance y tale a glosario</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other collections, or in the case of Macpherson's *Ossian* poems (1762), fabrications, established the popularity of, as Percy's Dedication to the *Reliques* put it, 'the rude songs of ancient minstrels'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260520T205850Z" creationid="Soundwave" creationdate="20260520T205850Z">
+        <seg>Otras recopilaciones —o, en el caso de los poemas de *Ossian* (1762), de James Macpherson, auténticas invenciones— consolidaron la popularidad de aquello que la dedicatoria de Percy a las *Reliquias...* denominaba «las rústicas canciones de los antiguos juglares».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other houses also evoke images of decay and degeneration.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260421T014508Z" creationid="A" creationdate="20260421T014508Z">
