@@ -2715,6 +2715,15 @@ pensar "así"</note>
       </tuv>
     </tu>
     <tu>
+      <note>No pude encontrar 'History of English Poetry' en español.</note>
+      <tuv lang="en-US">
+        <seg>His *History of* *English Poetry* (1774--81) traces the origins of romantic fiction to Arabia.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260520T204200Z" creationid="Soundwave" creationdate="20260520T204200Z">
+        <seg>El libro *History of English Poetry* (1774–81) rastrea los orígenes de la ficción romántica hasta Arabia. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>no abusar de "las cuales", ver determinante</note>
       <tuv lang="en-US">
         <seg>His third novel, *Child of God* (1973), achieves the foregoing by tapping into Gothic and postmodern features, both of which demonstrate a corresponding concern with human subjectivity.</seg>
@@ -6154,6 +6163,14 @@ Invertir S y P</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260427T015008Z" creationid="tg" creationdate="20260427T015008Z">
         <seg>«Una pieza nocturna sobre la muerte» (1722) de Thomas Parnell, «Pieza nocturna» (1751) de Nathaniel Cotton y «The Contemplatist» [El contemplador] (1762) de John Cunningham subrayan que la muerte, como igualadora, no debe temerse. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thomas Warton was himself a major figure in this process.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260520T203922Z" creationid="Soundwave" creationdate="20260520T203922Z">
+        <seg>El propio Thomas Warton fue una figura central en este proceso.</seg>
       </tuv>
     </tu>
     <tu>
