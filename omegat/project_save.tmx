@@ -6604,6 +6604,14 @@ Me tomé 'el atrevimiento' de copiar la cita de acá.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>While the precise origins of romances remained a matter of scholarly dispute, their importance lay chiefly in the fact that they were not classical.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260520T210423Z" creationid="Soundwave" creationdate="20260520T210423Z">
+        <seg>Aunque los orígenes precisos de los romances fueron objeto de disputa entre eruditos, su importancia residía fundamentalmente en el hecho de no pertenecer al mundo clásico. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>personif
 
 aspectos ilustrados</note>
