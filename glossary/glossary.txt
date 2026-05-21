@@ -49,3 +49,4 @@ straying of fancy	desvío de la imaginación	tg; 16/5/26
 wilds of fancy	tierras inexploradas de la fantasía	tg; 18/5/26
 romance	romance	tg; 21/5/26
 marvellously absurd	lo absurdo y maravilloso	tg; 21/5/26
+modern romance	novela	tg; 21/5/26
