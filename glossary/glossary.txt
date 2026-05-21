@@ -50,3 +50,4 @@ romance	romance	tg; 21/5/26
 marvellously absurd	lo absurdo y maravilloso	tg; 21/5/26
 modern romance	novela	tg; 21/5/26
 Graveyard poets	poetas de las tumbas	tg; 21/5/26
+Graveyard poetry	poesía de las tumbas	tg; 21/5/26
