@@ -3384,6 +3384,14 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In the contest for the meaning of 'Gothic' more than a single word was at stake.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202726Z" creationid="Soundwave" creationdate="20260522T202726Z">
+        <seg>En la disputa por el significado de «gótico» estaba en juego mucho más que una sola palabra. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>¿a quién modifica repressed?</note>
       <tuv lang="en-US">
         <seg>In the contrasts displayed in Gothic presentations of darker themes, criticism finds an explicit invitation to indulge in traditional psychoanalysis: Gothic becomes a fiction of unconscious desire, a release of repressed energies and antisocial fantasies.</seg>
