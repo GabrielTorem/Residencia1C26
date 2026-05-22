@@ -3603,6 +3603,14 @@ Mejorar redacción.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Indeed, sublime aspirations often veered towards the ridiculous.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204919Z" creationid="Soundwave" creationdate="20260522T204919Z">
+        <seg>De hecho, las aspiraciones a lo sublime a menudo rozaban lo ridículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>de ... de...</note>
       <tuv lang="en-US">
         <seg>Indeed, the danger of moral degeneration became the principal reason for the general condemnation of romances, tales and novels.</seg>
