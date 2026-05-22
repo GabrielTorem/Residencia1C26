@@ -5346,6 +5346,14 @@ desarrollo mesurado</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The atmosphere of gloom and mystery populated by threatening figures was designed to quicken readers' pulses in terrified expectation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204346Z" creationid="Soundwave" creationdate="20260522T204346Z">
+        <seg>Mediante una expectativa cargada de terror, la atmósfera de oscuridad y misterio, habitada por figuras amenazantes, buscaba acelerar el pulso de los lectores.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>evitar el calco de estándar en este tipo textual
 
 falta un determ.</note>
