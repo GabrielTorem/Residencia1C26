@@ -5441,6 +5441,14 @@ redacción</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The consistency of the genre relied on the settings, devices and events.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204750Z" creationid="Soundwave" creationdate="20260522T204750Z">
+        <seg>La unidad del género yacía en sus escenarios, procedimientos y acontecimientos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ver roles temáticos de narrar</note>
       <tuv lang="en-US">
         <seg>The contemporary novel can tell us about sex, and about sexual communion, and about mutuality, and about the strong fine relationships that grow up between men and women; and it can tell us about marriage.</seg>
