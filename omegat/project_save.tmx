@@ -159,6 +159,15 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
+      <note>La traducción de los 4 fragmentos anteriores es de este 'TNW' es propia. No hay nada en español. Cambio el título, lo dejo así?</note>
+      <tuv lang="en-US">
+        <seg>(Anon., *Terrorist Novel Writing,* p. 229) Other staple Gothic ingredients could be added to the recipe offered by an anonymous critic in an essay entitled 'Terrorist Novel Writing' (1797): dark subterranean vaults, decaying abbeys, gloomy forests, jagged mountains and wild scenery inhabited by bandits, persecuted heroines, orphans, and malevolent aristocrats.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204112Z" creationid="Soundwave" creationdate="20260522T204112Z">
+        <seg>(Anónimo, *Escritura de novelas terroríficas*, p. 229) </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(Beville, 2009, p.</seg>
       </tuv>
