@@ -936,6 +936,14 @@ referente de tiene</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>After the Reformation, Protestantism constructed Roman Catholicism as a breeding-ground of despotism and superstition.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202332Z" creationid="Soundwave" creationdate="20260522T202332Z">
+        <seg>Tras la Reforma, el protestantismo configuró al catolicismo romano como un foco de despotismo y superstición.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Sentido</note>
       <tuv lang="en-US">
         <seg>Alanus Capellanus in his manual on courtly love set it down as perfectly obvious doctrine that a husband and wife cannot be lovers.</seg>
@@ -3404,6 +3412,14 @@ Ver comillas</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T232832Z" creationid="tg" creationdate="20260405T023819Z">
         <seg>En los personajes y en los escenarios que dominan las narraciones góticas, esta ambivalencia se manifiesta en la relación del género con la clase. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the mid-eighteenth century the tyranny of Rome signified more than a period in early European history.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202050Z" creationid="Soundwave" creationdate="20260522T202050Z">
+        <seg>A mediados del siglo XVIII, la tiranía de Roma remitía a algo más que a un período de la historia temprana europea.</seg>
       </tuv>
     </tu>
     <tu>
