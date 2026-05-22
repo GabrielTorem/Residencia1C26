@@ -4979,6 +4979,14 @@ ver "sea"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Shocks, supernatural incidents and superstitious beliefs set out to promote a sense of sublime awe and wonder which entwined with fear and elevated imaginations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204433Z" creationid="Soundwave" creationdate="20260522T204433Z">
+        <seg>Los sobresaltos, los sucesos sobrenaturales y las creencias supersticiosas procuraban despertar una sensación de asombro sublime que, al entrelazarse con el miedo, exaltaba la imaginación.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tense, aspect
 inversión</note>
       <tuv lang="en-US">
