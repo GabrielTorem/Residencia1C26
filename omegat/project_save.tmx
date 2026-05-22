@@ -1635,6 +1635,14 @@ determinacy a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>But 'Gothic' was also a term of abuse in other political positions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202704Z" creationid="Soundwave" creationdate="20260522T202704Z">
+        <seg>Pero «gótico» también fue un término despectivo dentro de otras posiciones políticas. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>pensar partisan ≠ partidista</note>
       <tuv lang="en-US">
         <seg>But Mr. Nabokov is not partisan to the point of being dishonest about the true nature of love.</seg>
