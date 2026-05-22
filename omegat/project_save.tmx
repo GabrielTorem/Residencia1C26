@@ -1407,6 +1407,14 @@ acuñado por primera vez es pleonasmo</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>As many skeletons, in chests and presses...</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T203250Z" creationid="Soundwave" creationdate="20260522T203250Z">
+        <seg>Una gran cantidad de esqueletos, guardados en cofres y armarios…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>American = estadounidense
 plunge
 concord.
