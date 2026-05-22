@@ -1449,6 +1449,14 @@ adventurous freedom</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At issue were the differently constructed and valued meanings of the Enlightenment, culture, nation and government as well as contingent, but no less contentious, significances of the family, nature, individuality and representation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202817Z" creationid="Soundwave" creationdate="20260522T202817Z">
+        <seg>Lo que se debatía eran las distintas formas de construir y valorar la Ilustración, la cultura, la nación y el gobierno, junto con sentidos contingentes —aunque no menos polémicos— atribuidos a la familia, la naturaleza, la individualidad y la representación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At least at the beginning of his love for *Lolita* there are no practical moral considerations, no practical personal considerations, that qualify H. H.’s behaviour.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260402T230011Z" creationid="tg" creationdate="20260402T230011Z">
@@ -3387,8 +3395,8 @@ Ver comillas</note>
       <tuv lang="en-US">
         <seg>In the contest for the meaning of 'Gothic' more than a single word was at stake.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202726Z" creationid="Soundwave" creationdate="20260522T202726Z">
-        <seg>En la disputa por el significado de «gótico» estaba en juego mucho más que una sola palabra. </seg>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202735Z" creationid="Soundwave" creationdate="20260522T202726Z">
+        <seg>En la disputa por el significado de «gótico» estaba en juego mucho más que una sola palabra.</seg>
       </tuv>
     </tu>
     <tu>
