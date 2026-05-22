@@ -5444,8 +5444,8 @@ redacción</note>
       <tuv lang="en-US">
         <seg>The consistency of the genre relied on the settings, devices and events.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204750Z" creationid="Soundwave" creationdate="20260522T204750Z">
-        <seg>La unidad del género yacía en sus escenarios, procedimientos y acontecimientos</seg>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204810Z" creationid="Soundwave" creationdate="20260522T204750Z">
+        <seg>La unidad del género yacía en sus escenarios, procedimientos y acontecimientos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6785,6 +6785,14 @@ Me tomé 'el atrevimiento' de copiar la cita de acá.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260520T210423Z" creationid="Soundwave" creationdate="20260520T210423Z">
         <seg>Aunque los orígenes precisos de los romances fueron objeto de disputa entre eruditos, su importancia residía fundamentalmente en el hecho de no pertenecer al mundo clásico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While their project was the production of terror, their repeated use turned them into rather hackneyed conventions and then into objects of satire.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204858Z" creationid="Soundwave" creationdate="20260522T204858Z">
+        <seg>Aunque apuntaban a producir terror, la reiteración de esos recursos terminó por convertirlos en convenciones desgastadas y luego en objeto de sátira. </seg>
       </tuv>
     </tu>
     <tu>
