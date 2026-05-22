@@ -5,6 +5,14 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <tuv lang="en-US">
+        <seg># GOTHIC FORMS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202839Z" creationid="Soundwave" creationdate="20260522T202839Z">
+        <seg># FORMAS GÓTICAS</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>¿le diremos siempre género a *Bildungsroman*?</note>
       <tuv lang="en-US">
         <seg>## *Child of God* as a postmodern Gothic parody of the *Bildungsroman*</seg>
@@ -209,6 +217,15 @@ Rever toda la estr.</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260410T002143Z" creationid="A" creationdate="20260402T215106Z">
         <seg>*Lolita* trata sobre el amor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>El *take* medio me descolocó. Sé que hace referencia a "imaginate esto bla bla bla bla", pero la verdad no se me ocurrió otra idea. Acepto sugerencias.</note>
+      <tuv lang="en-US">
+        <seg>*Take*—An old castle, half of it ruinous.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T202949Z" creationid="Soundwave" creationdate="20260522T202949Z">
+        <seg>*Imagina* un castillo antiguo, medio derruido.</seg>
       </tuv>
     </tu>
     <tu>
