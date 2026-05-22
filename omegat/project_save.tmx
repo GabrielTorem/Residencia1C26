@@ -6360,6 +6360,14 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Though many devices and settings were repeated, they were inflected differently.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204515Z" creationid="Soundwave" creationdate="20260522T204515Z">
+        <seg>Aunque muchos recursos y escenarios se repetían, cada uno adquiría variaciones propias.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Invertir</note>
       <tuv lang="en-US">
         <seg>Threatening figures of menace, destruction and violence emerge in the form of mad scientists, psychopaths, extraterrestrials and a host of strange supernatural or naturally monstrous mutations.</seg>
