@@ -4640,8 +4640,8 @@ romance y tale a glosario</note>
       <tuv lang="en-US">
         <seg>Parliaments and the legal system, it was believed, were derived from Gothic institutions and peoples who were free and democratic.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260509T235016Z" creationid="tg" creationdate="20260427T193202Z">
-        <seg>Se creía que los parlamentos y el sistema legal derivaban de instituciones góticas y pueblos que eran libres y democráticos. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260524T013805Z" creationid="tg" creationdate="20260427T193202Z">
+        <seg>Se creía que los parlamentos y el sistema jurídico derivaban de instituciones y pueblos góticos, que eran libres y democráticos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5907,8 +5907,9 @@ Locus a glosario
       <tuv lang="en-US">
         <seg>The significance of Gothic culture was cited in British political discussions from the mid-seventeenth century.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260509T234941Z" creationid="tg" creationdate="20260427T193143Z">
-        <seg>La importancia de la cultura gótica se invocó en los debates políticos británicos desde mediados del siglo XVII. </seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260524T013632Z" creationid="tg" creationdate="20260427T193143Z">
+        <seg>La importancia de la cultura gótica se citó en el debate político británico a partir de mediados del siglo XVII.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -6023,8 +6024,8 @@ donde, pensar</note>
       <tuv lang="en-US">
         <seg>The word was employed loosely, embracing Celtic and Germanic tribes.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260509T235103Z" creationid="tg" creationdate="20260427T193218Z">
-        <seg>El término se utilizaba de forma amplia, abarcando tribus celtas y germánicas. 
+      <tuv lang="es-ES" changeid="tg" changedate="20260524T013938Z" creationid="tg" creationdate="20260427T193218Z">
+        <seg>El término se usaba de manera laxa y abarcaba tribus celtas y germánicas. 
 </seg>
       </tuv>
     </tu>
