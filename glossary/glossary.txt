@@ -51,3 +51,5 @@ marvellously absurd	lo absurdo y maravilloso	tg; 21/5/26
 modern romance	novela	tg; 21/5/26
 Graveyard poets	poetas de las tumbas	tg; 21/5/26
 Graveyard poetry	poesía de las tumbas	tg; 21/5/26
+passion-love	amor-pasión	cdc; 24/5/26
+faltering	vacilante	cdc; 24/5/26
