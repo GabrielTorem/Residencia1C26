@@ -55,3 +55,6 @@ passion-love	amor-pasión	cdc; 24/5/26
 faltering	vacilante	cdc; 24/5/26
 narratives	narraciones	cdc; 24/5/26
 enlightened	ilustrado	cdc; 24/5/26
+Enlightenment	Ilustración	cdc; 24/5/26
+Antiquarianism	anticuariado	cdc; 24/5/26
+Graveyard school	poesía de las tumbas	cdc; 24/5/26
