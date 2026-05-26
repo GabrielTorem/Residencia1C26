@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -185,7 +185,6 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(I, p. 111)</seg>
       </tuv>
@@ -234,7 +233,6 @@ Rever toda la estr.</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <note>¿Es tuya la traducción?</note>
       <tuv lang="en-US">
         <seg>*Darkness* has more Divinity for me,</seg>
@@ -1808,6 +1806,14 @@ determinacy a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>But deviations are also monstrous in that they offer a lesson in what is not proper.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260526T223352Z" creationid="Profesorado" creationdate="20260526T223352Z">
+        <seg>p</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>De nuevo, hay que investigar nymph. Conc. exc.</note>
       <tuv lang="en-US">
         <seg>But he is also a scholar of languages and he knows that *nymph* is the Greek word for bride.</seg>
@@ -2042,7 +2048,6 @@ Dijiste que podía dejar crimen.</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <note>¿es tuya la trad?</note>
       <tuv lang="en-US">
         <seg>Dark power, with shuddering meek submitted thought,</seg>
@@ -5350,7 +5355,6 @@ lo cual = que</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <note>Lo mismo con Footing. Ver "falla".</note>
       <tuv lang="en-US">
         <seg>Soon, very soon, thy firmest Footing fails;</seg>
