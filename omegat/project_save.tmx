@@ -184,6 +184,17 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>(I, p. 111)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260526T180614Z" creationid="gabrielt" creationdate="20260526T180614Z">
+        <seg>(I, p. 111)
+ :::
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(I, p. 111)
 :::</seg>
@@ -731,6 +742,8 @@ ver qué hacer con onto and into</note>
       </tuv>
     </tu>
     <tu>
+      <note>concordancia temporal
+if only</note>
       <tuv lang="en-US">
         <seg>Able to reproduce a set of dominant ideas about the relationship of individuals to their social and natural world, all narratives were acknowledged, if only at times tacitly, to possess the capacity to order or subvert manners, morals and perceptions.</seg>
       </tuv>
@@ -2351,6 +2364,7 @@ wasteful</note>
       </tuv>
     </tu>
     <tu>
+      <note>ver comas, sentido</note>
       <tuv lang="en-US">
         <seg>Fiction becomes distinctly, though ambivalently, ideological.</seg>
       </tuv>
@@ -3286,6 +3300,7 @@ no solo / sino también es calco estr.</note>
       </tuv>
     </tu>
     <tu>
+      <note>que parecen bastante</note>
       <tuv lang="en-US">
         <seg>In deceiving readers with persuasively real representations of events and characters, novels work in an opposite manner to romances.</seg>
       </tuv>
