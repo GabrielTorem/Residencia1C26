@@ -6475,6 +6475,7 @@ No remplazar asteriscos por comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>No veo el sujeto.</note>
       <tuv lang="en-US">
         <seg>These 'barbarous productions of unpolished ages' were held up for approval 'not as the labours of art, but as the effusions of nature, showing the first efforts of ancient genius'.</seg>
       </tuv>
@@ -6681,6 +6682,7 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
+      <note>conservar su postura.</note>
       <tuv lang="en-US">
         <seg>Thomas Warton wrote of how Gothic romances, though shaken by classical fictions, maintained their ground:</seg>
       </tuv>
@@ -7112,6 +7114,7 @@ Me tomé 'el atrevimiento' de copiar la cita de acá.</note>
       </tuv>
     </tu>
     <tu>
+      <note>eruditos</note>
       <tuv lang="en-US">
         <seg>While the precise origins of romances remained a matter of scholarly dispute, their importance lay chiefly in the fact that they were not classical.</seg>
       </tuv>
