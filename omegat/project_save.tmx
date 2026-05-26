@@ -260,6 +260,7 @@ Rever toda la estr.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Device</note>
       <tuv lang="en-US">
         <seg>*Where* nor Device, nor knowledge *ever came.*</seg>
       </tuv>
@@ -277,6 +278,7 @@ Rever toda la estr.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Ver en pdf la mayúscula de Ease</note>
       <tuv lang="en-US">
         <seg>/To him that is at Ease in his possessions' (ll.</seg>
       </tuv>
@@ -5298,6 +5300,17 @@ lo cual = que</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260505T031402Z" creationid="A" creationdate="20260402T221128Z">
         <seg>Algo de esa expectativa aún persiste: los que moldean nuestras nociones de lo que puede ser la experiencia erótica en cuanto a intensidad, variedad y elegancia siguen siendo los poemas de amor y la música romántica y los dramas amorosos del amor apasionado en sus versiones posteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <note>Lo mismo con Footing. Ver "falla".</note>
+      <tuv lang="en-US">
+        <seg>Soon, very soon, thy firmest Footing fails;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260526T182212Z" creationid="gabrielt" creationdate="20260526T182212Z">
+        <seg>Pronto, muy pronto, tu Apoyo más firme falla;
+</seg>
       </tuv>
     </tu>
     <tu>
