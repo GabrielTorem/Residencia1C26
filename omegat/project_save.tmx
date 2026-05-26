@@ -1386,6 +1386,8 @@ acuñado por primera vez es pleonasmo</note>
       </tuv>
     </tu>
     <tu>
+      <note>El asterisco tras la coma. Espacio y salto de línea.
+Long life ≠ amplia difusión</note>
       <tuv lang="en-US">
         <seg>As a poem imbued with the sentiments of the Evangelical revival taking place in the eighteenth century, 'The Grave' enjoyed a long life in print as required reading for the spiritually-minded.</seg>
       </tuv>
@@ -3170,6 +3172,7 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
+      <note>espacio y salto. Asterisco</note>
       <tuv lang="en-US">
         <seg>In *Night Thoughts* the contemplation of death and decay serves to encourage speculations on the life to come.</seg>
       </tuv>
