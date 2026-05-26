@@ -3638,6 +3638,7 @@ Ver comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>repensar "en respuesta", pensando en el sentido.</note>
       <tuv lang="en-US">
         <seg>In the response to Gothic architecture, too, the operations of enlightenment ideology are apparent.</seg>
       </tuv>
@@ -4892,6 +4893,8 @@ lovely ≠ amada</note>
       </tuv>
     </tu>
     <tu>
+      <note>No es el modo de cargar al glosario.
+Dado que...</note>
       <tuv lang="en-US">
         <seg>Privileging uniformity and proportion over scale and extravagance, eighteenth-century critics classified any deviations from symmetrical structure as the deformities exhibited by the absence of taste of a barbaric age.</seg>
       </tuv>
