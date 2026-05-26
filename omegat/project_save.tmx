@@ -551,6 +551,15 @@ No aparece en glosario. Probamos en clase de nuevo. Si no, enviame las entradas 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>51--3)
+:::</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260526T234841Z" creationid="Profesorado" creationdate="20260526T234841Z">
+        <seg>n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>53)</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260411T195825Z" creationid="tg" creationdate="20260411T195825Z">
