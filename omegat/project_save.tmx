@@ -2253,6 +2253,8 @@ Ojo los tiempos</note>
       </tuv>
     </tu>
     <tu>
+      <note>forceful
+wasteful</note>
       <tuv lang="en-US">
         <seg>Even forceful attempts, like Johnson's, to mark out the useful and moral from the wasteful and corrupting potential of fiction encountered the destabilising pleasures of writing.</seg>
       </tuv>
@@ -5486,6 +5488,14 @@ prueba</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260526T014107Z" creationid="A" creationdate="20260526T014107Z">
         <seg>El romance, con un lenguaje excelso y elevado, describe lo que nunca sucedió ni es probable que suceda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Romance is an heroic fable, which treats of fabulous persons and things.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260526T180510Z" creationid="gabrielt" creationdate="20260526T180510Z">
+        <seg>El romance es una fábula heroica que trata sobre personajes y sucesos fabulosos.</seg>
       </tuv>
     </tu>
     <tu>
