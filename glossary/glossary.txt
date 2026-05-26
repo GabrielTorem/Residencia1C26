@@ -58,3 +58,8 @@ enlightened	ilustrado	cdc; 24/5/26
 Enlightenment	Ilustración	cdc; 24/5/26
 Antiquarianism	anticuariado	cdc; 24/5/26
 Graveyard school	poesía de las tumbas	cdc; 24/5/26
+critical	crítica/crítico	1. ab; 25/5/26
+Buildings	arquitectura	1. ab; 25/5/26
+tales	relatos	1. ab; 25/5/26
+burlesques	*burlesques*	1. una obra literaria o dramática que busca ridiculizar mediante la exageración grotesca o la imitación cómica.
+folklore	folklore/folclore	1. Conjunto de costumbres, creencias, artesanías, canciones, y otras cosas semejantes de carácter tradicional y popular.
