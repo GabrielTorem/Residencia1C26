@@ -184,6 +184,17 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>(I, p. 111)
+:::</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014330Z" creationid="A" creationdate="20260526T014330Z">
+        <seg>(I, p. 111)
+ :::
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>¿Estamos traduciendo del inglés, del francés?</note>
       <tuv lang="en-US">
         <seg>(Michel Foucault, ‘Language to Infinity’, p. 65) EXCESS</seg>
@@ -649,6 +660,15 @@ Soon, very soon, thy firmest Footing fails;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>:::{.paragraph-style=Quotation centered}
+The Romance is an heroic fable, which treats of fabulous persons and things.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014040Z" creationid="A" creationdate="20260526T014040Z">
+        <seg>El romance es una fábula heroica que trata sobre personajes y sucesos fabulosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:::{.paragraph-style=Quotation centered}
 is it not well known that the most flourishing and celebrated states of Europe owe originally to the northern nations, whatever liberty they now enjoy, either in their constitution, or in the spirit of their government?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260524T013206Z" creationid="tg" creationdate="20260427T192849Z">
@@ -708,6 +728,14 @@ ver qué hacer con onto and into</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260406T182852Z" creationid="Soundwave" creationdate="20260406T182852Z">
         <seg>ARTÍCULO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Able to reproduce a set of dominant ideas about the relationship of individuals to their social and natural world, all narratives were acknowledged, if only at times tacitly, to possess the capacity to order or subvert manners, morals and perceptions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014554Z" creationid="A" creationdate="20260526T014554Z">
+        <seg>Se reconoció que todas las narrativas tenían la capacidad, a veces implícita, de ordenar o subvertir las costumbres, la moral y las percepciones, ya que son capaces de reproducir un conjunto de ideas dominantes sobre la relación de los individuos con el mundo natural y social.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1351,6 +1379,14 @@ acuñado por primera vez es pleonasmo</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>As a result they are rejected as 'intolerably tedious' and 'unspeakably absurd'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T013808Z" creationid="A" creationdate="20260526T013808Z">
+        <seg>En consecuencia, se los rechaza por ser «intolerablemente tediosos» e «indescriptiblemente absurdos».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>be  trained at</note>
       <tuv lang="en-US">
         <seg>As a result, it is easy to discern how the parody embedded in both the Gothic and postmodernism could be trained at the *Bildungsroman* with its humanistic conception of subjectivity.</seg>
@@ -1413,6 +1449,14 @@ acuñado por primera vez es pleonasmo</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260410T180451Z" creationid="tg" creationdate="20260403T204419Z">
         <seg>En cuanto a la traducción del término, aunque *roman* en *Bildungsroman* significa «novela», *bildung*  es más difícil de precisar y podría traducirse al español como «formación», «aprendizaje» o «crecimiento» (Graham 2).
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As in criticism of romances, chronological differences tended to be elided so any constructions that were wastefully over-ornamented or unwielding and cumbersome were described as Gothic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014932Z" creationid="A" creationdate="20260526T014932Z">
+        <seg>Al igual que en la crítica de los romances, las diferencias cronológicas tendían a omitirse, por lo que cualquier construcción que presentara una ornamentación sobrecargada y excesiva o que resultara voluminosa y difícil de manejar se describía como gótica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1847,6 +1891,14 @@ Pensar  el "desde", que trae problemas.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Charlotte Lennox's novel *The* *Female Quixote* (1752) satirises romance reading by presenting a heroine who interprets every event as though it were part of some great romantic adventure.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T013927Z" creationid="A" creationdate="20260526T013927Z">
+        <seg>En la novela *La* *mujer Quijote* (1752), de Charlotte Lennox, se satiriza la lectura del romance presentando a una heroína que interpreta cada acontecimiento como si fuera parte de una gran aventura romántica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Closer to home was the tyranny that attended the decline of the Roman empire which became a site of despotism, degradation and barbarity and was itself overthrown by the Germanic tribes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260524T013544Z" creationid="tg" creationdate="20260427T193120Z">
@@ -2022,6 +2074,14 @@ Dijiste que podía dejar crimen.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Despite critical and novelistic attempts to sustain distinctions, fiction continued to upset conventions of reading and codes of behaviour.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T013944Z" creationid="A" creationdate="20260526T013944Z">
+        <seg>A pesar de los intentos de la crítica y la narrativa por mantener las distinciones, la ficción continuó alterando las convenciones de lectura y los códigos de conducta.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>espacios
 ensamble
 rever vis-à-vis</note>
@@ -2192,6 +2252,14 @@ Ojo los tiempos</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Even forceful attempts, like Johnson's, to mark out the useful and moral from the wasteful and corrupting potential of fiction encountered the destabilising pleasures of writing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014003Z" creationid="A" creationdate="20260526T014003Z">
+        <seg>Incluso los intentos enérgicos, como los de Johnson, de distinguir el potencial útil y moral del potencial derrochador y corrupto de la ficción, se encontraron con los placeres desestabilizadores de la escritura.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>antep. adj. v.p.</note>
       <tuv lang="en-US">
         <seg>Even the clear classifications proposed by Beattie and Johnson fell foul of the way in which their terms were framed.</seg>
@@ -2277,6 +2345,14 @@ Ojo los tiempos</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260522T000053Z" creationid="tg" creationdate="20260427T010255Z">
         <seg>Los temores ante la mortalidad y las supersticiones que esta provoca carecen de fundamento si se tiene fe. 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fiction becomes distinctly, though ambivalently, ideological.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014522Z" creationid="A" creationdate="20260526T014522Z">
+        <seg>La ficción se vuelve clara pero ambiguamente ideológica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3199,6 +3275,22 @@ no solo / sino también es calco estr.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>In contrast Elizabethan imitations of Gothic structure were characterised by their 'affected lighteness, Delicacy, and over-rich, even whimsical Decorations' (Clark, pp. 50--1).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014856Z" creationid="A" creationdate="20260526T014856Z">
+        <seg>En contraste, las imitaciones isabelinas de la estructura gótica se caracterizaban por su «ligereza afectada, delicadeza y decoraciones sobrecargadas, incluso eclécticas» (Clark, pp. 50-51).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In deceiving readers with persuasively real representations of events and characters, novels work in an opposite manner to romances.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014416Z" creationid="A" creationdate="20260526T014416Z">
+        <seg>Las novelas funcionan a la inversa de los romances debido a que en ellas se engaña a los lectores con representaciones de acontecimientos y personajes que parecen bastante reales.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>En ... en...</note>
       <tuv lang="en-US">
         <seg>In defining a divided world of divided beings, science also disclosed a sense of loss, of the decline of human society and its values of individual strength and health.</seg>
@@ -3223,6 +3315,14 @@ no solo / sino también es calco estr.</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260404T174917Z" creationid="tg" creationdate="20260404T174917Z">
         <seg>De hecho, así lo señalan David Punter y Glennis Byron:
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In her *The Progress of* *Romance* (1785), Clara Reeve, herself a writer of Gothic and historical romances, outlined in very Johnsonian terms a definition of romance and novel while acknowledging the seductive power of fiction:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014023Z" creationid="A" creationdate="20260526T014023Z">
+        <seg>En su libro *The Progress of* *Romance* [*El progreso del* *romance*] (1785), Clara Reeve, escritora de romances góticos e históricos, esbozó en términos muy johnsonianos una definición del romance y la novela, al tiempo que reconocía el poder seductor de la ficción:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3521,6 +3621,14 @@ Ver comillas</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the response to Gothic architecture, too, the operations of enlightenment ideology are apparent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014624Z" creationid="A" creationdate="20260526T014624Z">
+        <seg>De igual forma, las intervenciones de la ideología de la Ilustración se hacían evidentes en respuesta a la arquitectura gótica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the skeletons that leap from family closets and the erotic and often incestuous tendencies of Gothic villains there emerges the awful spectre of complete social disintegration in which virtue cedes to vice, reason to desire, law to tyranny.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260405T023346Z" creationid="tg" creationdate="20260405T023346Z">
@@ -3634,6 +3742,14 @@ Mejorar redacción.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260504T212518Z" creationid="Soundwave" creationdate="20260504T212518Z">
         <seg>Ese es, en efecto, el patrón de lo gótico como género que, al generar y refractar diversos objetos de miedo y ansiedad, transforma su propia configuración y su foco. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Indeed, while at Eton, Horace Walpole described the effects of his predilection for romances in a letter to George Montagu (6 May 1736): 'As I got farther into Virgil and *Clelia,* I found myself transported from Arcadia, to the garden of Italy, and saw Windsor Castle in no other view than the *capitoli* *immobile saxum*'</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T013850Z" creationid="A" creationdate="20260526T013850Z">
+        <seg>De hecho, Horace Walpole describió los efectos de su predilección por los romances en una carta dirigida a George Montagu durante su estancia en Eton (6 May 1736): «A medida que avanzaba en la lectura de Virgilio y *Clelia,* me sentí transportado desde Arcadia hasta el jardín de Italia, y contemplé el castillo de Windsor desde una perspectiva que no era otra que la del *capitoli* *immobile saxum*».</seg>
       </tuv>
     </tu>
     <tu>
@@ -4308,6 +4424,14 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>Neve's *Complete Builder's Guide* (1703) dismisses medieval edifices as 'massive, cumbersome and unwieldy'.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014701Z" creationid="A" creationdate="20260526T014701Z">
+        <seg>En la obra *Complete Builder's Guide* [*La guía completa del constructor*] (1703), de Neve, se califica la arquitectura medieval de «colosal, voluminosa y difícil de manejar».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Espacios.
 Pensar se las traducciones corresponden al español</note>
       <tuv lang="en-US">
@@ -4747,6 +4871,14 @@ lovely ≠ amada</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260416T025538Z" creationid="gabrielt" creationdate="20260414T184719Z">
         <seg>Se puede considerar que el posmodernismo se preocupa, de igual manera, «[d]el exceso, la ansiedad, el temor y la muerte» (Beville, 2009, p. 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Privileging uniformity and proportion over scale and extravagance, eighteenth-century critics classified any deviations from symmetrical structure as the deformities exhibited by the absence of taste of a barbaric age.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014643Z" creationid="A" creationdate="20260526T014643Z">
+        <seg>Dado que privilegiaban la uniformidad y la proporción sobre la escala y la extravagancia, los críticos del siglo XVIII clasificaban cualquier desviación de la estructura simétrica como deformidades expuestas por la falta de buen gusto de una época bárbara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5255,6 +5387,14 @@ ethos iría en cursiva. La manera de indicarlo es con asteriscos: *ethos*</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>That these are representations is not at issue.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014444Z" creationid="A" creationdate="20260526T014444Z">
+        <seg>El hecho de que se trate de representaciones no es la cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ver critical</note>
       <tuv lang="en-US">
         <seg>That these boundaries were difficult to police accounts for the repeated critical effort to maintain them.</seg>
@@ -5337,6 +5477,14 @@ prueba</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260430T232033Z" creationid="A" creationdate="20260423T010312Z">
         <seg>El último enamorado: *Lolita*, de Vladimir Nabokov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Romance in lofty and elevated language, describes what never happened or is likely to happen.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014107Z" creationid="A" creationdate="20260526T014107Z">
+        <seg>El romance, con un lenguaje excelso y elevado, describe lo que nunca sucedió ni es probable que suceda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5455,6 +5603,14 @@ family no parece ser el ambiente familiar</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>The concern about the effects of fiction becomes paramount in eighteenth-century criticism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014430Z" creationid="A" creationdate="20260526T014430Z">
+        <seg>La preocupación por los efectos de la ficción cobra una importancia primordial en la crítica del siglo XVIII.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>al de ...
 
 redacción</note>
@@ -5525,6 +5681,14 @@ counter-discourse a glosario</note>
       <tuv lang="es-ES" changeid="tg" changedate="20260415T151640Z" creationid="tg" creationdate="20260404T193209Z">
         <seg>La distorsión de perspectiva, que es un rasgo constante de la ficción gótica, encuentra un nuevo «hogar» en lo posmoderno y este giro de la historia tiene que ver precisamente con el «origen» del gótico como contradiscurso frente al impulso modernizador de la Ilustración, así como con la compleja refutación y el desarrollo, por parte del posmodernismo, de lo que dicta el propio modernismo posilustrado progresista.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The diversity of events, styles, settings and characters composing this strange assemblage engages in an extravagant refusal to respect boundaries of fact and fiction and reproduce imitations of nature and life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T013752Z" creationid="A" creationdate="20260526T013752Z">
+        <seg>La diversidad de eventos, estilos, escenarios y personajes que componen este ensamblaje extraño se manifiesta en una negativa exagerada a respetar las fronteras entre la realidad y la ficción y a reproducir imitaciones de la naturaleza y la vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6022,6 +6186,14 @@ donde, pensar</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The word 'romance' had come to signify more recent productions as well as medieval narratives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T013903Z" creationid="A" creationdate="20260526T013903Z">
+        <seg>La palabra «romance» había llegado para representar tanto las obras más recientes como las narrativas medievales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The word was employed loosely, embracing Celtic and Germanic tribes.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260524T013938Z" creationid="tg" creationdate="20260427T193218Z">
@@ -6232,6 +6404,14 @@ No remplazar asteriscos por comillas</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260517T142531Z" creationid="Soundwave" creationdate="20260517T142531Z">
         <seg>Estas figuras testimonian menos el poder de la tumba para elevar el pensamiento hacia cuestiones espirituales más centradas en el poder de la imaginación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These romances, however, are the fore-runners of the strange mixture of forms that appeared as Gothic tales later in the century.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T013828Z" creationid="A" creationdate="20260526T013828Z">
+        <seg>Sin embargo, los romances son los precursores de la mezcla extraña de formas que se dieron a conocer como cuentos góticos más a finales de siglo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6750,6 +6930,14 @@ Podemos mover circunstanciales.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is more important are the values that are reproduced as natural or real rather than the actual form of nature or everyday life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014501Z" creationid="A" creationdate="20260526T014501Z">
+        <seg>Lo más importante son los valores que se reproducen como naturales o reales, en lugar de la forma real de la naturaleza o la vida cotidiana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What might, loosely, be called the Gothic tradition, is no less partial and fragmented.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260512T015704Z" creationid="A" creationdate="20260512T015704Z">
@@ -7080,6 +7268,22 @@ There she was with her ruined looks and her adult, rope-veined narrow hands and 
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260501T023229Z" creationid="gabrielt" creationdate="20260428T174506Z">
         <seg>(*Hijo de Dios*, p. 58)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>—The Novel gives a familiar relation of such things, as pass every day before our eyes, such as may happen to our friend, or to ourselves; and the perfection of it, is to represent every scene, in so easy and natural a manner, and to make them appear so probable, as to deceive us into a persuasion (at least while we are reading) that all is real, until we are affected by the joys or distresses, of the persons in the story, as if they were our own.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014232Z" creationid="A" creationdate="20260526T014232Z">
+        <seg>La novela ofrece un relato familiar de aquello que sucede a diario ante nuestros ojos, tal como le ocurre a un amigo o a nosotros mismos; y su perfección consiste en representar cada escena de un modo más sencillo y natural, y en hacerlas parecer tan verosímiles, que nos engañan hasta convencernos (al menos mientras estamos leyendo) de que todo es real, hasta el punto en que nos conmueven las alegrías o las aflicciones de los personajes de la historia, como si fuéramos nosotros mismos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>—The Novel is a picture of real life and manners, and of the times in which it is written.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260526T014053Z" creationid="A" creationdate="20260526T014053Z">
+        <seg>La novela es un retrato de la vida real y las costumbres, así como de la época en que se escribe.</seg>
       </tuv>
     </tu>
     <tu>
