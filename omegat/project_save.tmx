@@ -1946,6 +1946,8 @@ Pensar  el "desde", que trae problemas.</note>
       </tuv>
     </tu>
     <tu>
+      <note>asterisco, espacio, salto. Revisar en todo.
+No hay simultaneidad temporal</note>
       <tuv lang="en-US">
         <seg>Confronting and overcoming the limits of material existence, *Night Thoughts* is organised by a play of images which double the significance of life and death, light and dark.</seg>
       </tuv>
@@ -2433,6 +2435,7 @@ Pensar orden.
       </tuv>
     </tu>
     <tu>
+      <note>aprehension</note>
       <tuv lang="en-US">
         <seg>For Young, the life of the body entombs the soul in darkness, while death and darkness enable the apprehension of a transcendent and immanent brilliance.</seg>
       </tuv>
