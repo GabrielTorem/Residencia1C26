@@ -2583,6 +2583,7 @@ pensar "seriously sinister"</note>
       </tuv>
     </tu>
     <tu>
+      <note>migration ≠ expansión</note>
       <tuv lang="en-US">
         <seg>From there it had started its migration across Europe during the period of the Crusades.</seg>
       </tuv>
@@ -2944,7 +2945,9 @@ pensar "así"</note>
       </tuv>
     </tu>
     <tu>
-      <note>No pude encontrar 'History of English Poetry' en español.</note>
+      <note>No pude encontrar 'History of English Poetry' en español.
+
+Posesivo</note>
       <tuv lang="en-US">
         <seg>His *History of* *English Poetry* (1774--81) traces the origins of romantic fiction to Arabia.</seg>
       </tuv>
@@ -4818,7 +4821,9 @@ romance y tale a glosario</note>
       </tuv>
     </tu>
     <tu>
-      <note>*'Académicos'?</note>
+      <note>*'Académicos'?
+
+¿nordicas? ¡A glosario!</note>
       <tuv lang="en-US">
         <seg>Other scholars queried the idea of the Eastern origins of romances and preferred to identify the beginnings of romance among the Celtic, Saxon and Norse tribes of northern Europe.</seg>
       </tuv>
@@ -6224,6 +6229,7 @@ reason no sé si es motivo acá.</note>
       </tuv>
     </tu>
     <tu>
+      <note>no a...</note>
       <tuv lang="en-US">
         <seg>The thoughts that it encourages are on the visionary and mystical power of writing, not to produce moral understanding, but to evoke intense feelings.</seg>
       </tuv>
@@ -6483,6 +6489,7 @@ No remplazar asteriscos por comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>concordancia</note>
       <tuv lang="en-US">
         <seg>These departures from classical rules of imitation and creativity were supported by the work of antiquarians in their reassessments of old texts.</seg>
       </tuv>
