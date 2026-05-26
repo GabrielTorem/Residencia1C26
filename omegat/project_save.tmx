@@ -2792,6 +2792,7 @@ elevated</note>
       </tuv>
     </tu>
     <tu>
+      <note>agregar fuente a la entrada de glosario</note>
       <tuv lang="en-US">
         <seg>Graveyard poetry was popular in the first half of the eighteenth century.</seg>
       </tuv>
@@ -4110,6 +4111,8 @@ ponderan es ambiguo, falta consequent.</note>
       </tuv>
     </tu>
     <tu>
+      <note>revisar espaciado doble.
+Hay un matiz de sentido en la pasiva</note>
       <tuv lang="en-US">
         <seg>Its principal poetic objects, other than graves and churchyards, were night, ruins, death and ghosts, everything, indeed, that was excluded by rational culture.</seg>
       </tuv>
@@ -6446,6 +6449,7 @@ concordancia</note>
       </tuv>
     </tu>
     <tu>
+      <note>Graveyard poet a glosario</note>
       <tuv lang="en-US">
         <seg>These were the thoughts conjured up by Graveyard poets.</seg>
       </tuv>
