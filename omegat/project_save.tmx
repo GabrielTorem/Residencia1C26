@@ -233,6 +233,17 @@ Rever toda la estr.</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <note>¿Es tuya la traducción?</note>
+      <tuv lang="en-US">
+        <seg>*Darkness* has more Divinity for me,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260526T183449Z" creationid="gabrielt" creationdate="20260526T183449Z">
+        <seg>¡Más para mí la *obscuridad* encierra en sí mucha mayor Divinidad!
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>*Liber Amoris* with some graduate students and found that they had no understanding whatever of Hazlitt’s obsessive commitment to Sarah Walker.</seg>
       </tuv>
