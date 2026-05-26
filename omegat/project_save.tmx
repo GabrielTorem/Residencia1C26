@@ -2037,6 +2037,16 @@ Dijiste que podía dejar crimen.</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <note>¿es tuya la trad?</note>
+      <tuv lang="en-US">
+        <seg>Dark power, with shuddering meek submitted thought,</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="gabrielt" changedate="20260526T191656Z" creationid="gabrielt" creationdate="20260526T191656Z">
+        <seg>El poder oscuro, con tembloroso pensamiento sometido,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>Darkness enables a person to perceive the soul within, it expands the mind by producing a consciousness of its own potential for divinity.</seg>
       </tuv>
@@ -2368,6 +2378,7 @@ wasteful</note>
       </tuv>
     </tu>
     <tu>
+      <note>inversión. Pensar produce</note>
       <tuv lang="en-US">
         <seg>Fear and the supernatural figures it conjures up is one of the 'divine emotions' that poets and bards of earlier ages were able to produce.</seg>
       </tuv>
@@ -5627,6 +5638,7 @@ falta un determ.</note>
       </tuv>
     </tu>
     <tu>
+      <note>pasaron inadvertidos</note>
       <tuv lang="en-US">
         <seg>The attractions of darkness, however, and the power of the images and visions it engendered were not lost on other poets associated with the melancholy evocations of the Graveyard school.</seg>
       </tuv>
@@ -6470,6 +6482,7 @@ No remplazar asteriscos por comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>sentido</note>
       <tuv lang="en-US">
         <seg>These figures testify less to the power of the grave in elevating thought to spiritual matters and more to the power of imagination:</seg>
       </tuv>
@@ -7125,6 +7138,7 @@ aspectos ilustrados</note>
       </tuv>
     </tu>
     <tu>
+      <note>inversión</note>
       <tuv lang="en-US">
         <seg>William Collins's 'Ode to Fear' (1746) describes the fanciful and shadowy shapes, the monsters, giants and phantoms that the emotion produces.</seg>
       </tuv>
