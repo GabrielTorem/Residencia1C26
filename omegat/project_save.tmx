@@ -274,9 +274,8 @@ Rever toda la estr.</note>
       <tuv lang="en-US">
         <seg>*Where* nor Device, nor knowledge *ever came.*</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T005146Z" creationid="tg" creationdate="20260427T005146Z">
-        <seg>*Donde* ni el Ingenio ni el conocimiento *jamás llegaron*.
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T002629Z" creationid="tg" creationdate="20260427T005146Z">
+        <seg>*Donde* ni el artilugio ni el conocimiento *jamás llegaron*.</seg>
       </tuv>
     </tu>
     <tu>
@@ -689,9 +688,8 @@ Lust, murder, incest, and every atrocity that can disgrace human nature, brought
         <seg>:::{.paragraph-style=Quotation centered}
 Soon, very soon, thy firmest Footing fails;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T005034Z" creationid="tg" creationdate="20260427T005034Z">
-        <seg>Pronto, muy pronto, tu Apoyo más firme falla;
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T002551Z" creationid="tg" creationdate="20260427T005034Z">
+        <seg>Pronto, muy pronto, tu Apoyo más firme falla;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,9 +1185,8 @@ v.p.</note>
       <tuv lang="en-US">
         <seg>And down dropp't into that darksome Place,</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260509T230724Z" creationid="tg" creationdate="20260427T005059Z">
-        <seg>y te caes en ese Lugar sombrío,
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T002605Z" creationid="tg" creationdate="20260427T005059Z">
+        <seg>y te caes en ese Lugar sombrío,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1849,13 +1846,13 @@ determinacy a glosario</note>
       </tuv>
     </tu>
     <tu>
-      <note>falta coma vocativa</note>
+      <note>falta coma vocativa.
+No va coma vocativa, no está en el original.</note>
       <tuv lang="en-US">
         <seg>But it also elevates ones considerations to higher, spiritual objects and ends: Thrice welcome *Death*!</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260523T002809Z" creationid="tg" creationdate="20260427T005333Z">
-        <seg>Pero también eleva las reflexiones hacia motivos y fines espirituales superiores: ¡Tres veces bienvenida *Muerte*!
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T002734Z" creationid="tg" creationdate="20260427T005333Z">
+        <seg>Pero también eleva las reflexiones hacia motivos y fines espirituales superiores: ¡Tres veces bienvenida *Muerte!*</seg>
       </tuv>
     </tu>
     <tu>
@@ -2097,9 +2094,8 @@ Dijiste que podía dejar crimen.</note>
       <tuv lang="en-US">
         <seg>Death lays waste to material human aspirations:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260509T230635Z" creationid="tg" creationdate="20260427T004925Z">
-        <seg>La muerte arrasa con las aspiraciones materiales humanas:
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T002543Z" creationid="tg" creationdate="20260427T004925Z">
+        <seg>La muerte arrasa con las aspiraciones materiales humanas:</seg>
       </tuv>
     </tu>
     <tu>
