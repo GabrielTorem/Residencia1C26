@@ -1412,9 +1412,8 @@ Long life ≠ amplia difusión</note>
       <tuv lang="en-US">
         <seg>As a poem imbued with the sentiments of the Evangelical revival taking place in the eighteenth century, 'The Grave' enjoyed a long life in print as required reading for the spiritually-minded.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260523T171017Z" creationid="tg" creationdate="20260427T005737Z">
-        <seg>*The Grave*, un poema impregnado del espíritu que caracterizó al resurgimiento evangélico en el siglo XVIII, logró una amplia difusión editorial como lectura obligada para personas con inclinaciones espirituales. 
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T003157Z" creationid="tg" creationdate="20260427T005737Z">
+        <seg>*The Grave,* un poema impregnado del espíritu que caracterizó al resurgimiento evangélico en el siglo XVIII, logró una larga vida editorial como lectura obligada para personas con inclinaciones espirituales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1965,13 +1964,14 @@ Pensar  el "desde", que trae problemas.</note>
       </tuv>
     </tu>
     <tu>
-      <note>¿Es traducción tuya?</note>
+      <note>¿Es traducción tuya?
+
+Sí, como marqué en el seg. 832, es mi traducción hasta el seg. 844,</note>
       <tuv lang="en-US">
         <seg>Conducts us to our Home, and lands us safe</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260521T232028Z" creationid="tg" creationdate="20260427T005430Z">
-        <seg>Nos conduces a nuestro Hogar, y desembarcamos a salvo
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T003006Z" creationid="tg" creationdate="20260427T005430Z">
+        <seg>Nos conduce a nuestro Hogar, y nos desembarca a salvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2111,9 +2111,8 @@ Dijiste que podía dejar crimen.</note>
       <tuv lang="en-US">
         <seg>Death, as leveller of earthly desires and ambitions, demands religious faith and hope in order to pave the way for souls to ascend to heaven.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260523T170731Z" creationid="tg" creationdate="20260427T005625Z">
-        <seg>La muerte, la gran niveladora de los deseos y ambiciones terrenales, exige fe religiosa y esperanza para allanar el camino que permite a las almas ascender al cielo.
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T003033Z" creationid="tg" creationdate="20260427T005625Z">
+        <seg>La muerte, la gran niveladora de los deseos y ambiciones terrenales, exige fe religiosa y esperanza para allanar el camino que permite a las almas ascender al cielo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4720,9 +4719,8 @@ romance y tale a glosario</note>
       <tuv lang="en-US">
         <seg>On the long-wish'd for Shore.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T005453Z" creationid="tg" creationdate="20260427T005453Z">
-        <seg>en la tan anhelada Orilla.
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T003016Z" creationid="tg" creationdate="20260427T005453Z">
+        <seg>en la tan anhelada Orilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5455,9 +5453,8 @@ postmodern parody a glosario
       <tuv lang="en-US">
         <seg>That after many a painful bleeding Step</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260427T005358Z" creationid="tg" creationdate="20260427T005358Z">
-        <seg>Que tras muchos Pasos dolorosos y sangrantes
-</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260528T002752Z" creationid="tg" creationdate="20260427T005358Z">
+        <seg>Que tras muchos Pasos dolorosos y sangrantes</seg>
       </tuv>
     </tu>
     <tu>
