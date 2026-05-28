@@ -49,8 +49,8 @@ wilds of fancy	tierras inexploradas de la fantasía	tg; 18/5/26
 romance	romance	tg; 21/5/26
 marvellously absurd	lo absurdo y maravilloso	tg; 21/5/26
 modern romance	novela	tg; 21/5/26
-Graveyard poets	poetas de las tumbas	tg; 21/5/26
-Graveyard poetry	poesía de las tumbas	tg; 21/5/26
+Graveyard poets	poetas de las tumbas	tg; 21/5/26 https://www.dip-badajoz.es/cultura/ceex/reex_digital/reex_LXXIII/2017/T.%20LXXIII%20numero%20extraordinario%202017/93764.pdf
+Graveyard poetry	poesía de las tumbas	tg; 21/5/26 https://www.dip-badajoz.es/cultura/ceex/reex_digital/reex_LXXIII/2017/T.%20LXXIII%20numero%20extraordinario%202017/93764.pdf
 passion-love	amor-pasión	cdc; 24/5/26
 faltering	vacilante	cdc; 24/5/26
 narratives	narraciones	cdc; 24/5/26
