@@ -4743,8 +4743,8 @@ romance y tale a glosario</note>
       <tuv lang="en-US">
         <seg>Parliaments and the legal system, it was believed, were derived from Gothic institutions and peoples who were free and democratic.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260528T011424Z" creationid="tg" creationdate="20260427T193202Z">
-        <seg>Se creía que los parlamentos y el sistema jurídico derivaban de instituciones y pueblos góticos, que eran libres y democráticos.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260601T191548Z" creationid="tg" creationdate="20260427T193202Z">
+        <seg>Se creía que los parlamentos y el sistema jurídico derivaban de instituciones y pueblos góticos que eran libres y democráticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,11 +6040,12 @@ Locus a glosario
       </tuv>
     </tu>
     <tu>
+      <note>duda: gótica o de los godos.</note>
       <tuv lang="en-US">
         <seg>The significance of Gothic culture was cited in British political discussions from the mid-seventeenth century.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260528T011417Z" creationid="tg" creationdate="20260427T193143Z">
-        <seg>La importancia de la cultura gótica se citó en el debate político británico a partir de mediados del siglo XVII.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260601T191430Z" creationid="tg" creationdate="20260427T193143Z">
+        <seg>La importancia de la cultura gótica se mencionó en las discusiones políticas británicas a partir de mediados del siglo XVII.</seg>
       </tuv>
     </tu>
     <tu>
