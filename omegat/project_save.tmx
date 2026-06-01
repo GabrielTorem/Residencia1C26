@@ -4765,11 +4765,12 @@ romance y tale a glosario</note>
       </tuv>
     </tu>
     <tu>
+      <note>Duda:aquí es ¿cultura gótica o cultura de los pueblos godos?</note>
       <tuv lang="en-US">
         <seg>Paul-Henri Mallett's Preface to his 1755 account of the early history of the Germanic tribes, translated by Percy as *Northern Antiquities* (1770), outlines these aspects of Gothic culture.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260528T011254Z" creationid="tg" creationdate="20260427T192734Z">
-        <seg>El prefacio de Paul-Henri Mallet a su relato de 1755 sobre la historia temprana de las tribus germánicas, traducido por Percy como *Northern Antiquities* [Antigüedades nórdicas] (1770), describe estos aspectos de la cultura gótica.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260601T190326Z" creationid="tg" creationdate="20260427T192734Z">
+        <seg>El prefacio de Paul-Henri Mallett a su obra de 1755 sobre la historia temprana de las tribus germánicas, que Percy tradujo como *Northern Antiquities* [Antigüedades nórdicas] (1770), describe estos aspectos de la cultura gótica.</seg>
       </tuv>
     </tu>
     <tu>
