@@ -212,6 +212,17 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>(IV, p. 360)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260602T134110Z" creationid="Gabriel" creationdate="20260602T134110Z">
+        <seg>(IV, p. 360)
+:::
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(IV, p. 360)
 :::</seg>
@@ -5441,6 +5452,8 @@ postmodern parody a glosario
       </tuv>
     </tu>
     <tu>
+      <note>Si ponías activa arriba, acá podías seguir en activa.
+Mejor valores estéticos neoclásicos</note>
       <tuv lang="en-US">
         <seg>Such strong criticisms questioned the limits of neoclassical aesthetic values by developing, on the basis of romantic texts, different ideas about art, originality and nature.</seg>
       </tuv>
@@ -6574,6 +6587,7 @@ No remplazar asteriscos por comillas</note>
       </tuv>
     </tu>
     <tu>
+      <note>v.p. desviaciones de</note>
       <tuv lang="en-US">
         <seg>These ornaments have been censured by the bigotry of precise and servile critics, as abounding in whimsical absurdities, and as unwarrantable deviations from the practice of Homer and Virgil.</seg>
       </tuv>
