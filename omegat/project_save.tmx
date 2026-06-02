@@ -306,7 +306,9 @@ Rever toda la estr.</note>
       </tuv>
     </tu>
     <tu>
-      <note>El *take* medio me descolocó. Sé que hace referencia a "imaginate esto bla bla bla bla", pero la verdad no se me ocurrió otra idea más que, quizás 'por ejemplo', 'imagina/nemos'. Acepto sugerencias.</note>
+      <note>El *take* medio me descolocó. Sé que hace referencia a "imaginate esto bla bla bla bla", pero la verdad no se me ocurrió otra idea más que, quizás 'por ejemplo', 'imagina/nemos'. Acepto sugerencias.
+
+Pienso en "sea:"</note>
       <tuv lang="en-US">
         <seg>*Take*—An old castle, half of it ruinous.</seg>
       </tuv>
@@ -5757,7 +5759,9 @@ desarrollo mesurado</note>
       </tuv>
     </tu>
     <tu>
-      <note>Voz pasiva?</note>
+      <note>Voz pasiva?
+
+No. La voz pasiva en traducción la consideramos la oración pasiva completa. Las construcciones de participio no tienen nada de malo.</note>
       <tuv lang="en-US">
         <seg>The atmosphere of gloom and mystery populated by threatening figures was designed to quicken readers' pulses in terrified expectation.</seg>
       </tuv>
@@ -6815,6 +6819,7 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
+      <note>inflecciones es una colocación muy válida</note>
       <tuv lang="en-US">
         <seg>Though many devices and settings were repeated, they were inflected differently.</seg>
       </tuv>
@@ -6841,7 +6846,9 @@ Invertir S y P</note>
       </tuv>
     </tu>
     <tu>
-      <note>Perdón, volví a caer en la maldición de los -mente :p</note>
+      <note>Perdón, volví a caer en la maldición de los -mente :p
+
+:-D. Podés poner recién asesinados</note>
       <tuv lang="en-US">
         <seg>Three murdered bodies, quite fresh.</seg>
       </tuv>
@@ -7418,7 +7425,8 @@ especially : one where animals and especially livestock come to drink
 : a health or recreational resort featuring mineral springs or bathing
 3
 : a place (such as a nightclub, bar, or lounge) where drink is available
-</note>
+
+Pensemos en la época. No sé si existían grifos en las casas. Seguramente hablase de bebederos, como para que el lector se beba esta mezcla gótica de un saque.</note>
       <tuv lang="en-US">
         <seg>of the watering-places before going to bed.</seg>
       </tuv>
