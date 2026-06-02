@@ -212,7 +212,6 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(IV, p. 360)</seg>
       </tuv>
@@ -251,7 +250,6 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(p. 61)</seg>
       </tuv>
@@ -772,6 +770,15 @@ were seduced by these barbarities of their forefathers; were even charmed by the
       <tuv lang="es-ES" changeid="A" changedate="20260602T034601Z" creationid="A" creationdate="20260602T034601Z">
         <seg>:::
 se dejaron seducir por estas barbaridades de sus antepasados; incluso quedaron cautivados por los romances góticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:::{custom-style="Quotations centered"}
+the daring machineries of giants, dragons and enchanted castles, borrowed from the magic storehouse of Boiardo, Ariosto and Tasso, began to be employed by the epic muse.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260602T211356Z" creationid="Profesorado" creationdate="20260602T211356Z">
+        <seg>el ingenio audaz de los gigantes, los dragones y los castillos encantados, prestado del tesoro mágico de Boiardo, Ariosto y Tasso, empezó a ser usado por la inspiración épica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7393,7 +7400,6 @@ agregar passion-love al glosario</note>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>is it not well known that the most flourishing and celebrated states of Europe owe originally to the northern nations, whatever liberty they now enjoy, either in their constitution, or in the spirit of their government?</seg>
       </tuv>
@@ -7469,7 +7475,6 @@ Pensemos en la época. No sé si existían grifos en las casas. Seguramente habl
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM: auto</prop>
       <note>machinery ≠ ingenio
 
 Toda esta oración está mal. Está en pasiva, hay modificaciones léxicas innecesarias. El orden no es el mejor.</note>
