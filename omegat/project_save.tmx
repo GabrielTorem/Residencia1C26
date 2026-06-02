@@ -243,6 +243,15 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>(p. 61)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260602T140112Z" creationid="Gabriel" creationdate="20260602T140112Z">
+        <seg>(2004,p. 53)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>(rational human subjects) and res extensa (lifeless objects, including animals).</seg>
       </tuv>
@@ -2079,6 +2088,7 @@ Dijiste que podía dejar crimen.</note>
       </tuv>
     </tu>
     <tu>
+      <note>el giro es de Hurd</note>
       <tuv lang="en-US">
         <seg>Cultural productions, Hurd insists in an important displacement of neoclassical dominance, demand consideration on their own terms:</seg>
       </tuv>
@@ -3068,6 +3078,8 @@ Tenemos la trad de Cohen. Les paso.</note>
       </tuv>
     </tu>
     <tu>
+      <note>por qué anteponés adj.
+mala crítica vs crítica mala</note>
       <tuv lang="en-US">
         <seg>Hurd attacks, as a 'trite maxim' of bad criticism, the view that poets must imitate nature.</seg>
       </tuv>
@@ -3084,6 +3096,7 @@ Tenemos la trad de Cohen. Les paso.</note>
       </tuv>
     </tu>
     <tu>
+      <note>changing attitudes ≠ actitudes cambiantes en este contexto.</note>
       <tuv lang="en-US">
         <seg>Hurd's argument in favour of judging cultural productions according to the rules employed in their composition, and his case for a very different set of poetic values in which imagination and genius come to the fore and nature becomes the source of inspiration, can be aligned with changing attitudes to the relationship of art and nature.</seg>
       </tuv>
@@ -4546,6 +4559,7 @@ Se puede invertir S y P.</note>
       </tuv>
     </tu>
     <tu>
+      <note>tense</note>
       <tuv lang="en-US">
         <seg>Natural scenery, for example, was being perceived differently.</seg>
       </tuv>
