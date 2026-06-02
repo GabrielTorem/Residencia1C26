@@ -7400,6 +7400,18 @@ especially : one where animals and especially livestock come to drink
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM: auto</prop>
+      <note>machinery ≠ ingenio
+
+Toda esta oración está mal. Está en pasiva, hay modificaciones léxicas innecesarias. El orden no es el mejor.</note>
+      <tuv lang="en-US">
+        <seg>the daring machineries of giants, dragons and enchanted castles, borrowed from the magic storehouse of Boiardo, Ariosto and Tasso, began to be employed by the epic muse.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260602T132839Z" creationid="Gabriel" creationdate="20260602T132839Z">
+        <seg>el ingenio audaz de los gigantes, los dragones y los castillos encantados, prestado del tesoro mágico de Boiardo, Ariosto y Tasso, empezó a ser usado por la inspiración épica.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>x) accommodate the engagement with intertextuality through the use of parody.</seg>
       </tuv>
