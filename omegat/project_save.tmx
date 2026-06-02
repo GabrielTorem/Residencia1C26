@@ -48,6 +48,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## THE SUBLIME</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T035002Z" creationid="A" creationdate="20260602T035002Z">
+        <seg>## LO SUBLIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## The *Bildungsroman* and the humanist tradition</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260528T010452Z" creationid="tg" creationdate="20260403T203128Z">
@@ -200,6 +208,17 @@ a glosario: psychology of development</note>
       <tuv lang="es-ES" changeid="A" changedate="20260526T014330Z" creationid="A" creationdate="20260526T014330Z">
         <seg>(I, p. 111)
  :::
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(IV, p. 360)
+:::</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034422Z" creationid="A" creationdate="20260602T034422Z">
+        <seg>(IV, p. 360)
+:::
 </seg>
       </tuv>
     </tu>
@@ -707,6 +726,33 @@ is it not well known that the most flourishing and celebrated states of Europe o
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>:::{.paragraph-style=Quotation centered}
+the daring machineries of giants, dragons and enchanted castles, borrowed from the magic storehouse of Boiardo, Ariosto and Tasso, began to be employed by the epic muse.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034344Z" creationid="A" creationdate="20260602T034344Z">
+        <seg>el ingenio audaz de los gigantes, los dragones y los castillos encantados, prestado del tesoro mágico de Boiardo, Ariosto y Tasso, empezó a ser usado por la inspiración épica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:::{.paragraph-style=Quotation centered}
+were seduced by these barbarities of their forefathers; were even charmed by the Gothic Romances.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034601Z" creationid="A" creationdate="20260602T034601Z">
+        <seg>:::
+se dejaron seducir por estas barbaridades de sus antepasados; incluso quedaron cautivados por los romances góticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;&gt;When an architect examines a Gothic structure by Grecian rules, he finds nothing but deformity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034810Z" creationid="A" creationdate="20260602T034810Z">
+        <seg>&gt;&gt;Cuando un arquitecto examina la estructura gótica según los criterios griegos, no encuentra más que deformidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>discutir títulos de libros
 
 respetar los cortes de segmento</note>
@@ -1211,6 +1257,14 @@ v.p.</note>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260528T201943Z" creationid="Gabriel" creationdate="20260407T174031Z">
         <seg>Y es precisamente esto lo que H. H. acaba por desear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And may not the philosophic moderns have gone too far, in their perpetual ridicule and contempt of it?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034640Z" creationid="A" creationdate="20260602T034640Z">
+        <seg>¿Y no habrán ido demasiado lejos los filósofos modernos con su burla perpetua y desprecio hacia él?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1831,6 +1885,14 @@ No va coma vocativa, no está en el original.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>But the Gothic architecture has its own rules, by which when it comes to be examined, it is seen to have its merit, as well as the Grecian.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034822Z" creationid="A" creationdate="20260602T034822Z">
+        <seg>Pero la arquitectura gótica tiene sus propias reglas, y cuando se la examina según ellas, se reconoce su mérito, al igual que en la arquitectura griega.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>seductora, repensar.</note>
       <tuv lang="en-US">
         <seg>By displaying monsters in too attractive a light, vice rather than virtue might be promoted.</seg>
@@ -2003,6 +2065,14 @@ Dijiste que podía dejar crimen.</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260528T005052Z" creationid="tg" creationdate="20260419T211133Z">
         <seg>De igual modo, el crimen planteaba un desafío a la racionalidad en un mundo degenerado de motivaciones misteriosas pero claramente humanas y corruptas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cultural productions, Hurd insists in an important displacement of neoclassical dominance, demand consideration on their own terms:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034756Z" creationid="A" creationdate="20260602T034756Z">
+        <seg>Hurd insiste en que las producciones culturales, en un giro sustancial del predominio neoclásico, exigen consideración en sus propios términos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2617,6 +2687,14 @@ Clarificar.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Given the importance of classical forms of reason, knowledge, imitation and morality in eighteenth-century judgements, Hurd presents a major transformation of the function of criticism.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034852Z" creationid="A" creationdate="20260602T034852Z">
+        <seg>Dada la importancia de las formas clásicas de la razón, el conocimiento, la imitación y la moralidad en los juicios del siglo XVIII, Hurd presenta una gran transformación de la función de la crítica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good was affirmed in the contrast with evil; light and reason won out over darkness and superstition.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260423T203929Z" creationid="Soundwave" creationdate="20260423T203929Z">
@@ -2980,6 +3058,30 @@ Tenemos la trad de Cohen. Les paso.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hurd attacks, as a 'trite maxim' of bad criticism, the view that poets must imitate nature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034916Z" creationid="A" creationdate="20260602T034916Z">
+        <seg>Hurd ataca, como una «trillada máxima» de la crítica mala, la visión de que los poetas deben imitar la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hurd's *Letters,* however, do more than interrogate the homogeneity and consequent exclusiveness of neoclassical hierarchies of taste: towards the end of the work these hierarchies undergo a process of inversion.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034906Z" creationid="A" creationdate="20260602T034906Z">
+        <seg>Sin embargo, en sus *Cartas,* va más allá de cuestionar la homogeneidad y la exclusividad consecuente de las jerarquías neoclásicas del buen gusto: hacia el final de la obra, estas jerarquías experimentan un proceso de inversión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hurd's argument in favour of judging cultural productions according to the rules employed in their composition, and his case for a very different set of poetic values in which imagination and genius come to the fore and nature becomes the source of inspiration, can be aligned with changing attitudes to the relationship of art and nature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T035019Z" creationid="A" creationdate="20260602T035019Z">
+        <seg>El argumento de Hurd a favor de juzgar las producciones culturales según las reglas que se emplean en su composición, y su defensa de un conjunto muy diferente de valores poéticos en el que la imaginación y el genio pasan a primer plano y la naturaleza se convierte en fuente de inspiración, se puede alinear con las actitudes cambiantes de la relación entre arte y la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I am not sure just how I respond to the moral implication of this passage—I am not sure that with it, as with other passages in which H. H.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Gabriel" changedate="20260407T182157Z" creationid="Soundwave" creationdate="20260403T185044Z">
@@ -3327,6 +3429,14 @@ no solo / sino también es calco estr.</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260526T014023Z" creationid="A" creationdate="20260526T014023Z">
         <seg>En su libro *The Progress of* *Romance* [*El progreso del* *romance*] (1785), Clara Reeve, escritora de romances góticos e históricos, esbozó en términos muy johnsonianos una definición del romance y la novela, al tiempo que reconocía el poder seductor de la ficción:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In his *Letters on Chivalry and Romance* (1762), Richard Hurd is critical of the violence of neoclassical prejudices.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034501Z" creationid="A" creationdate="20260602T034501Z">
+        <seg>Richard Hurd critica la violencia de los prejuicios neoclásicos en su obra *Cartas sobre la caballería y el romance* (1762).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3765,6 +3875,14 @@ Mejorar redacción.</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instead, poetry should indulge imagination and range in marvellous, magical and extraordinary worlds, worlds that are associated with forms of nature that evoke a sense of wonder (pp. 91--4).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034950Z" creationid="A" creationdate="20260602T034950Z">
+        <seg>Y que la poesía debería dar rienda suelta a la imaginación, así como adentrarse en mundos maravillosos, mágicos y extraordinarios, mundos asociados a las formas de la naturaleza que evocan una sensación de asombro (pp. 91-4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Instead, the precepts of classical writers like Horace and Plutarch are recommended.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260528T004116Z" creationid="tg" creationdate="20260427T002520Z">
@@ -3786,6 +3904,14 @@ Mejorar redacción.</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260407T160545Z" creationid="A" creationdate="20260407T160545Z">
         <seg>Introducción </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invoking the acknowledged literary value associated with these writers, Hurd is able to defend the Gothic tradition against the extremes of eighteenth-century judgement.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034708Z" creationid="A" creationdate="20260602T034708Z">
+        <seg>Hurd logra defender la tradición gótica frente a los extremismos de los juicios del siglo XVIII invocando el valor literario reconocido asociado a estos escritores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4343,6 +4469,14 @@ prohibitivas</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mountains, once considered as ugly blemishes, deformities disfiguring the proportions of a world that ideally should be uniform, flat and symmetrical, began to be seen with eyes pleased by their irregularity, diversity and scale.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T035046Z" creationid="A" creationdate="20260602T035046Z">
+        <seg>Las montañas, que antes se consideraban imperfecciones desagradables, deformidades que desfiguraban las proporciones de un mundo que debía ser idealmente uniforme, plano y simétrico, empezaron a verse con ojos que se deleitaban con su irregularidad, diversidad y escala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving from real and toy animals to posthuman corpses, the non-human community escalates in a way that echoes Ballard’s progressive alienation and dehumanization.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260528T010046Z" creationid="tg" creationdate="20260404T201246Z">
@@ -4396,6 +4530,14 @@ Se puede invertir S y P.</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260502T213126Z" creationid="Gabriel" creationdate="20260407T145508Z">
         <seg>El haber mencionado a Denis de Rougemont y su embestida curiosa, tardía y superflua contra el amor denota que tengo en mente lo que creo recordar que él llama amor-pasión, una clase de amor con el que tuvo que lidiar desde siempre la literatura europea, pero con una intensidad especial desde los romances artúricos y el código del amor cortesano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Natural scenery, for example, was being perceived differently.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T035029Z" creationid="A" creationdate="20260602T035029Z">
+        <seg>El paisaje natural, por ejemplo, se percibía diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4703,6 +4845,14 @@ romance y tale a glosario</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Or, may there not be something in the Gothic Romance peculiarly suited to the views of a genius, and to the ends of poetry?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034629Z" creationid="A" creationdate="20260602T034629Z">
+        <seg>¿O tal vez no habrá algo en el romance gótico que se adapte especialmente a la visión de un genio y a los fines de la poesía?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Or, “In the black smokehole overhead the remote and lidless stars of the Pleiades burned cold and absolute” (p. 101).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260419T143504Z" creationid="Soundwave" creationdate="20260419T143504Z">
@@ -4822,6 +4972,14 @@ lovely ≠ amada</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260421T013920Z" creationid="A" creationdate="20260421T013843Z">
         <seg>Como señala K. L. Poe, el escenario es «[c]rucial para la estructura narrativa del *Bildungsroman*», hasta el punto de ser «prácticamente un personaje en sí mismo» (2002, p. 147; cursiva en el original).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poetical truth, he argues, lies beyond the bounds of a natural order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034939Z" creationid="A" creationdate="20260602T034939Z">
+        <seg>Además, aduce que la verdad poética trasciende los límites de un orden natural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5284,6 +5442,14 @@ postmodern parody a glosario
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Such strong criticisms questioned the limits of neoclassical aesthetic values by developing, on the basis of romantic texts, different ideas about art, originality and nature.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034441Z" creationid="A" creationdate="20260602T034441Z">
+        <seg>Con estas críticas duras se cuestionaban los límites de los valores neoclásicos estéticos, ya que sobre la base de los textos románticos, se promovían concepciones diferentes acerca del arte, la originalidad y la naturaleza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Such terrors, emerging from the gloom of a castle or lurking in the dark features of the villain, were also the source of pleasure, stimulating excitements which blurred definitions of reason and morality and, critics feared, encouraging readers’ decline into depravity and corruption.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260528T202923Z" creationid="Soundwave" creationdate="20260422T212341Z">
@@ -5389,6 +5555,22 @@ ethos iría en cursiva. La manera de indicarlo es con asteriscos: *ethos*</note>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The *Letters on Chivalry and Romance* not only challenge the prejudices of neoclassical criticism, they also begin a process of reevaluation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034737Z" creationid="A" creationdate="20260602T034737Z">
+        <seg>En las *Cartas sobre la caballería y el romance,* además de que se cuestionan los prejuicios de la crítica neoclásica, también se inicia un proceso de reevaluación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The *Letters* argue that romances are derived from societies structured by chivalry and feudal customs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034514Z" creationid="A" creationdate="20260602T034514Z">
+        <seg>En ellas sostiene que los romances provienen de sociedades estructuradas por la caballería y las costumbres feudales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Cartesian self implodes into a “dangling” subject in a body that alternates between “the frenzy of the schizoid ego and the inertia of hermeticism” with its organs hanging out (Kroker, 1987, p. 185).</seg>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260528T005834Z" creationid="tg" creationdate="20260417T000544Z">
@@ -5414,6 +5596,14 @@ concord.</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260528T010305Z" creationid="tg" creationdate="20260404T194125Z">
         <seg>El aislamiento frankensteiniano y la focalización claustrofóbica en Ballard ponen de manifiesto el individualismo y la preocupación por la formación de la identidad individual en la novela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Gothic influence is, moreover, bound up with the genius of these poets, making a significant contribution to the imaginative power of their poetry: Hurd contends that Spenser and Milton When most inflamed', poetically speaking, were 'more particularly rapt with the Gothic fables of chivalry' (p. 55).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034720Z" creationid="A" creationdate="20260602T034720Z">
+        <seg>La influencia gótica, además, está ligada al genio de estos poetas en cuanto a la contribución significativa del poder imaginativo de su poesía: Hurd sostiene que Spenser y Milton «en sus momentos de mayor inspiración» en términos poéticos, se sentían «más particularmente absortos ante las fábulas góticas de la caballería» (p. 55).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,6 +5674,14 @@ ascendancy ≠ dominio</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260521T211914Z" creationid="tg" creationdate="20260420T005538Z">
         <seg>Para ellos, el atractivo de la literatura gótica residía en su oposición al realismo y al racionalismo, en su búsqueda de un ámbito situado más allá del mundo empírico y material, un ámbito de lo misterioso, lo místico y lo sagrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The argument, however, does not make its case with an analysis of medieval romances but focuses on writings that draw heavily upon them for their poetical effect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034527Z" creationid="A" creationdate="20260602T034527Z">
+        <seg>Sin embargo, el argumento no se sustenta en un análisis de los romances medievales, sino que se centra en obras que se inspiran, en gran medida, en ellos para lograr su efecto poético.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6376,6 +6574,14 @@ No remplazar asteriscos por comillas</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>These ornaments have been censured by the bigotry of precise and servile critics, as abounding in whimsical absurdities, and as unwarrantable deviations from the practice of Homer and Virgil.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034356Z" creationid="A" creationdate="20260602T034356Z">
+        <seg>Estos ornamentos han sido censurados por la intolerancia de críticos puntillosos y serviles, puesto que abundan en absurdos fantasiosos, y poseen desviaciones injustificadas de las prácticas de Homero y Virgilio.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>these
 concordancia</note>
       <tuv lang="en-US">
@@ -6392,6 +6598,14 @@ concordancia</note>
       </tuv>
       <tuv lang="es-ES" changeid="tg" changedate="20260528T001958Z" creationid="tg" creationdate="20260427T004047Z">
         <seg>Tales eran los pensamientos que evocaban los poetas de las tumbas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These writers, Hurd states, included Ariosto, Tasso, Spenser, Shakespeare and Milton, and</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034540Z" creationid="A" creationdate="20260602T034540Z">
+        <seg>Estos escritores, afirma Hurd, incluso Ariosto, Tasso, Spenser, Shakespeare y Milton</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,6 +7089,14 @@ Podemos mover circunstanciales.</note>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260410T002115Z" creationid="borrar" creationdate="20260402T131917Z">
         <seg>*Lolita* de Vladimir Nabokov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Was this caprice and absurdity in them?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T034615Z" creationid="A" creationdate="20260602T034615Z">
+        <seg>¿Acaso había capricho y absurdo en ellos?</seg>
       </tuv>
     </tu>
     <tu>
