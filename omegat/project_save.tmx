@@ -243,6 +243,14 @@ a glosario: psychology of development</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>(p. 4)</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260602T140805Z" creationid="Gabriel" creationdate="20260602T140805Z">
+        <seg>(p. 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM: auto</prop>
       <tuv lang="en-US">
         <seg>(p. 61)</seg>
@@ -5198,6 +5206,7 @@ v.p.
       </tuv>
     </tu>
     <tu>
+      <note>plural en adjs que modifican a más de un sust.</note>
       <tuv lang="en-US">
         <seg>Sacred nature, glimpsed in sublime settings and evoked by old poetry and buildings, ceded to the genius and creative power of a sacred self.</seg>
       </tuv>
@@ -6369,6 +6378,7 @@ donde, pensar</note>
       </tuv>
     </tu>
     <tu>
+      <note>¿natural sublime será término?</note>
       <tuv lang="en-US">
         <seg>The vastness that had been glimpsed in the natural sublime became the mirror of the immensity of the human mind.</seg>
       </tuv>
