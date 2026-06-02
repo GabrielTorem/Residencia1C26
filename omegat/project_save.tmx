@@ -3306,6 +3306,8 @@ account ≠ relato</note>
       </tuv>
     </tu>
     <tu>
+      <note>"colaborador" es un término contemporáneo, un anacronismo.
+¿La cita estaba en español?</note>
       <tuv lang="en-US">
         <seg>In 1739 one contributor to *Common Sense* wrote: 'Methinks there was something respectable in those old hospitable Gothick halls, hung round with the Helmets, Breast-plates, and Swords of our Ancestors; I entered them with a Constitutional Sort of Reverence and look'd upon those arms with Gratitude, as the Terror of former Ministers, and the Check of Kings' (Kliger, p. 27).</seg>
       </tuv>
@@ -4343,6 +4345,7 @@ Creo que la figura de lo subterráneo debe mantenerse</note>
       </tuv>
     </tu>
     <tu>
+      <note>pensemos el término Constitution</note>
       <tuv lang="en-US">
         <seg>Like the durability of Gothic buildings, these relics are reminders of the 'noble Strength and Simplicity' of the Gothic Constitution.</seg>
       </tuv>
@@ -4950,7 +4953,9 @@ romance y tale a glosario</note>
       </tuv>
     </tu>
     <tu>
-      <note>Duda:aquí es ¿cultura gótica o cultura de los pueblos godos?</note>
+      <note>Duda:aquí es ¿cultura gótica o cultura de los pueblos godos?
+
+Lo pensamos hoy en conjunto</note>
       <tuv lang="en-US">
         <seg>Paul-Henri Mallett's Preface to his 1755 account of the early history of the Germanic tribes, translated by Percy as *Northern Antiquities* (1770), outlines these aspects of Gothic culture.</seg>
       </tuv>
@@ -6135,6 +6140,7 @@ Locus a glosario
       </tuv>
     </tu>
     <tu>
+      <note>Referente</note>
       <tuv lang="en-US">
         <seg>The native culture that it referred to was one composed of those indigenous peoples and invaders whose occupation preceded the invasions of the Romans.</seg>
       </tuv>
@@ -7374,6 +7380,15 @@ agregar passion-love al glosario</note>
       </tuv>
       <tuv lang="es-ES" changeid="Profesorado" changedate="20260407T233233Z" creationid="Soundwave" creationdate="20260403T184834Z">
         <seg>pero, gracias a Dios, no era solo ese eco lo que yo adoraba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM: auto</prop>
+      <tuv lang="en-US">
+        <seg>is it not well known that the most flourishing and celebrated states of Europe owe originally to the northern nations, whatever liberty they now enjoy, either in their constitution, or in the spirit of their government?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Gabriel" changedate="20260602T143903Z" creationid="Gabriel" creationdate="20260602T143903Z">
+        <seg>¿No es bien sabido que los estados más prósperos y célebres de Europa deben a las naciones del norte, originariamente, toda la libertad de que hoy gozan, ya sea en su constitución o en el espíritu de su gobierno?</seg>
       </tuv>
     </tu>
     <tu>
