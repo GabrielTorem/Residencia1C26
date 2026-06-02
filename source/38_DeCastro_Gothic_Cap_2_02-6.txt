@@ -7,5 +7,5 @@ The terror was akin to the sense of wonderment and awe accompanying religious ex
 The interest in the sublime is crucial in the reappraisal of artefacts from the Gothic ages. Implicated in the transformation of ideas concerning nature and its relation to art, both Gothic and sublime objects also participated in a transformation of notions of individuality, in the minds relation to itself as well as to natural, cultural and metaphysical worlds. John Baillie's *An Essay on the* *Sublime* (1747) gives a powerful account of what the sublime meant for an individual's sense of self:
 
 
-:::{.paragraph-style=Quotation centered}
+:::{custom-style=Quotation centered}
 Hence comes the Name of *Sublime* to everything which thus raises the Mind to fits of *Greatness* and disposes it to soar above her *Mother Earth;* Hence arises that *Exultation* and *Pride* which the Mind ever feels from the *Consciousness* of its own *Vastness*—That *Object* only can be justly called *Sublime,* which in some degree disposes the Mind to this *Enlargement* of itself, and gives her a lofty *Conception* of her own *Powers*.
