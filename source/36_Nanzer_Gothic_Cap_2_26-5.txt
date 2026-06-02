@@ -2,7 +2,7 @@ Graveyard poetry, its injunctions to nocturnal speculation on human finitude and
 
 The attractions of darkness, however, and the power of the images and visions it engendered were not lost on other poets associated with the melancholy evocations of the Graveyard school. William Collins's 'Ode to Fear' (1746) describes the fanciful and shadowy shapes, the monsters, giants and phantoms that the emotion produces. These figures testify less to the power of the grave in elevating thought to spiritual matters and more to the power of imagination:
 
-:::{custom-style="Quotation centered"}
+:::{custom-style="Quotations centered"}
 Dark power, with shuddering meek submitted thought,
 
 Be mine, to read the visions old,
