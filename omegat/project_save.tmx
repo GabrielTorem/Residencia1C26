@@ -170,8 +170,8 @@ a glosario: psychology of development</note>
       <tuv lang="en-US">
         <seg>(Anon., *Terrorist Novel Writing,* p. 229) Other staple Gothic ingredients could be added to the recipe offered by an anonymous critic in an essay entitled 'Terrorist Novel Writing' (1797): dark subterranean vaults, decaying abbeys, gloomy forests, jagged mountains and wild scenery inhabited by bandits, persecuted heroines, orphans, and malevolent aristocrats.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204217Z" creationid="Soundwave" creationdate="20260522T204112Z">
-        <seg>(Anónimo, *Escritura de novelas terroríficas*, p. 229). A la receta que propuso un crítico anónimo en un ensayo titulado «Escritura de novelas terroríficas» (1797) podrían sumarse otros ingredientes habituales del gótico: criptas subterráneas en penumbras, abadías en ruinas, bosques sombríos, montañas escarpadas y paisajes agrestes poblados por bandidos, heroínas perseguidas, huérfanos y aristócratas malévolos.</seg>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260602T225427Z" creationid="Soundwave" creationdate="20260522T204112Z">
+        <seg>(Anónimo, *Terrorist Novel Writing* ^Escritura de novelas terroríficas*, p. 229). A la receta que propuso un crítico anónimo en un ensayo titulado «Escritura de novelas terroríficas» (1797) podrían sumarse otros ingredientes habituales del gótico: criptas subterráneas en penumbras, abadías en ruinas, bosques sombríos, montañas escarpadas y paisajes agrestes poblados por bandidos, heroínas perseguidas, huérfanos y aristócratas malévolos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6842,8 +6842,8 @@ Invertir S y P</note>
       <tuv lang="en-US">
         <seg>Though many devices and settings were repeated, they were inflected differently.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Soundwave" changedate="20260522T204515Z" creationid="Soundwave" creationdate="20260522T204515Z">
-        <seg>Aunque muchos recursos y escenarios se repetían, cada uno adquiría variaciones propias.</seg>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260602T225517Z" creationid="Soundwave" creationdate="20260522T204515Z">
+        <seg>Aunque muchos recursos y escenarios se repetían, cada uno adquiría inflecciones propias.</seg>
       </tuv>
     </tu>
     <tu>
