@@ -777,8 +777,8 @@ se dejaron seducir por estas barbaridades de sus antepasados; incluso quedaron c
         <seg>:::{custom-style="Quotations centered"}
 the daring machineries of giants, dragons and enchanted castles, borrowed from the magic storehouse of Boiardo, Ariosto and Tasso, began to be employed by the epic muse.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Profesorado" changedate="20260602T211356Z" creationid="Profesorado" creationdate="20260602T211356Z">
-        <seg>el ingenio audaz de los gigantes, los dragones y los castillos encantados, prestado del tesoro mágico de Boiardo, Ariosto y Tasso, empezó a ser usado por la inspiración épica.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T220806Z" creationid="Profesorado" creationdate="20260602T211356Z">
+        <seg>la musa épica empezó a valerse de las maquinarias audaces de los gigantes, los dragones y los castillos encantados, tomados del tesoro mágico de Boiardo, Ariosto y Tasso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1309,6 +1309,9 @@ v.p.</note>
       </tuv>
     </tu>
     <tu>
+      <note>escuela de modernos filosóficos, buscar
+
+</note>
       <tuv lang="en-US">
         <seg>And may not the philosophic moderns have gone too far, in their perpetual ridicule and contempt of it?</seg>
       </tuv>
@@ -2121,8 +2124,8 @@ Dijiste que podía dejar crimen.</note>
       <tuv lang="en-US">
         <seg>Cultural productions, Hurd insists in an important displacement of neoclassical dominance, demand consideration on their own terms:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260602T034756Z" creationid="A" creationdate="20260602T034756Z">
-        <seg>Hurd insiste en que las producciones culturales, en un giro sustancial del predominio neoclásico, exigen consideración en sus propios términos:</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T214612Z" creationid="A" creationdate="20260602T034756Z">
+        <seg>En un giro sustancial del predominio neoclásico, Hurd insiste en que las producciones culturales exigen consideración en sus propios términos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3108,12 +3111,14 @@ Tenemos la trad de Cohen. Les paso.</note>
     </tu>
     <tu>
       <note>por qué anteponés adj.
-mala crítica vs crítica mala</note>
+mala crítica vs crítica mala
+
+ver mala, sinónimo</note>
       <tuv lang="en-US">
         <seg>Hurd attacks, as a 'trite maxim' of bad criticism, the view that poets must imitate nature.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260602T034916Z" creationid="A" creationdate="20260602T034916Z">
-        <seg>Hurd ataca, como una «trillada máxima» de la crítica mala, la visión de que los poetas deben imitar la naturaleza.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T214828Z" creationid="A" creationdate="20260602T034916Z">
+        <seg>Hurd ataca, como una «máxima trillada» de la crítica mala, la visión de que los poetas deben imitar la naturaleza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3129,8 +3134,8 @@ mala crítica vs crítica mala</note>
       <tuv lang="en-US">
         <seg>Hurd's argument in favour of judging cultural productions according to the rules employed in their composition, and his case for a very different set of poetic values in which imagination and genius come to the fore and nature becomes the source of inspiration, can be aligned with changing attitudes to the relationship of art and nature.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260602T035019Z" creationid="A" creationdate="20260602T035019Z">
-        <seg>El argumento de Hurd a favor de juzgar las producciones culturales según las reglas que se emplean en su composición, y su defensa de un conjunto muy diferente de valores poéticos en el que la imaginación y el genio pasan a primer plano y la naturaleza se convierte en fuente de inspiración, se puede alinear con las actitudes cambiantes de la relación entre arte y la naturaleza.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T215358Z" creationid="A" creationdate="20260602T035019Z">
+        <seg>El argumento de Hurd a favor de juzgar las producciones culturales según las reglas que se emplean en su composición, y su defensa de un conjunto muy diferente de valores poéticos en el que la imaginación y el genio pasan a primer plano y la naturaleza se convierte en fuente de inspiración, se puede alinear con los cambios de  actitud hacia la relación entre el arte y la naturaleza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3963,7 +3968,8 @@ Mejorar redacción.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Pensemos por qué esta trasposición</note>
+      <note>Pensemos por qué esta trasposición
+</note>
       <tuv lang="en-US">
         <seg>Invoking the acknowledged literary value associated with these writers, Hurd is able to defend the Gothic tradition against the extremes of eighteenth-century judgement.</seg>
       </tuv>
@@ -4595,8 +4601,8 @@ Se puede invertir S y P.</note>
       <tuv lang="en-US">
         <seg>Natural scenery, for example, was being perceived differently.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260602T035029Z" creationid="A" creationdate="20260602T035029Z">
-        <seg>El paisaje natural, por ejemplo, se percibía diferente.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T215443Z" creationid="A" creationdate="20260602T035029Z">
+        <seg>El paisaje natural, por ejemplo, se empieza a percibir diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5508,8 +5514,8 @@ Mejor valores estéticos neoclásicos</note>
       <tuv lang="en-US">
         <seg>Such strong criticisms questioned the limits of neoclassical aesthetic values by developing, on the basis of romantic texts, different ideas about art, originality and nature.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260602T034441Z" creationid="A" creationdate="20260602T034441Z">
-        <seg>Con estas críticas duras se cuestionaban los límites de los valores neoclásicos estéticos, ya que sobre la base de los textos románticos, se promovían concepciones diferentes acerca del arte, la originalidad y la naturaleza.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T225212Z" creationid="A" creationdate="20260602T034441Z">
+        <seg>Estas críticas duras cuestionaban los límites de los valores neoclásicos estéticos, ya que sobre la base de los textos románticos, se promovían concepciones diferentes acerca del arte, la originalidad y la naturaleza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5663,13 +5669,15 @@ concord.</note>
       </tuv>
     </tu>
     <tu>
-      <note>en cuanto a --&gt; s
+      <note>
+en cuanto a --&gt; s
+sifnificativa
 </note>
       <tuv lang="en-US">
         <seg>The Gothic influence is, moreover, bound up with the genius of these poets, making a significant contribution to the imaginative power of their poetry: Hurd contends that Spenser and Milton When most inflamed', poetically speaking, were 'more particularly rapt with the Gothic fables of chivalry' (p. 55).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260602T034720Z" creationid="A" creationdate="20260602T034720Z">
-        <seg>La influencia gótica, además, está ligada al genio de estos poetas en cuanto a la contribución significativa del poder imaginativo de su poesía: Hurd sostiene que Spenser y Milton «en sus momentos de mayor inspiración» en términos poéticos, se sentían «más particularmente absortos ante las fábulas góticas de la caballería» (p. 55).</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T225530Z" creationid="A" creationdate="20260602T034720Z">
+        <seg>La influencia gótica, además, está ligada al genio de estos poetas que contribuyó significativamente al poder imaginativo de su poesía: Hurd sostiene que Spenser y Milton «en sus momentos de mayor inspiración» en términos poéticos, se sentían «más particularmente absortos ante las fábulas góticas de la caballería» (p. 55).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6649,8 +6657,8 @@ No remplazar asteriscos por comillas</note>
       <tuv lang="en-US">
         <seg>These ornaments have been censured by the bigotry of precise and servile critics, as abounding in whimsical absurdities, and as unwarrantable deviations from the practice of Homer and Virgil.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260602T034356Z" creationid="A" creationdate="20260602T034356Z">
-        <seg>Estos ornamentos han sido censurados por la intolerancia de críticos puntillosos y serviles, puesto que abundan en absurdos fantasiosos, y poseen desviaciones injustificadas de las prácticas de Homero y Virgilio.</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T222107Z" creationid="A" creationdate="20260602T034356Z">
+        <seg>La intolerancia de críticos puntillosos y serviles ha censurado estos ornamentos, puesto que abundan en absurdos fantasiosos, y poseen desviaciones injustificadas de las prácticas de Homero y Virgilio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6676,8 +6684,8 @@ concordancia</note>
       <tuv lang="en-US">
         <seg>These writers, Hurd states, included Ariosto, Tasso, Spenser, Shakespeare and Milton, and</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="A" changedate="20260602T034540Z" creationid="A" creationdate="20260602T034540Z">
-        <seg>Estos escritores, afirma Hurd, incluso Ariosto, Tasso, Spenser, Shakespeare y Milton</seg>
+      <tuv lang="es-ES" changeid="A" changedate="20260602T213330Z" creationid="A" creationdate="20260602T034540Z">
+        <seg>Estos escritores, afirma Hurd, entre ellos Ariosto, Tasso, Spenser, Shakespeare y Milton</seg>
       </tuv>
     </tu>
     <tu>
