@@ -65,3 +65,5 @@ folklore	folklore/folclore	1. Conjunto de costumbres, creencias, artesanías, ca
 The Enthusiast	El entusiasta	Pato; 26/5/26; dar fuente
 lover	amante	enamorado - enamorada
 natural sublime	sublime natural	tg; 3/6/26
+Gothic revival	resurgimiento del gótico	cdc; 4/6/26
+wilderness	páramo	cdc; 4/6/26
