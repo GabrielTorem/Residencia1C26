@@ -3342,12 +3342,12 @@ account ≠ relato</note>
     </tu>
     <tu>
       <note>"colaborador" es un término contemporáneo, un anacronismo.
-¿La cita estaba en español?</note>
+¿La cita estaba en español? No, es traducción propia.</note>
       <tuv lang="en-US">
         <seg>In 1739 one contributor to *Common Sense* wrote: 'Methinks there was something respectable in those old hospitable Gothick halls, hung round with the Helmets, Breast-plates, and Swords of our Ancestors; I entered them with a Constitutional Sort of Reverence and look'd upon those arms with Gratitude, as the Terror of former Ministers, and the Check of Kings' (Kliger, p. 27).</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260528T011450Z" creationid="tg" creationdate="20260427T193346Z">
-        <seg>En 1739, uno de los colaboradores de la revista *Common Sense* escribió: «Me parece que había algo respetable en aquellas salas góticas antiguas y acogedoras, adornadas con yelmos, corazas y espadas de nuestros antepasados; entré en ellas con una especie de reverencia constitucional y contemplé esas armas con gratitud, como el terror de exministros y el freno a los reyes» (Kliger, p. 27).</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260604T021417Z" creationid="tg" creationdate="20260427T193346Z">
+        <seg>En 1739, uno de los redactores de la revista *Common Sense* escribió: «Me parece que había algo respetable en aquellas salas góticas antiguas y acogedoras, adornadas con yelmos, corazas y espadas de nuestros antepasados; entré en ellas con una especie de reverencia constitucional y contemplé esas armas con gratitud, como el terror de exministros y el freno a los reyes» (Kliger, p. 27).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4385,8 +4385,8 @@ Creo que la figura de lo subterráneo debe mantenerse</note>
       <tuv lang="en-US">
         <seg>Like the durability of Gothic buildings, these relics are reminders of the 'noble Strength and Simplicity' of the Gothic Constitution.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260602T042101Z" creationid="tg" creationdate="20260427T193407Z">
-        <seg>Al igual que la durabilidad de los edificios góticos, estas reliquias son un recuerdo de la «fuerza y simplicidad nobles» de la constitución gótica.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260604T021445Z" creationid="tg" creationdate="20260427T193407Z">
+        <seg>Al igual que la durabilidad de los edificios góticos, estas reliquias son un recuerdo de la «fuerza y simplicidad nobles» de la naturaleza gótica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6079,8 +6079,8 @@ Traducción propia de la cita (no encontré nada en español).
       <tuv lang="en-US">
         <seg>The hierarchical relation of the meanings of 'Gothic' and 'Roman' was far less clear than eighteenth-century critics made out: privileged meanings of 'Gothic' or 'classical' alternated, polarised by the political positions of Whig or Tory that employed the terms.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260602T041050Z" creationid="tg" creationdate="20260427T193452Z">
-        <seg>La relación jerárquica de los significados de «gótico» y «romano» era mucho menos clara de lo que sostenían los críticos del siglo XVIII: los significados privilegiados de «gótico» o «clásico» se alternaban, polarizados por las posiciones políticas *whig* o *tory* que empleaban dichos términos.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260604T021526Z" creationid="tg" creationdate="20260427T193452Z">
+        <seg>La relación jerárquica de los significados de «gótico» y «romano» era mucho menos clara de lo que sostenían los críticos del siglo XVIII: los significados privilegiados de «gótico» o «clásico» se alternaban, polarizados por las posiciones políticas de los *whig* o *tory* que empleaban dichos términos.</seg>
       </tuv>
     </tu>
     <tu>
