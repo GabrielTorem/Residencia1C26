@@ -775,6 +775,15 @@ se dejaron seducir por estas barbaridades de sus antepasados; incluso quedaron c
     <tu>
       <tuv lang="en-US">
         <seg>:::{custom-style="Quotations centered"}
+is it not well known that the most flourishing and celebrated states of Europe owe originally to the northern nations, whatever liberty they now enjoy, either in their constitution, or in the spirit of their government?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="tg" changedate="20260604T021014Z" creationid="tg" creationdate="20260604T021014Z">
+        <seg>¿No es bien sabido que los estados más prósperos y célebres de Europa deben a las naciones del norte, originariamente, toda la libertad de que hoy gozan, ya sea en su constitución o en el espíritu de su gobierno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>:::{custom-style="Quotations centered"}
 the daring machineries of giants, dragons and enchanted castles, borrowed from the magic storehouse of Boiardo, Ariosto and Tasso, began to be employed by the epic muse.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="A" changedate="20260602T220806Z" creationid="Profesorado" creationdate="20260602T211356Z">
@@ -6176,8 +6185,8 @@ Locus a glosario
       <tuv lang="en-US">
         <seg>The native culture that it referred to was one composed of those indigenous peoples and invaders whose occupation preceded the invasions of the Romans.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="tg" changedate="20260601T191724Z" creationid="tg" creationdate="20260427T193237Z">
-        <seg>La cultura autóctona a la que hacía referencia estaba compuesta por aquellos pueblos indígenas e invasores cuyo asentamiento precedió a las invasiones romanas.</seg>
+      <tuv lang="es-ES" changeid="tg" changedate="20260604T021313Z" creationid="tg" creationdate="20260427T193237Z">
+        <seg>La cultura autóctona a la que este término hacía referencia estaba compuesta por aquellos pueblos indígenas e invasores cuyo asentamiento precedió a las invasiones romanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6316,7 +6325,6 @@ Locus a glosario
       </tuv>
     </tu>
     <tu>
-      <note>duda: gótica o de los godos.</note>
       <tuv lang="en-US">
         <seg>The significance of Gothic culture was cited in British political discussions from the mid-seventeenth century.</seg>
       </tuv>
