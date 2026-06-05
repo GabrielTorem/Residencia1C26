@@ -67,3 +67,10 @@ lover	amante	enamorado - enamorada
 natural sublime	sublime natural	tg; 3/6/26
 Gothic revival	resurgimiento del gótico	cdc; 4/6/26
 wilderness	páramo	cdc; 4/6/26
+postmodern Gothic studies	estudios góticos posmodernos	1. Analizan las transformaciones que se vienen llevando a cabo en el género gótico desde los años 70 hasta la actualidad en los ámbitos de la ficción, las artes visuales y otras formas de cultura. ab; 3/6/26
+Gothic	gótico	1. ab; 3/6/26
+determinacy	determinación	1. ab; 3/6/26
+counter-narrative	contranarrativa	1. ab; 3/6/26
+anxieties	ansiedades	ab; 3/6/26
+stock feature	característica existente	ab; 3/6/26
+critical ironic distance	distancia irónica crítica	ab; 3/6/26
