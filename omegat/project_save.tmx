@@ -663,6 +663,15 @@ No aparece en glosario. Probamos en clase de nuevo. Si no, enviame las entradas 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>::: {.Quotations centered}
+There she was with her ruined looks and her adult, rope-veined narrow hands and her gooseflesh white arms, and her shallow ears, and her unkempt armpits, there she was (my *Lolita*!), hopelessly worn at seventeen, with that baby, dreaming already in her of becoming a big shot and retiring around A.D.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260609T225140Z" creationid="Profesorado" creationdate="20260609T225140Z">
+        <seg>{.Quotation centered} Allí estaba ella, con su aspecto arruinado y sus manos estrechas de mujer adulta, tensadas por venas como cuerdas, y sus brazos blancos erizados, y sus orejas poco profundas, y sus axilas descuidadas; allí estaba (¡mi Lolita!), irremediablemente marchitada a los diecisiete años, con ese bebé, soñando ya con hacerse alguien y retirarse hacia el año 2020 D.C </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>:::{.Quotation centered}
 (1) the idea of &lt;u&gt;Bildung&lt;/u&gt;, or formation… shaping of a single main character, normally of a young man; (2) individualism, especially the emphasis on the uniqueness of the protagonist and the primacy of his private life and thoughts, although these are at the same time representative of an age and culture; (3) the biographical element… in what Dilthey calls the ‘conscious and artistic presentation of what is typically human through the depiction of a particular individual life’; (4) the connection with psychology, especially the then-new psychology of development; and (5) the ideal of humanity, of the full realization of all human potential as the goal of life.’ (1968, p.</seg>
       </tuv>
@@ -5382,6 +5391,14 @@ ver "sea"</note>
         <seg>She was only the faint violet whiff and dead leaf echo of the nymphet I had rolled myself upon with such cries in the past; an echo on the brink of a russet ravine, with a far wood under a white sky, and brown leaves choking the brook and one last cricket in the crisp weeds...</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Soundwave" changedate="20260408T211952Z" creationid="Soundwave" creationdate="20260403T184818Z">
+        <seg>Ella no era sino el tenue efluvio violáceo y el eco de hoja muerta de la nínfula sobre la cual me había arrojado con tales clamores en el pasado; un eco al borde de un barranco rojizo, con un bosque remoto bajo un cielo blanco, y hojas pardas sofocando el arroyo y un último grillo entre la maleza seca... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She was only the faint violet whiff and dead leaf echo of the nymphet I had rolled myself upon with such cries in the past; an echo on the brink of a russet ravine, with a far wood under a white sky, and brown leaves choking the brook and one last cricket in the crisp weeds... but thank God it was not that echo alone that I worshipped.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Profesorado" changedate="20260609T225157Z" creationid="Profesorado" creationdate="20260609T225157Z">
         <seg>Ella no era sino el tenue efluvio violáceo y el eco de hoja muerta de la nínfula sobre la cual me había arrojado con tales clamores en el pasado; un eco al borde de un barranco rojizo, con un bosque remoto bajo un cielo blanco, y hojas pardas sofocando el arroyo y un último grillo entre la maleza seca... </seg>
       </tuv>
     </tu>
